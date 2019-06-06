@@ -1,0 +1,120 @@
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR159a
+length: 21
+
+mfe: -33.4 kcal/mol
+p-value: 0.002005
+
+position:  1381
+target 5' A     A             U 3'
+           GGGGU CCCUUCAGUCCAG 
+           UCUCG GGGAAGUUAGGUU 
+miRNA  3' A     A             U 5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR159b
+length: 21
+
+mfe: -33.3 kcal/mol
+p-value: 0.001910
+
+position:  1380
+target 5' A      A             U 3'
+           AGGGGU CCCUUCAGUCCAG 
+           UUCUCG GGGAAGUUAGGUU 
+miRNA  3'        A             U 5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR159c
+length: 21
+
+mfe: -36.0 kcal/mol
+p-value: 0.000628
+
+position:  1380
+target 5' A      A             U 3'
+           AGGGGU CCCUUCAGUCCAG 
+           UCCUCG GGGAAGUUAGGUU 
+miRNA  3'        A             U 5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR319a
+length: 21
+
+mfe: -37.3 kcal/mol
+p-value: 0.000586
+
+position:  1380
+target 5' A       A             U 3'
+           AGGG GU CCCUUCAGUCCAG 
+           UCCC CG GGGAAGUCAGGUU 
+miRNA  3'      U  A               5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR319b
+length: 21
+
+mfe: -37.3 kcal/mol
+p-value: 0.001446
+
+position:  1380
+target 5' A       A             U 3'
+           AGGG GU CCCUUCAGUCCAG 
+           UCCC CG GGGAAGUCAGGUU 
+miRNA  3'      U  A               5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR319c
+length: 21
+
+mfe: -39.0 kcal/mol
+p-value: 0.000284
+
+position:  1379
+target 5' A       A             U 3'
+           AAGGGGU CCCUUCAGUCCAG 
+           UUCCUCG GGGAAGUCAGGUU 
+miRNA  3'         A               5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR826
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.058411
+
+position:  711
+target 5' C    A   G             G 3'
+           UACG UGU CAAGACCGG UUA 
+           GUGC AUA GUUUUGGCC GAU 
+miRNA  3'          G         U     5'
+
+
+target: AT2G31070.1
+length: 2017
+miRNA: ath-miR847
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.013446
+
+position:  560
+target 5' G    G     G         A  U 3'
+           CGUC GAGAA GAGGAGGAG GA 
+           GUAG UUCUU CUUCUCCUC CU 
+miRNA  3'                      A    5'
+
+

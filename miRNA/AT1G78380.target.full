@@ -1,0 +1,90 @@
+target: AT1G78380.1
+length: 993
+miRNA: ath-miR157a
+length: 21
+
+mfe: -26.2 kcal/mol
+p-value: 0.003359
+
+position:  782
+target 5' A             A  U   U 3'
+           UGCUCUCUGUUUU CU UCG 
+           ACGAGAGAUAGAA GA AGU 
+miRNA  3' C                C   U 5'
+
+
+target: AT1G78380.1
+length: 993
+miRNA: ath-miR157b
+length: 21
+
+mfe: -26.2 kcal/mol
+p-value: 0.003062
+
+position:  782
+target 5' A             A  U   U 3'
+           UGCUCUCUGUUUU CU UCG 
+           ACGAGAGAUAGAA GA AGU 
+miRNA  3' C                C   U 5'
+
+
+target: AT1G78380.1
+length: 993
+miRNA: ath-miR157c
+length: 21
+
+mfe: -26.2 kcal/mol
+p-value: 0.002196
+
+position:  782
+target 5' A             A  U   U 3'
+           UGCUCUCUGUUUU CU UCG 
+           ACGAGAGAUAGAA GA AGU 
+miRNA  3' C                C   U 5'
+
+
+target: AT1G78380.1
+length: 993
+miRNA: ath-miR157d
+length: 20
+
+mfe: -26.0 kcal/mol
+p-value: 0.004589
+
+position:  782
+target 5' A             A  U   U 3'
+           UGCUCUCUGUUUU CU UCG 
+           ACGAGAGAUAGAA GA AGU 
+miRNA  3' C                C     5'
+
+
+target: AT1G78380.1
+length: 993
+miRNA: ath-miR413
+length: 21
+
+mfe: -23.6 kcal/mol
+p-value: 0.037774
+
+position:  655
+target 5' U       G     C U     A 3'
+           UGCAGAG GAGAG G GGCUA 
+           ACGUCUU UUCUC U UUGAU 
+miRNA  3' C       G             A 5'
+
+
+target: AT1G78380.1
+length: 993
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -21.7 kcal/mol
+p-value: 0.062922
+
+position:  439
+target 5' G U  G           A  G 3'
+           G GA GAACAAGAGGC GG 
+           C UU CUUGUUCUUUG CU 
+miRNA  3' A U  G           A  A 5'
+
+

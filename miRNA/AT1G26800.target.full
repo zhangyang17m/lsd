@@ -1,0 +1,15 @@
+target: AT1G26800.1
+length: 1225
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.005960
+
+position: 135
+target 5' A   C   A              A  3'
+           UGG GAC GAACAAGAAGCUGA    
+           ACU UUG CUUGUUCUUUGACU    
+miRNA  3'                        A  5'
+
+

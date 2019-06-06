@@ -1,0 +1,6 @@
+NumCpuToUse     4
+
+blastn seq_cds seq_cdna seq_up1k seq_down1k 496_na cds  genomic  cdna 
+blastp protein_fasta test_aa_db seq_pep 496_aa  protein
+blastx  protein
+tblastn  cds  genomic  cdna

@@ -1,0 +1,15 @@
+target: AK243037.1
+length: 1448
+miRNA: osa-miR2103
+length: 22
+
+mfe: -39.9 kcal/mol
+p-value: 0.000243
+
+position: 1026
+target 5' G       A        A     G  3'
+           GGGCGCG CACGGAGA GGAGG    
+           CUCGCGC GUGCCUCU CCUUU    
+miRNA  3' G                C        5'
+
+

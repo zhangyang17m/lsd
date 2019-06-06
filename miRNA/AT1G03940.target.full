@@ -1,0 +1,15 @@
+target: AT1G03940.1
+length: 1515
+miRNA: ath-miR780
+length: 21
+
+mfe: -28.7 kcal/mol
+p-value: 0.011926
+
+position:  725
+target 5' U    A                A 3'
+           GCCU UUC ACAGCUGC AGA 
+           UGGA GAG UGUCGACG UCU 
+miRNA  3'      C   U        A     5'
+
+

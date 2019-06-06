@@ -1,0 +1,75 @@
+target: NM_001048811
+length: 1991
+miRNA: osa-miR2097-3p
+length: 22
+
+mfe: -29.1 kcal/mol
+p-value: 0.020571
+
+position:  1314
+target 5' A     A          G       G 3'
+           GGAUG UGGCAUGGAG AGGAGAA 
+           UUUAC GCUGUGCUUC UUCUCUU 
+miRNA  3'                            5'
+
+
+target: NM_001048811
+length: 1991
+miRNA: osa-miR2102-5p
+length: 20
+
+mfe: -38.8 kcal/mol
+p-value: 0.004243
+
+position:  1672
+target 5' C  C          C C     A 3'
+           GU GCGGCGGCGG C UGCCU 
+           CA CGCCGCCGCC G ACGGG 
+miRNA  3'    C            A       5'
+
+
+target: NM_001048811
+length: 1991
+miRNA: osa-miR2871a
+length: 21
+
+mfe: -20.5 kcal/mol
+p-value: 0.188339
+
+position:  196
+target 5' G     G               A 3'
+           GUGGC GUGGGGAU GAGAUG 
+           CACUG UAUCUUUG UUUUAU 
+miRNA  3'       G        A        5'
+
+
+target: NM_001048811
+length: 1991
+miRNA: osa-miR2871b
+length: 21
+
+mfe: -20.5 kcal/mol
+p-value: 0.174078
+
+position:  196
+target 5' G     G               A 3'
+           GUGGC GUGGGGAU GAGAUG 
+           CACUG UAUCUUUG UUUUAU 
+miRNA  3'       G        A        5'
+
+
+target: NM_001048811
+length: 1991
+miRNA: osa-miR530-5p
+length: 20
+
+mfe: -31.9 kcal/mol
+p-value: 0.003812
+
+position:  490
+target 5' A               C   G 3'
+           AGG GCGGGUGCAAG GCG 
+           UCC CGUCCACGUUU CGU 
+miRNA  3' A   A           A     5'
+
+

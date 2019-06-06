@@ -1,0 +1,15 @@
+target: AT5G33290.1
+length: 1866
+miRNA: ath-miR156h
+length: 20
+
+mfe: -25.8 kcal/mol
+p-value: 0.006043
+
+position:  207
+target 5' A               C   A 3'
+           UGCUCUCUUUCU CU UUA 
+           ACGAGAGAAAGA GA AGU 
+miRNA  3' C            A  C     5'
+
+

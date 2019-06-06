@@ -1,0 +1,450 @@
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167a-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.005582
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167b-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.006759
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167c-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.004843
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167d-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.004261
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167e-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.005388
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167f-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.004771
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167g-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006909
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167h-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006125
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167i-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006767
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T01
+length: 5092
+miRNA: zma-miR167j-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.004619
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167a-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.005768
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167b-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.006975
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167c-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.005015
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167d-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.004421
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167e-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.005588
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167f-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.004955
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167g-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.007129
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167h-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006326
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167i-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006990
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T02
+length: 5255
+miRNA: zma-miR167j-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.004798
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167a-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.005599
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167b-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.006779
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167c-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.004859
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167d-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.004276
+
+position: 534
+target 5' C       C         C   C  3'
+           UGGAUCG GCUGGCGGC UCG    
+           AUCUAGU CGACCGUCG AGU    
+miRNA  3'         A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167e-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.005407
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167f-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.004787
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167g-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006929
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167h-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006143
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167i-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.006788
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+
+target: GRMZM2G113203_T03
+length: 5107
+miRNA: zma-miR167j-5p
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.004635
+
+position: 535
+target 5' U      C         C   C  3'
+           GGAUCG GCUGGCGGC UCG    
+           UCUAGU CGACCGUCG AGU    
+miRNA  3' G      A         A      5'
+
+

@@ -1,0 +1,15 @@
+target: AT1G15400.2
+length: 678
+miRNA: ath-miR5021
+length: 20
+
+mfe: -27.8 kcal/mol
+p-value: 0.000044
+
+position: 555
+target 5' C                  U  3'
+           UUUCUUCUUCUUCUUUUU    
+           AAAGAAGAAGAAGAAGAG    
+miRNA  3' A                  U  5'
+
+

@@ -1,0 +1,15 @@
+target: LOC_Os04g16740
+length: 1651
+miRNA: osa-miR531b
+length: 20
+
+mfe: -37.0 kcal/mol
+p-value: 0.008952
+
+position:  724
+target 5' A   G             U   U 3'
+           CGG A GCAGCCCUGGC GAG 
+           GCC U CGUCGGGGCCG CUC 
+miRNA  3'     G G                 5'
+
+

@@ -1,0 +1,15 @@
+target: AT5G03630.1
+length: 1586
+miRNA: ath-miR856
+length: 22
+
+mfe: -30.8 kcal/mol
+p-value: 0.000104
+
+position: 565
+target 5' G    U            C     C  3'
+           GCUG GGUUGUUGGUGG GGUUA    
+           CGAC UCAAUAACCAUC CUAAU    
+miRNA  3'      U                     5'
+
+

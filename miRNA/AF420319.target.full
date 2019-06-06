@@ -1,0 +1,15 @@
+target: AF420319
+length: 2292
+miRNA: osa-miR1424
+length: 21
+
+mfe: -25.3 kcal/mol
+p-value: 0.047598
+
+position:  1576
+target 5' C        G     A  C    A 3'
+           ACAAUCAG AUUGG UG UGCG 
+           UGUUAGUC UAGUC AC ACGU 
+miRNA  3'          G             A 5'
+
+

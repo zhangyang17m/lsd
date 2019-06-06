@@ -1,0 +1,15 @@
+target: AT1G54330.1
+length: 1117
+miRNA: ath-miR780
+length: 21
+
+mfe: -25.2 kcal/mol
+p-value: 0.007738
+
+position:  503
+target 5' U      A       A      C 3'
+           GUGCCG GUGUUUA GAAGAA 
+           UACGGU UAUAAGU CUUCUU 
+miRNA  3'        C       G        5'
+
+

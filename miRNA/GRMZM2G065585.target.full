@@ -1,0 +1,30 @@
+target: GRMZM2G065585_T01
+length: 1289
+miRNA: zma-miR169a-3p
+length: 21
+
+mfe: -31.5 kcal/mol
+p-value: 0.001202
+
+position: 855
+target 5' C   U            G   G  3'
+           GUG CCGAGAGCGGCU GCC    
+           CAU GGUUCUUGUUGA CGG    
+miRNA  3' A   C            A      5'
+
+
+target: GRMZM2G065585_T01
+length: 1289
+miRNA: zma-miR169b-3p
+length: 21
+
+mfe: -31.5 kcal/mol
+p-value: 0.002097
+
+position: 855
+target 5' C   U            G   G  3'
+           GUG CCGAGAGCGGCU GCC    
+           CAU GGUUCUUGUUGA CGG    
+miRNA  3' A   C            A      5'
+
+

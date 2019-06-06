@@ -1,0 +1,30 @@
+target: AT5G62430.1
+length: 1248
+miRNA: ath-miR5998a
+length: 21
+
+mfe: -25.7 kcal/mol
+p-value: 0.005137
+
+position: 243
+target 5' C             U     A  3'
+           CAAAACAAGACAU AACUG    
+           GUUUUGUUUUGUG UUGAC    
+miRNA  3' U             U     A  5'
+
+
+target: AT5G62430.1
+length: 1248
+miRNA: ath-miR5998b
+length: 21
+
+mfe: -25.7 kcal/mol
+p-value: 0.003657
+
+position: 243
+target 5' C             U     A  3'
+           CAAAACAAGACAU AACUG    
+           GUUUUGUUUUGUG UUGAC    
+miRNA  3' U             U     A  5'
+
+

@@ -1,0 +1,15 @@
+target: LOC_Os01g50770
+length: 1941
+miRNA: osa-miR1438
+length: 22
+
+mfe: -21.1 kcal/mol
+p-value: 0.024053
+
+position:  993
+target 5' U               C A      U 3'
+           UUGAGAAUGAUAGAA U UAUCCU 
+           AAUUUUUACUAUUUU A AUGGGA 
+miRNA  3'                            5'
+
+

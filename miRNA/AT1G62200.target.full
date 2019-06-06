@@ -1,0 +1,30 @@
+target: AT1G62200.1
+length: 1909
+miRNA: ath-miR156h
+length: 20
+
+mfe: -25.6 kcal/mol
+p-value: 0.006689
+
+position:  1365
+target 5' U  G         C      C 3'
+           UG UCUUUUUCU UCUGUC 
+           AC AGAGAAAGA AGACAG 
+miRNA  3' C  G                U 5'
+
+
+target: AT1G62200.1
+length: 1909
+miRNA: ath-miR834
+length: 21
+
+mfe: -27.7 kcal/mol
+p-value: 0.015823
+
+position:  489
+target 5' G     G         G   C 3'
+           UGCUG CGUUGCUGC GCU 
+           AUGGU GCGAUGACG UGG 
+miRNA  3' A     G         A   U 5'
+
+

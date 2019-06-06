@@ -1,0 +1,15 @@
+target: LOC_Os11g05110
+length: 2205
+miRNA: osa-miR168a
+length: 21
+
+mfe: -28.8 kcal/mol
+p-value: 0.049926
+
+position:  1317
+target 5' C   G           C  U   G 3'
+           UCC UGGUCUGUACC AG UGA 
+           AGG GCUAGACGUGG UC GCU 
+miRNA  3' C               U        5'
+
+

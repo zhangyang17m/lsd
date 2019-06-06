@@ -1,0 +1,30 @@
+target: AT3G28130.1
+length: 1487
+miRNA: ath-miR870
+length: 21
+
+mfe: -29.1 kcal/mol
+p-value: 0.002672
+
+position: 90
+target 5' C               U    U  3'
+           GUCGGAGAGACGCCG GUUA    
+           UAGCUUCUUUGUGGU UAAU    
+miRNA  3' C               U       5'
+
+
+target: AT3G28130.2
+length: 1345
+miRNA: ath-miR870
+length: 21
+
+mfe: -29.1 kcal/mol
+p-value: 0.002339
+
+position: 90
+target 5' C               U    U  3'
+           GUCGGAGAGACGCCG GUUA    
+           UAGCUUCUUUGUGGU UAAU    
+miRNA  3' C               U       5'
+
+

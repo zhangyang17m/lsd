@@ -1,0 +1,30 @@
+target: AT1G28310.1
+length: 1634
+miRNA: ath-miR5658
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.001071
+
+position: 1171
+target 5' G                    C  3'
+           UUCAU GUCAUCAUCAUCAU    
+           AAGUA UAGUAGUAGUAGUA    
+miRNA  3' A     G                 5'
+
+
+target: AT1G28310.2
+length: 1626
+miRNA: ath-miR5658
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.001064
+
+position: 859
+target 5' G                    C  3'
+           UUCAU GUCAUCAUCAUCAU    
+           AAGUA UAGUAGUAGUAGUA    
+miRNA  3' A     G                 5'
+
+

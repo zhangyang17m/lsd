@@ -1,0 +1,30 @@
+target: AT4G39270.1
+length: 3102
+miRNA: ath-miR1888
+length: 21
+
+mfe: -20.4 kcal/mol
+p-value: 0.111970
+
+position:  2650
+target 5' A  G    U        U    A 3'
+           UC UCGC AGAUCUUG CUUA 
+           AG AGUG UUUAGAAU GAAU 
+miRNA  3' A  A             U      5'
+
+
+target: AT4G39270.2
+length: 3176
+miRNA: ath-miR1888
+length: 21
+
+mfe: -20.4 kcal/mol
+p-value: 0.114771
+
+position:  2724
+target 5' A  G    U        U    A 3'
+           UC UCGC AGAUCUUG CUUA 
+           AG AGUG UUUAGAAU GAAU 
+miRNA  3' A  A             U      5'
+
+

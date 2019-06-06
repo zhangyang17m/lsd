@@ -1,0 +1,30 @@
+target: AT3G01100.1
+length: 2559
+miRNA: ath-miR857
+length: 21
+
+mfe: -26.8 kcal/mol
+p-value: 0.007526
+
+position: 2222
+target 5' C              C      C  3'
+           UGCACUUUCGGCAU ACAGGA    
+           AUGUGGAAGUUGUA UGUUUU    
+miRNA  3' U                        5'
+
+
+target: AT3G01100.2
+length: 2855
+miRNA: ath-miR857
+length: 21
+
+mfe: -26.8 kcal/mol
+p-value: 0.008646
+
+position: 2518
+target 5' C              C      C  3'
+           UGCACUUUCGGCAU ACAGGA    
+           AUGUGGAAGUUGUA UGUUUU    
+miRNA  3' U                        5'
+
+

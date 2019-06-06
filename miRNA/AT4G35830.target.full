@@ -1,0 +1,30 @@
+target: AT4G35830.1
+length: 3214
+miRNA: ath-miR858
+length: 21
+
+mfe: -25.1 kcal/mol
+p-value: 0.067256
+
+position:  1079
+target 5' U                    C 3'
+           AAGGUUGA CAGGCAG GAG 
+           UUCCAGCU GUCUGUU CUU 
+miRNA  3'          U       G   U 5'
+
+
+target: AT4G35830.2
+length: 3366
+miRNA: ath-miR858
+length: 21
+
+mfe: -25.1 kcal/mol
+p-value: 0.070490
+
+position:  1231
+target 5' U                    C 3'
+           AAGGUUGA CAGGCAG GAG 
+           UUCCAGCU GUCUGUU CUU 
+miRNA  3'          U       G   U 5'
+
+

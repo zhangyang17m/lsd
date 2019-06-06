@@ -1,0 +1,30 @@
+target: AT3G16110.1
+length: 1861
+miRNA: ath-miR778
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.021670
+
+position:  410
+target 5' A  A             U    A 3'
+           GG GUGC UGAGCUAA GCCG 
+           CC CAUG AUUUGGUU CGGU 
+miRNA  3' G  A    U               5'
+
+
+target: AT3G16110.1
+length: 1861
+miRNA: ath-miR780
+length: 21
+
+mfe: -24.5 kcal/mol
+p-value: 0.021694
+
+position:  424
+target 5' A        G           C 3'
+           AUGCC GA AUUUGCGGAGG 
+           UACGG CU UAAGUGCUUCU 
+miRNA  3'       U  A           U 5'
+
+

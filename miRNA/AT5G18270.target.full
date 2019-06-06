@@ -1,0 +1,30 @@
+target: AT5G18270.1
+length: 1525
+miRNA: ath-miR867
+length: 21
+
+mfe: -22.4 kcal/mol
+p-value: 0.025731
+
+position:  1295
+target 5' A       U      U    C 3'
+           UCCUAGU AACUAU UUCA 
+           AGGAUUA UUGGUA AAGU 
+miRNA  3' A       U      C    U 5'
+
+
+target: AT5G18270.2
+length: 1525
+miRNA: ath-miR867
+length: 21
+
+mfe: -22.4 kcal/mol
+p-value: 0.025731
+
+position:  1295
+target 5' A       U      U    C 3'
+           UCCUAGU AACUAU UUCA 
+           AGGAUUA UUGGUA AAGU 
+miRNA  3' A       U      C    U 5'
+
+

@@ -1,0 +1,15 @@
+target: AT5G63490.1
+length: 1807
+miRNA: ath-miR858
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.019080
+
+position:  201
+target 5' G              U      C 3'
+           GAGG CGAGCGGAC GUGAAA 
+           UUCC GCUUGUCUG UGCUUU 
+miRNA  3'      A         U        5'
+
+

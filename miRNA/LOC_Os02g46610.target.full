@@ -1,0 +1,75 @@
+target: LOC_Os02g46610
+length: 1371
+miRNA: osa-miR2118f
+length: 22
+
+mfe: -28.7 kcal/mol
+p-value: 0.020569
+
+position:  174
+target 5' G               G     G 3'
+           AGGAA G GGGGUAU AGGAG 
+           UCCUU C CUCCGUA UCCUU 
+miRNA  3' A     A C       G       5'
+
+
+target: LOC_Os02g46610
+length: 1371
+miRNA: osa-miR2118h
+length: 22
+
+mfe: -28.7 kcal/mol
+p-value: 0.016848
+
+position:  174
+target 5' G               G     G 3'
+           AGGAA G GGGGUAU AGGAG 
+           UCCUU C CUCCGUA UCCUU 
+miRNA  3' A     A U       G       5'
+
+
+target: LOC_Os02g46610
+length: 1371
+miRNA: osa-miR2118j
+length: 22
+
+mfe: -28.7 kcal/mol
+p-value: 0.018422
+
+position:  174
+target 5' G               G     G 3'
+           AGGAA G GGGGUAU AGGAG 
+           UCCUU C CUCCGUA UCCUU 
+miRNA  3' A     A C       G       5'
+
+
+target: LOC_Os02g46610
+length: 1371
+miRNA: osa-miR2118k
+length: 22
+
+mfe: -28.7 kcal/mol
+p-value: 0.015483
+
+position:  174
+target 5' G               G     G 3'
+           AGGAA G GGGGUAU AGGAG 
+           UCCUU C CUCCGUA UCCUU 
+miRNA  3' A     A U       G       5'
+
+
+target: LOC_Os02g46610
+length: 1371
+miRNA: osa-miR2118m
+length: 22
+
+mfe: -28.7 kcal/mol
+p-value: 0.018863
+
+position:  174
+target 5' G               G     G 3'
+           AGGAA G GGGGUAU AGGAG 
+           UCCUU C CUCCGUA UCCUU 
+miRNA  3' A     A C       G       5'
+
+

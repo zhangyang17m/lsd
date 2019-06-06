@@ -1,0 +1,15 @@
+target: AT2G15900.1
+length: 3238
+miRNA: ath-miR5654-3p
+length: 23
+
+mfe: -31.8 kcal/mol
+p-value: 0.003601
+
+position: 1484
+target 5' U                  G    U  3'
+           AAUAAAUCCCAAAGCAUU UUCU    
+           UUAUUUAGGGUUUCGUAG AAGG    
+miRNA  3'                         U  5'
+
+

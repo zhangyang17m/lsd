@@ -1,0 +1,210 @@
+target: NM_001111966
+length: 1627
+miRNA: zma-miR162
+length: 21
+
+mfe: -27.9 kcal/mol
+p-value: 0.136683
+
+position:  294
+target 5' C        C       C    G 3'
+           GUCG UAG GCCGCUG CGCC 
+           UAGC AUU UGGUGAC GCGG 
+miRNA  3' C    U                G 5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR171h
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.035749
+
+position:  654
+target 5' G              U G    G 3'
+           ACG GAGCCGGAGC G ACCA 
+           UGU CUCGGCUUUG U UGGU 
+miRNA  3'     A          U A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR171k
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.037369
+
+position:  654
+target 5' G              U G    G 3'
+           ACG GAGCCGGAGC G ACCA 
+           UGU CUCGGCUUUG U UGGU 
+miRNA  3'     A          U A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR396e
+length: 21
+
+mfe: -23.6 kcal/mol
+p-value: 0.046739
+
+position:  838
+target 5' G   A          A C    G 3'
+           AGG UCAAGAAGGU G GGAG 
+           UUC AGUUCUUUCG C CCUU 
+miRNA  3'     A          A A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR396f
+length: 21
+
+mfe: -23.6 kcal/mol
+p-value: 0.044083
+
+position:  838
+target 5' G   A          A C    G 3'
+           AGG UCAAGAAGGU G GGAG 
+           UUC AGUUCUUUCG C CCUU 
+miRNA  3'     A          A A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR528a
+length: 21
+
+mfe: -31.0 kcal/mol
+p-value: 0.039362
+
+position:  608
+target 5' A        C C     C      C 3'
+           GGUGGAGG G GGCAG GCACGG 
+           UUACCUUC U CCGUC CGUGUC 
+miRNA  3'                         C 5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR528b
+length: 21
+
+mfe: -31.0 kcal/mol
+p-value: 0.048232
+
+position:  608
+target 5' A        C C     C      C 3'
+           GGUGGAGG G GGCAG GCACGG 
+           UUACCUUC U CCGUC CGUGUC 
+miRNA  3'                         C 5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR162
+length: 21
+
+mfe: -27.9 kcal/mol
+p-value: 0.136683
+
+position:  294
+target 5' C        C       C    G 3'
+           GUCG UAG GCCGCUG CGCC 
+           UAGC AUU UGGUGAC GCGG 
+miRNA  3' C    U                G 5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR171h
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.035749
+
+position:  654
+target 5' G              U G    G 3'
+           ACG GAGCCGGAGC G ACCA 
+           UGU CUCGGCUUUG U UGGU 
+miRNA  3'     A          U A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR171k
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.037369
+
+position:  654
+target 5' G              U G    G 3'
+           ACG GAGCCGGAGC G ACCA 
+           UGU CUCGGCUUUG U UGGU 
+miRNA  3'     A          U A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR396e
+length: 21
+
+mfe: -23.6 kcal/mol
+p-value: 0.046739
+
+position:  838
+target 5' G   A          A C    G 3'
+           AGG UCAAGAAGGU G GGAG 
+           UUC AGUUCUUUCG C CCUU 
+miRNA  3'     A          A A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR396f
+length: 21
+
+mfe: -23.6 kcal/mol
+p-value: 0.044083
+
+position:  838
+target 5' G   A          A C    G 3'
+           AGG UCAAGAAGGU G GGAG 
+           UUC AGUUCUUUCG C CCUU 
+miRNA  3'     A          A A      5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR528a
+length: 21
+
+mfe: -31.0 kcal/mol
+p-value: 0.039362
+
+position:  608
+target 5' A        C C     C      C 3'
+           GGUGGAGG G GGCAG GCACGG 
+           UUACCUUC U CCGUC CGUGUC 
+miRNA  3'                         C 5'
+
+
+target: NM_001111966
+length: 1627
+miRNA: zma-miR528b
+length: 21
+
+mfe: -31.0 kcal/mol
+p-value: 0.048232
+
+position:  608
+target 5' A        C C     C      C 3'
+           GGUGGAGG G GGCAG GCACGG 
+           UUACCUUC U CCGUC CGUGUC 
+miRNA  3'                         C 5'
+
+

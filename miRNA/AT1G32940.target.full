@@ -1,0 +1,15 @@
+target: AT1G32940.1
+length: 2485
+miRNA: ath-miR869
+length: 21
+
+mfe: -27.1 kcal/mol
+p-value: 0.010928
+
+position:  496
+target 5' A     A               A 3'
+           CGACA UGGGGUUGGACCAAU 
+           GUUGU GUCUUAACUUGGUUA 
+miRNA  3'       G                 5'
+
+

@@ -1,0 +1,30 @@
+target: AT3G05165.4
+length: 1583
+miRNA: ath-miR865-3p
+length: 21
+
+mfe: -24.1 kcal/mol
+p-value: 0.003168
+
+position: 1408
+target 5' G     G        A       U  3'
+           UGGGU GAGUUUGA GGAAGAG    
+           ACCUA UUUAAACU CCUUUUU    
+miRNA  3' A                         5'
+
+
+target: AT3G05165.5
+length: 1706
+miRNA: ath-miR865-3p
+length: 21
+
+mfe: -24.1 kcal/mol
+p-value: 0.003507
+
+position: 1314
+target 5' G     G        A       U  3'
+           UGGGU GAGUUUGA GGAAGAG    
+           ACCUA UUUAAACU CCUUUUU    
+miRNA  3' A                         5'
+
+

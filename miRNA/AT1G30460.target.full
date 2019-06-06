@@ -1,0 +1,45 @@
+target: AT1G30460.1
+length: 2631
+miRNA: ath-miR844
+length: 21
+
+mfe: -23.4 kcal/mol
+p-value: 0.022589
+
+position:  1214
+target 5' G                     U 3'
+           AGCUUAU GGCAAUC U CCA 
+           UCGAAUA UCGUUAG A GGU 
+miRNA  3'         U       A U     5'
+
+
+target: AT1G30460.1
+length: 2631
+miRNA: ath-miR866-3p
+length: 20
+
+mfe: -21.7 kcal/mol
+p-value: 0.067653
+
+position:  108
+target 5' A              C   A 3'
+           UUUCGAAGGCGG U UUG 
+           GAAGUUUCUGCC A AAC 
+miRNA  3' A            U A   A 5'
+
+
+target: AT1G30460.2
+length: 753
+miRNA: ath-miR866-3p
+length: 20
+
+mfe: -21.7 kcal/mol
+p-value: 0.017261
+
+position:  29
+target 5' A              C   A 3'
+           UUUCGAAGGCGG U UUG 
+           GAAGUUUCUGCC A AAC 
+miRNA  3' A            U A   A 5'
+
+

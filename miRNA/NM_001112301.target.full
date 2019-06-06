@@ -1,0 +1,60 @@
+target: NM_001112301.1
+length: 1145
+miRNA: zma-miR166n
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.047895
+
+position:  873
+target 5' G                    A 3'
+           GCCG GCCAGAUGAUGG CC 
+           UGGC CGGUCUGUUGUU GG 
+miRNA  3' G    U            A    5'
+
+
+target: NM_001112301.1
+length: 1145
+miRNA: zma-miR169c
+length: 22
+
+mfe: -32.8 kcal/mol
+p-value: 0.009826
+
+position:  109
+target 5' A        U          U  C 3'
+           GUGGCCAG GGGCAGAUUU CU 
+           CAUCGGUU CCUGUCUGAA GG 
+miRNA  3' A                   C    5'
+
+
+target: NM_001112301.1
+length: 1145
+miRNA: zma-miR169f
+length: 21
+
+mfe: -27.8 kcal/mol
+p-value: 0.056045
+
+position:  545
+target 5' U       G  U     A G    G 3'
+           GGUGGCC AG GGAAG A GUGC 
+           UCAUCGG UU CCUUC U UACG 
+miRNA  3'                    G    G 5'
+
+
+target: NM_001112301.1
+length: 1145
+miRNA: zma-miR399f
+length: 21
+
+mfe: -25.8 kcal/mol
+p-value: 0.001408
+
+position:  116
+target 5' A U              C   C 3'
+           G GGGCAGAUUUUC U GGC 
+           C CCCGUUUAAAGG A CCG 
+miRNA  3' G              A A   U 5'
+
+

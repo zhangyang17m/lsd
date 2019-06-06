@@ -1,0 +1,45 @@
+target: AT1G27320.1
+length: 3562
+miRNA: ath-miR2112-3p
+length: 21
+
+mfe: -23.6 kcal/mol
+p-value: 0.054533
+
+position:  2751
+target 5' C     U   A            G 3'
+           UGCGC GAG GUGGG AUAAAG 
+           ACGCG UUU CGCCU UAUUUC 
+miRNA  3'           A     A        5'
+
+
+target: AT1G27320.1
+length: 3562
+miRNA: ath-miR773
+length: 21
+
+mfe: -25.2 kcal/mol
+p-value: 0.060350
+
+position:  3114
+target 5' G                 A   A 3'
+           GAGAU GGGGCUGGAAG AGA 
+           CUCUG UUUCGACCUUC UUU 
+miRNA  3'       U           G     5'
+
+
+target: AT1G27320.1
+length: 3562
+miRNA: ath-miR780
+length: 21
+
+mfe: -34.0 kcal/mol
+p-value: 0.003527
+
+position:  1000
+target 5' A      U          G    C 3'
+           ACUUGC UCAACAGCUG CUAG 
+           UGGACG AGUUGUCGAC GAUC 
+miRNA  3'                        U 5'
+
+

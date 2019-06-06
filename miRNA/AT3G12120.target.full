@@ -1,0 +1,120 @@
+target: AT3G12120.1
+length: 1635
+miRNA: ath-miR157a
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.010818
+
+position:  1361
+target 5' U  U  G               A 3'
+           UG CU UUUGUCUUUUGUUAA 
+           AC GA AGAUAGAAGACAGUU 
+miRNA  3' C     G                 5'
+
+
+target: AT3G12120.1
+length: 1635
+miRNA: ath-miR157b
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.010635
+
+position:  1361
+target 5' U  U  G               A 3'
+           UG CU UUUGUCUUUUGUUAA 
+           AC GA AGAUAGAAGACAGUU 
+miRNA  3' C     G                 5'
+
+
+target: AT3G12120.1
+length: 1635
+miRNA: ath-miR157c
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.010268
+
+position:  1361
+target 5' U  U  G               A 3'
+           UG CU UUUGUCUUUUGUUAA 
+           AC GA AGAUAGAAGACAGUU 
+miRNA  3' C     G                 5'
+
+
+target: AT3G12120.1
+length: 1635
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.108701
+
+position:  1271
+target 5' A   C         A  G   C 3'
+           GAA CGGACAGGG AG UGA 
+           CUU GCUUGUUCU UU ACU 
+miRNA  3' A   U            G   A 5'
+
+
+target: AT3G12120.2
+length: 1436
+miRNA: ath-miR157a
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.009459
+
+position:  1322
+target 5' U  U  G               A 3'
+           UG CU UUUGUCUUUUGUUAA 
+           AC GA AGAUAGAAGACAGUU 
+miRNA  3' C     G                 5'
+
+
+target: AT3G12120.2
+length: 1436
+miRNA: ath-miR157b
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.009219
+
+position:  1322
+target 5' U  U  G               A 3'
+           UG CU UUUGUCUUUUGUUAA 
+           AC GA AGAUAGAAGACAGUU 
+miRNA  3' C     G                 5'
+
+
+target: AT3G12120.2
+length: 1436
+miRNA: ath-miR157c
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.008603
+
+position:  1322
+target 5' U  U  G               A 3'
+           UG CU UUUGUCUUUUGUUAA 
+           AC GA AGAUAGAAGACAGUU 
+miRNA  3' C     G                 5'
+
+
+target: AT3G12120.2
+length: 1436
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.096045
+
+position:  1232
+target 5' A   C         A  G   C 3'
+           GAA CGGACAGGG AG UGA 
+           CUU GCUUGUUCU UU ACU 
+miRNA  3' A   U            G   A 5'
+
+

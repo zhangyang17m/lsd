@@ -1,0 +1,15 @@
+target: GRMZM2G088396_T01
+length: 1747
+miRNA: zma-miR164h-5p
+length: 21
+
+mfe: -36.5 kcal/mol
+p-value: 0.000645
+
+position: 373
+target 5' G               G     C  3'
+           CACGCGU CCCUGCU CUCCG    
+           GUGUGCA GGGACGA GAGGU    
+miRNA  3'         C       A        5'
+
+

@@ -1,0 +1,60 @@
+target: AT4G36210.1
+length: 2615
+miRNA: ath-miR5998a
+length: 21
+
+mfe: -25.9 kcal/mol
+p-value: 0.011593
+
+position: 1929
+target 5' G              U     U  G  3'
+           ACAGAACAAAACGC GAACU GU    
+           UGUUUUGUUUUGUG UUUGA CA    
+miRNA  3'                            5'
+
+
+target: AT4G36210.1
+length: 2615
+miRNA: ath-miR5998b
+length: 21
+
+mfe: -25.9 kcal/mol
+p-value: 0.010207
+
+position: 1929
+target 5' G              U     U  G  3'
+           ACAGAACAAAACGC GAACU GU    
+           UGUUUUGUUUUGUG UUUGA CA    
+miRNA  3'                            5'
+
+
+target: AT4G36210.3
+length: 2479
+miRNA: ath-miR5998a
+length: 21
+
+mfe: -25.9 kcal/mol
+p-value: 0.010896
+
+position: 1793
+target 5' G              U     U  G  3'
+           ACAGAACAAAACGC GAACU GU    
+           UGUUUUGUUUUGUG UUUGA CA    
+miRNA  3'                            5'
+
+
+target: AT4G36210.3
+length: 2479
+miRNA: ath-miR5998b
+length: 21
+
+mfe: -25.9 kcal/mol
+p-value: 0.009439
+
+position: 1793
+target 5' G              U     U  G  3'
+           ACAGAACAAAACGC GAACU GU    
+           UGUUUUGUUUUGUG UUUGA CA    
+miRNA  3'                            5'
+
+

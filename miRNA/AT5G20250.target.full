@@ -1,0 +1,45 @@
+target: AT5G20250.1
+length: 2823
+miRNA: ath-miR2112-3p
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.036069
+
+position:  1555
+target 5' G       A         C  U 3'
+           GUGUGAA GUGGAUGUG AG 
+           CGCGUUU CGCCUAUAU UC 
+miRNA  3' A       A         U    5'
+
+
+target: AT5G20250.2
+length: 2728
+miRNA: ath-miR2112-3p
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.034827
+
+position:  1464
+target 5' G       A         C  U 3'
+           GUGUGAA GUGGAUGUG AG 
+           CGCGUUU CGCCUAUAU UC 
+miRNA  3' A       A         U    5'
+
+
+target: AT5G20250.3
+length: 2833
+miRNA: ath-miR2112-3p
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.036199
+
+position:  1565
+target 5' G       A         C  U 3'
+           GUGUGAA GUGGAUGUG AG 
+           CGCGUUU CGCCUAUAU UC 
+miRNA  3' A       A         U    5'
+
+

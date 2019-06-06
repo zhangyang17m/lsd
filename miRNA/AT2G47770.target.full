@@ -1,0 +1,15 @@
+target: AT2G47770.1
+length: 1044
+miRNA: ath-miR774
+length: 21
+
+mfe: -25.8 kcal/mol
+p-value: 0.007564
+
+position:  551
+target 5' C     U        U    G U 3'
+           GUGGC UGUAUGGG UGAC G 
+           UACCG GUAUACCC AUUG U 
+miRNA  3' C                   G U 5'
+
+

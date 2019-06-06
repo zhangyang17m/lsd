@@ -1,0 +1,15 @@
+target: AT2G35510.1
+length: 2297
+miRNA: ath-miR5021
+length: 20
+
+mfe: -25.4 kcal/mol
+p-value: 0.001920
+
+position: 75
+target 5' A             G  G   C  3'
+           UUUCUUCUUCUUC UC UCG    
+           AAAGAAGAAGAAG AG AGU    
+miRNA  3' A             A         5'
+
+

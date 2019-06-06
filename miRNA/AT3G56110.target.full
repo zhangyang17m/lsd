@@ -1,0 +1,150 @@
+target: AT3G56110.1
+length: 1074
+miRNA: ath-miR854a
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000283
+
+position: 439
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.1
+length: 1074
+miRNA: ath-miR854b
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000120
+
+position: 439
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.1
+length: 1074
+miRNA: ath-miR854c
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000096
+
+position: 439
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.1
+length: 1074
+miRNA: ath-miR854d
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000229
+
+position: 439
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.1
+length: 1074
+miRNA: ath-miR854e
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000056
+
+position: 439
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.2
+length: 1053
+miRNA: ath-miR854a
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000275
+
+position: 461
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.2
+length: 1053
+miRNA: ath-miR854b
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000116
+
+position: 461
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.2
+length: 1053
+miRNA: ath-miR854c
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000093
+
+position: 461
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.2
+length: 1053
+miRNA: ath-miR854d
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000223
+
+position: 461
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+
+target: AT3G56110.2
+length: 1053
+miRNA: ath-miR854e
+length: 21
+
+mfe: -39.3 kcal/mol
+p-value: 0.000054
+
+position: 461
+target 5' U    C                G  3'
+           CUCU CCUCCUUGUCCUCAUC    
+           GAGG GGAGGGAUAGGAGUAG    
+miRNA  3'      A                   5'
+
+

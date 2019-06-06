@@ -1,0 +1,15 @@
+target: AT4G30270.1
+length: 1207
+miRNA: ath-miR771
+length: 22
+
+mfe: -31.3 kcal/mol
+p-value: 0.005736
+
+position:  908
+target 5' G       U        A    C 3'
+           GA GGUU CCACAGGG GCUC 
+           CU CCGA GGUGUCUC CGAG 
+miRNA  3' A  C    U             U 5'
+
+

@@ -1,0 +1,15 @@
+target: AT5G13550.1
+length: 2254
+miRNA: ath-miR865-5p
+length: 21
+
+mfe: -25.3 kcal/mol
+p-value: 0.005576
+
+position: 1143
+target 5' A G                 G  3'
+           U AGUUGGAUUCAAAUUCA    
+           A UUAAUCUAGGUUUAAGU    
+miRNA  3' G G                 A  5'
+
+

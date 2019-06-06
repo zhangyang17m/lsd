@@ -1,0 +1,45 @@
+target: LOC_Os08g17400
+length: 2554
+miRNA: osa-miR1846d-3p
+length: 20
+
+mfe: -32.2 kcal/mol
+p-value: 0.023853
+
+position:  493
+target 5' C  A    A             G 3'
+           CC UCCU GCGGUGCC GAUG 
+           GG AGGG CGCCGCGG CUAU 
+miRNA  3'         A        C      5'
+
+
+target: LOC_Os08g17400
+length: 2554
+miRNA: osa-miR2118h
+length: 22
+
+mfe: -30.5 kcal/mol
+p-value: 0.016464
+
+position:  238
+target 5' G         A            A 3'
+           UGGGGGUGA GGGUA CGGGGA 
+           AUCCUUACU UCCGU GUCCUU 
+miRNA  3'           C     A        5'
+
+
+target: LOC_Os08g17400
+length: 2554
+miRNA: osa-miR2118k
+length: 22
+
+mfe: -30.5 kcal/mol
+p-value: 0.015039
+
+position:  238
+target 5' G         A            A 3'
+           UGGGGGUGA GGGUA CGGGGA 
+           AUCCUUACU UCCGU GUCCUU 
+miRNA  3'           C     A        5'
+
+

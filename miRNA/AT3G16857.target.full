@@ -1,0 +1,120 @@
+target: AT3G16857.1
+length: 2344
+miRNA: ath-miR167a
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.030181
+
+position:  219
+target 5' C               G C  G 3'
+           GGAUCG GCUGGUGG U CA 
+           UCUAGU CGACCGUC A GU 
+miRNA  3' A      A        G A    5'
+
+
+target: AT3G16857.1
+length: 2344
+miRNA: ath-miR167b
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.026592
+
+position:  219
+target 5' C               G C  G 3'
+           GGAUCG GCUGGUGG U CA 
+           UCUAGU CGACCGUC A GU 
+miRNA  3' A      A        G A    5'
+
+
+target: AT3G16857.1
+length: 2344
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -23.5 kcal/mol
+p-value: 0.065052
+
+position:  850
+target 5' G    A          A    A 3'
+           GAGA GAGCAAGGAG UGAU 
+           CUUU CUUGUUCUUU ACUA 
+miRNA  3' A    G          G      5'
+
+
+target: AT3G16857.1
+length: 2344
+miRNA: ath-miR847
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.003831
+
+position:  645
+target 5' A              A     A 3'
+           GUUAGGAAGAGGAG AGUGA 
+           UAGUUCUUCUUCUC UCACU 
+miRNA  3' G              C       5'
+
+
+target: AT3G16857.2
+length: 2669
+miRNA: ath-miR167a
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.034417
+
+position:  322
+target 5' C               G C  G 3'
+           GGAUCG GCUGGUGG U CA 
+           UCUAGU CGACCGUC A GU 
+miRNA  3' A      A        G A    5'
+
+
+target: AT3G16857.2
+length: 2669
+miRNA: ath-miR167b
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.030290
+
+position:  322
+target 5' C               G C  G 3'
+           GGAUCG GCUGGUGG U CA 
+           UCUAGU CGACCGUC A GU 
+miRNA  3' A      A        G A    5'
+
+
+target: AT3G16857.2
+length: 2669
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -23.5 kcal/mol
+p-value: 0.073724
+
+position:  953
+target 5' G    A          A    A 3'
+           GAGA GAGCAAGGAG UGAU 
+           CUUU CUUGUUCUUU ACUA 
+miRNA  3' A    G          G      5'
+
+
+target: AT3G16857.2
+length: 2669
+miRNA: ath-miR847
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.004490
+
+position:  748
+target 5' A              A     A 3'
+           GUUAGGAAGAGGAG AGUGA 
+           UAGUUCUUCUUCUC UCACU 
+miRNA  3' G              C       5'
+
+

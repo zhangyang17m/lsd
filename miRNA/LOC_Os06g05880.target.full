@@ -1,0 +1,30 @@
+target: LOC_Os06g05880
+length: 802
+miRNA: osa-miR1850
+length: 21
+
+mfe: -27.9 kcal/mol
+p-value: 0.008584
+
+position:  212
+target 5' G G     C        C   C 3'
+           C CAGUC CCCAACUU CCG 
+           G GUUAG GGGUUGAA GGU 
+miRNA  3' G G     A        A     5'
+
+
+target: LOC_Os06g05880
+length: 802
+miRNA: osa-miR2091-3p
+length: 22
+
+mfe: -28.8 kcal/mol
+p-value: 0.007131
+
+position:  372
+target 5' A    A          U      C 3'
+           GGGC CU GGAGGCA AUGUGU 
+           UUCG GA CCUCCGU UACAUA 
+miRNA  3' G       U              C 5'
+
+

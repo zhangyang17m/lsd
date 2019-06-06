@@ -1,0 +1,15 @@
+target: AT4G22190.1
+length: 1463
+miRNA: ath-miR156i
+length: 20
+
+mfe: -31.6 kcal/mol
+p-value: 0.000742
+
+position: 171
+target 5' A             C       U  3'
+           CU CUCUCUCUCU UCUGUCG    
+           GA GAGAGAGAGA AGACAGU    
+miRNA  3'    C                     5'
+
+

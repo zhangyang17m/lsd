@@ -1,0 +1,15 @@
+target: AT3G55890.1
+length: 591
+miRNA: ath-miR2936
+length: 22
+
+mfe: -27.1 kcal/mol
+p-value: 0.002752
+
+position:  473
+target 5' U    A    A            A 3'
+           GUCU GU U UCUCUCUCUCAG 
+           CAGA CA A AGAGAGAGAGUU 
+miRNA  3' G       C              C 5'
+
+

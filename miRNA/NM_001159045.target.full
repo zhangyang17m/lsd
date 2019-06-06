@@ -1,0 +1,30 @@
+target: NM_001159045.1
+length: 1843
+miRNA: zma-miR399b-5p
+length: 21
+
+mfe: -36.6 kcal/mol
+p-value: 0.001503
+
+position: 1349
+target 5' C              U  A    A  3'
+           CGUGCUGGAGGAGG GC GCGC    
+           GUACGGUCUCCUCU CG CGUG    
+miRNA  3'                   A       5'
+
+
+target: NM_001159045.1
+length: 1843
+miRNA: zma-miR399h-5p
+length: 21
+
+mfe: -35.9 kcal/mol
+p-value: 0.001743
+
+position: 1349
+target 5' C              U  A    A  3'
+           CGUGCUGGAGGAGG GC GCGC    
+           GCACGGUCUCCUCU UG CGUG    
+miRNA  3'                   A       5'
+
+

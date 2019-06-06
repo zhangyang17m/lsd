@@ -1,0 +1,15 @@
+target: AT5G45900.1
+length: 2300
+miRNA: ath-miR779
+length: 21
+
+mfe: -22.4 kcal/mol
+p-value: 0.034600
+
+position:  139
+target 5' C       A             U 3'
+           GUCGACG AGGUUUCUGG CA 
+           CAGUUGC UUUAAAGGUU GU 
+miRNA  3' U                  A    5'
+
+

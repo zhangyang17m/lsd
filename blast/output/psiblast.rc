@@ -1,0 +1,3 @@
+NumCpuToUse     4
+
+blastp protein.fasta 

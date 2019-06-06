@@ -1,0 +1,15 @@
+target: AT1G69270.1
+length: 2014
+miRNA: ath-miR864-3p
+length: 22
+
+mfe: -23.4 kcal/mol
+p-value: 0.002193
+
+position:  126
+target 5' U        U           C 3'
+           UUUAGGGU UUGUUGAUUUU 
+           AAGUUCCA AAUAACUGAAA 
+miRNA  3' G        U           U 5'
+
+

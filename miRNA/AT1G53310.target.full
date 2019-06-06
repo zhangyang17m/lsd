@@ -1,0 +1,450 @@
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156a
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.043960
+
+position:  1787
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156b
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.049803
+
+position:  1787
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156c
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.032119
+
+position:  1787
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156d
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.044818
+
+position:  1787
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156e
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.038569
+
+position:  1787
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156f
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.043580
+
+position:  1787
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR156g
+length: 20
+
+mfe: -27.3 kcal/mol
+p-value: 0.022448
+
+position:  1787
+target 5' U    A G             A 3'
+           UGCU G CUCUUUUCUGUUG 
+           ACGA U GAGAGAAGACAGC 
+miRNA  3' C    G                 5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR780
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.029493
+
+position:  1776
+target 5' U                    C 3'
+           CCUGC U GCAGUUGCUAGG 
+           GGACG G UGUCGACGAUCU 
+miRNA  3' U     A U              5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR847
+length: 21
+
+mfe: -26.0 kcal/mol
+p-value: 0.043004
+
+position:  1986
+target 5' G               U    C 3'
+           GUC GGAAGAGGAGG G GA 
+           UAG UCUUCUUCUCC C CU 
+miRNA  3' G   U           U A    5'
+
+
+target: AT1G53310.1
+length: 3204
+miRNA: ath-miR869
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.069876
+
+position:  1223
+target 5' A               A    C 3'
+           UCAACUG CUCAGCA UGGA 
+           AGUUGAU GAGUUGU GUCU 
+miRNA  3' C       A       G      5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156a
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.044181
+
+position:  1804
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156b
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.050086
+
+position:  1804
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156c
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.032268
+
+position:  1804
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156d
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.045041
+
+position:  1804
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156e
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.038779
+
+position:  1804
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156f
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.043799
+
+position:  1804
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR156g
+length: 20
+
+mfe: -27.3 kcal/mol
+p-value: 0.022589
+
+position:  1804
+target 5' U    A G             A 3'
+           UGCU G CUCUUUUCUGUUG 
+           ACGA U GAGAGAAGACAGC 
+miRNA  3' C    G                 5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR780
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.029660
+
+position:  1793
+target 5' U                    C 3'
+           CCUGC U GCAGUUGCUAGG 
+           GGACG G UGUCGACGAUCU 
+miRNA  3' U     A U              5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR847
+length: 21
+
+mfe: -26.0 kcal/mol
+p-value: 0.043224
+
+position:  2003
+target 5' G               U    C 3'
+           GUC GGAAGAGGAGG G GA 
+           UAG UCUUCUUCUCC C CU 
+miRNA  3' G   U           U A    5'
+
+
+target: AT1G53310.2
+length: 3221
+miRNA: ath-miR869
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.070251
+
+position:  1240
+target 5' A               A    C 3'
+           UCAACUG CUCAGCA UGGA 
+           AGUUGAU GAGUUGU GUCU 
+miRNA  3' C       A       G      5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156a
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.045851
+
+position:  1933
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156b
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.052225
+
+position:  1933
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156c
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.033391
+
+position:  1933
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156d
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.046724
+
+position:  1933
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156e
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.040365
+
+position:  1933
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156f
+length: 20
+
+mfe: -25.7 kcal/mol
+p-value: 0.045448
+
+position:  1933
+target 5' U    A G            G 3'
+           UGCU G CUCUUUUCUGUU 
+           ACGA U GAGAGAAGACAG 
+miRNA  3' C    G              U 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR156g
+length: 20
+
+mfe: -27.3 kcal/mol
+p-value: 0.023654
+
+position:  1933
+target 5' U    A G             A 3'
+           UGCU G CUCUUUUCUGUUG 
+           ACGA U GAGAGAAGACAGC 
+miRNA  3' C    G                 5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR780
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.030922
+
+position:  1922
+target 5' U                    C 3'
+           CCUGC U GCAGUUGCUAGG 
+           GGACG G UGUCGACGAUCU 
+miRNA  3' U     A U              5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR847
+length: 21
+
+mfe: -26.0 kcal/mol
+p-value: 0.044880
+
+position:  2132
+target 5' G               U    C 3'
+           GUC GGAAGAGGAGG G GA 
+           UAG UCUUCUUCUCC C CU 
+miRNA  3' G   U           U A    5'
+
+
+target: AT1G53310.3
+length: 3350
+miRNA: ath-miR869
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.073085
+
+position:  1369
+target 5' A               A    C 3'
+           UCAACUG CUCAGCA UGGA 
+           AGUUGAU GAGUUGU GUCU 
+miRNA  3' C       A       G      5'
+
+

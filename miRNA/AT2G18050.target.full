@@ -1,0 +1,60 @@
+target: AT2G18050.1
+length: 763
+miRNA: ath-miR393a
+length: 22
+
+mfe: -27.6 kcal/mol
+p-value: 0.002649
+
+position:  642
+target 5' U  U              U     U 3'
+           GG UUGGUGUGGUCUCU UUGGG 
+           CC AGUUACGCUAGGGA AACCU 
+miRNA  3'    U                      5'
+
+
+target: AT2G18050.1
+length: 763
+miRNA: ath-miR393b
+length: 22
+
+mfe: -27.6 kcal/mol
+p-value: 0.002803
+
+position:  642
+target 5' U  U              U     U 3'
+           GG UUGGUGUGGUCUCU UUGGG 
+           CC AGUUACGCUAGGGA AACCU 
+miRNA  3'    U                      5'
+
+
+target: AT2G18050.2
+length: 700
+miRNA: ath-miR393a
+length: 22
+
+mfe: -27.6 kcal/mol
+p-value: 0.002309
+
+position:  579
+target 5' U  U              U     U 3'
+           GG UUGGUGUGGUCUCU UUGGG 
+           CC AGUUACGCUAGGGA AACCU 
+miRNA  3'    U                      5'
+
+
+target: AT2G18050.2
+length: 700
+miRNA: ath-miR393b
+length: 22
+
+mfe: -27.6 kcal/mol
+p-value: 0.002438
+
+position:  579
+target 5' U  U              U     U 3'
+           GG UUGGUGUGGUCUCU UUGGG 
+           CC AGUUACGCUAGGGA AACCU 
+miRNA  3'    U                      5'
+
+

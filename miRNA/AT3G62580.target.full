@@ -1,0 +1,30 @@
+target: AT3G62580.1
+length: 961
+miRNA: ath-miR2933a
+length: 22
+
+mfe: -26.1 kcal/mol
+p-value: 0.006223
+
+position:  386
+target 5' U   C      A       C    G 3'
+           GCG AAUUUC CUCUCUG UUUU 
+           CGC UUAAAG GAGAGGC AAAG 
+miRNA  3' C                  U      5'
+
+
+target: AT3G62580.1
+length: 961
+miRNA: ath-miR2933b
+length: 22
+
+mfe: -26.1 kcal/mol
+p-value: 0.008689
+
+position:  386
+target 5' U   C      A       C    G 3'
+           GCG AAUUUC CUCUCUG UUUU 
+           CGC UUAAAG GAGAGGC AAAG 
+miRNA  3' C                  U      5'
+
+

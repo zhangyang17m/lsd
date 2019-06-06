@@ -1,0 +1,15 @@
+target: AT1G30700.1
+length: 1772
+miRNA: ath-miR156h
+length: 20
+
+mfe: -25.5 kcal/mol
+p-value: 0.006476
+
+position:  73
+target 5' U             G     U 3'
+           UGUUCUCUUUUUU UUGUC 
+           ACGAGAGAAAGAA GACAG 
+miRNA  3' C                   U 5'
+
+

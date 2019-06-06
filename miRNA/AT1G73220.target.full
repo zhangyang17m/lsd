@@ -1,0 +1,15 @@
+target: AT1G73220.1
+length: 1857
+miRNA: ath-miR842
+length: 21
+
+mfe: -28.2 kcal/mol
+p-value: 0.009121
+
+position:  1133
+target 5' U      U         A    C 3'
+           GAUGGC GGAUUUGGC GUGG 
+           CUACUG CCUAGACUG UACU 
+miRNA  3' C                G      5'
+
+

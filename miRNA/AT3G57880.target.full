@@ -1,0 +1,15 @@
+target: AT3G57880.1
+length: 2958
+miRNA: ath-miR4239
+length: 21
+
+mfe: -29.9 kcal/mol
+p-value: 0.003838
+
+position: 2105
+target 5' U                     G  3'
+           GGAGUAUGCGGAGA AGCAAA    
+           CCUCGUACGCUUUU UUGUUU    
+miRNA  3'                A         5'
+
+

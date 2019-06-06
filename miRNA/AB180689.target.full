@@ -1,0 +1,75 @@
+target: AB180689
+length: 1543
+miRNA: osa-miR1848
+length: 21
+
+mfe: -36.2 kcal/mol
+p-value: 0.029304
+
+position:  1110
+target 5' C   U G            C   A 3'
+           GCG C GUGCGUGUCGGC GGG 
+           CGU G CGCGCGCGGCCG UCC 
+miRNA  3' A                  C     5'
+
+
+target: AB180689
+length: 1543
+miRNA: osa-miR1852
+length: 21
+
+mfe: -24.1 kcal/mol
+p-value: 0.025352
+
+position:  1316
+target 5' U   C          U      G 3'
+           UCU GCGUUCUGGG UUCAUG 
+           GGA CGUAAGACUU AGGUAU 
+miRNA  3' U                     A 5'
+
+
+target: AB180689
+length: 1543
+miRNA: osa-miR1884a
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.037405
+
+position:  942
+target 5' G                 G U   A 3'
+           AUGAGGAG CAAUGGCG C ACG 
+           UACUUUUC GUUGCCGC G UGU 
+miRNA  3'          A        A       5'
+
+
+target: AB180689
+length: 1543
+miRNA: osa-miR2098-5p
+length: 20
+
+mfe: -34.1 kcal/mol
+p-value: 0.010107
+
+position:  788
+target 5' U                A    A 3'
+           CGUUGGC GUCUCCGC GGGG 
+           GUAGCCG CGGAGGUG CCCU 
+miRNA  3'         A               5'
+
+
+target: AB180689
+length: 1543
+miRNA: osa-miR2864
+length: 21
+
+mfe: -23.3 kcal/mol
+p-value: 0.032077
+
+position:  490
+target 5' A   G           C  G  U 3'
+           ACC GUACAAUGCAG AA GA 
+           UGG UAUGUUACGUU UU UU 
+miRNA  3' A   A              G    5'
+
+

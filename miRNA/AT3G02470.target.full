@@ -1,0 +1,45 @@
+target: AT3G02470.1
+length: 1953
+miRNA: ath-miR867
+length: 21
+
+mfe: -22.0 kcal/mol
+p-value: 0.043764
+
+position:  1726
+target 5' C               U     G 3'
+           UUCCUAAU AACUAU UUCGA 
+           AAGGAUUA UUGGUA AAGUU 
+miRNA  3'          U      C       5'
+
+
+target: AT3G02470.3
+length: 1799
+miRNA: ath-miR867
+length: 21
+
+mfe: -22.0 kcal/mol
+p-value: 0.039715
+
+position:  1644
+target 5' C               U     G 3'
+           UUCCUAAU AACUAU UUCGA 
+           AAGGAUUA UUGGUA AAGUU 
+miRNA  3'          U      C       5'
+
+
+target: AT3G02470.4
+length: 1834
+miRNA: ath-miR867
+length: 21
+
+mfe: -22.0 kcal/mol
+p-value: 0.040636
+
+position:  1706
+target 5' C               U     G 3'
+           UUCCUAAU AACUAU UUCGA 
+           AAGGAUUA UUGGUA AAGUU 
+miRNA  3'          U      C       5'
+
+

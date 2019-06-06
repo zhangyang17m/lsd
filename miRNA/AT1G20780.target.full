@@ -1,0 +1,15 @@
+target: AT1G20780.1
+length: 2877
+miRNA: ath-miR775
+length: 20
+
+mfe: -34.7 kcal/mol
+p-value: 0.000800
+
+position:  1753
+target 5' G              A C     A 3'
+           UGGCACUGCUGGAC A UCGGA 
+           ACCGUGACGAUCUG U AGCUU 
+miRNA  3'                          5'
+
+

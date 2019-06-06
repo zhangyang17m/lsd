@@ -1,0 +1,120 @@
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR2102-5p
+length: 20
+
+mfe: -33.6 kcal/mol
+p-value: 0.011673
+
+position:  552
+target 5' G             G    G G 3'
+           GUGGUGGUGGUGG UUUG U 
+           CACCGCCGCCGCC GAAC G 
+miRNA  3'                    G G 5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR2906a
+length: 21
+
+mfe: -32.7 kcal/mol
+p-value: 0.014928
+
+position:  312
+target 5' G U              G   C 3'
+           C GC G GCGGCGGCC CGU 
+           G CG C CGCCGCCGG GCA 
+miRNA  3' G U  U A             A 5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR2906b
+length: 21
+
+mfe: -32.7 kcal/mol
+p-value: 0.014299
+
+position:  312
+target 5' G U              G   C 3'
+           C GC G GCGGCGGCC CGU 
+           G CG C CGCCGCCGG GCA 
+miRNA  3' G U  U A             A 5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR444a
+length: 21
+
+mfe: -29.5 kcal/mol
+p-value: 0.017123
+
+position:  309
+target 5' A       C         C   U 3'
+           AGGC UG GGCGGCGGC GCG 
+           UUCG AC CCGUCGUUG CGU 
+miRNA  3'      A  U         A     5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR444d
+length: 21
+
+mfe: -29.5 kcal/mol
+p-value: 0.022934
+
+position:  309
+target 5' A       C         C   U 3'
+           AGGC UG GGCGGCGGC GCG 
+           UUCG AC CCGUCGUUG CGU 
+miRNA  3'      A  U         A     5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR444e
+length: 21
+
+mfe: -29.5 kcal/mol
+p-value: 0.022150
+
+position:  309
+target 5' A       C         C   U 3'
+           AGGC UG GGCGGCGGC GCG 
+           UUCG AC CCGUCGUUG CGU 
+miRNA  3'      A  U         A     5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR444f
+length: 21
+
+mfe: -27.0 kcal/mol
+p-value: 0.038380
+
+position:  309
+target 5' A       C         C   U 3'
+           AGGC UG GGCGGCGGC GCG 
+           UUCG AC CCGUUGUUG CGU 
+miRNA  3'      A  U         A     5'
+
+
+target: LOC_Os05g51180
+length: 1717
+miRNA: osa-miR529a
+length: 20
+
+mfe: -24.6 kcal/mol
+p-value: 0.053449
+
+position:  593
+target 5' U     C  U      A      G 3'
+           GAAGA GG GAGGGG G ACAG 
+           CUUCU UC CUCUCC C UGUC 
+miRNA  3'          U        A      5'
+
+

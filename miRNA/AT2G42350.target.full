@@ -1,0 +1,105 @@
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169h
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.006676
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169i
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.004890
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169j
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.005551
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169k
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.005519
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169l
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.006288
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169m
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.003750
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+
+target: AT2G42350.1
+length: 847
+miRNA: ath-miR169n
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.005077
+
+position:  689
+target 5' A        A       C C    A 3'
+           CAGGCGGG UCAUUCU G GUUG 
+           GUCCGUUC AGUAGGA C CGAU 
+miRNA  3'                  A        5'
+
+

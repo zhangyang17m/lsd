@@ -1,0 +1,7 @@
+NumCpuToUse     4
+
+blastn mrna.fasta 
+tblastn mrna.fasta 
+tblastx mrna.fasta 
+blastp protein.fasta 
+blastx protein.fasta 

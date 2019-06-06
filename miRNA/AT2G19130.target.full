@@ -1,0 +1,30 @@
+target: AT2G19130.1
+length: 2594
+miRNA: ath-miR447a
+length: 22
+
+mfe: -25.7 kcal/mol
+p-value: 0.045756
+
+position:  485
+target 5' A     C   A             A 3'
+           GACGA GGC AUCUUGUUCUCAG 
+           UUGUU UUG UAGAGCAGGGGUU 
+miRNA  3' G                         5'
+
+
+target: AT2G19130.1
+length: 2594
+miRNA: ath-miR447b
+length: 22
+
+mfe: -25.7 kcal/mol
+p-value: 0.044119
+
+position:  485
+target 5' A     C   A             A 3'
+           GACGA GGC AUCUUGUUCUCAG 
+           UUGUU UUG UAGAGCAGGGGUU 
+miRNA  3' G                         5'
+
+

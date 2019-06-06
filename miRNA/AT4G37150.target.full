@@ -1,0 +1,30 @@
+target: AT4G37150.1
+length: 930
+miRNA: ath-miR5595a
+length: 21
+
+mfe: -34.2 kcal/mol
+p-value: 0.000035
+
+position: 738
+target 5' U                   C  3'
+           CAAAGAUGCAGAUCAUAUG    
+           GUUUCUACGUCUAGUAUAC    
+miRNA  3' C                   A  5'
+
+
+target: AT4G37150.1
+length: 930
+miRNA: ath-miR5995b
+length: 21
+
+mfe: -34.2 kcal/mol
+p-value: 0.000069
+
+position: 738
+target 5' U                   C  3'
+           CAAAGAUGCAGAUCAUAUG    
+           GUUUCUACGUCUAGUAUAC    
+miRNA  3' C                   A  5'
+
+

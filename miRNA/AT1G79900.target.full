@@ -1,0 +1,45 @@
+target: AT1G79900.1
+length: 1455
+miRNA: ath-miR172c
+length: 21
+
+mfe: -28.0 kcal/mol
+p-value: 0.004708
+
+position:  713
+target 5' C   U G                G 3'
+           CUG C AGC UCAUCAAGAUUC 
+           GAC G UCG AGUAGUUCUAAG 
+miRNA  3'           U            A 5'
+
+
+target: AT1G79900.1
+length: 1455
+miRNA: ath-miR172d
+length: 21
+
+mfe: -28.0 kcal/mol
+p-value: 0.005432
+
+position:  713
+target 5' C   U G                G 3'
+           CUG C AGC UCAUCAAGAUUC 
+           GAC G UCG AGUAGUUCUAAG 
+miRNA  3'           U            A 5'
+
+
+target: AT1G79900.1
+length: 1455
+miRNA: ath-miR414
+length: 21
+
+mfe: -25.6 kcal/mol
+p-value: 0.005263
+
+position:  117
+target 5' A              C    C 3'
+           GA GAUGAUGGUGA GGUG 
+           CU CUACUACUACU CUAC 
+miRNA  3' A  G           U    U 5'
+
+

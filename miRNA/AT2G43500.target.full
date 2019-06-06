@@ -1,0 +1,150 @@
+target: AT2G43500.1
+length: 3239
+miRNA: ath-miR172a
+length: 21
+
+mfe: -27.8 kcal/mol
+p-value: 0.013976
+
+position:  2620
+target 5' C                    A 3'
+           AUGCAGCA UAUCA GAUUC 
+           UACGUCGU GUAGU CUAAG 
+miRNA  3'          A     U     A 5'
+
+
+target: AT2G43500.1
+length: 3239
+miRNA: ath-miR172b
+length: 21
+
+mfe: -27.8 kcal/mol
+p-value: 0.013370
+
+position:  2620
+target 5' C                    A 3'
+           AUGCAGCA UAUCA GAUUC 
+           UACGUCGU GUAGU CUAAG 
+miRNA  3'          A     U     A 5'
+
+
+target: AT2G43500.1
+length: 3239
+miRNA: ath-miR172c
+length: 21
+
+mfe: -27.5 kcal/mol
+p-value: 0.016576
+
+position:  2621
+target 5' A                   A 3'
+           UGCAGCA UAUCA GAUUC 
+           ACGUCGU GUAGU CUAAG 
+miRNA  3' G       A     U     A 5'
+
+
+target: AT2G43500.1
+length: 3239
+miRNA: ath-miR172d
+length: 21
+
+mfe: -27.5 kcal/mol
+p-value: 0.017305
+
+position:  2621
+target 5' A                   A 3'
+           UGCAGCA UAUCA GAUUC 
+           ACGUCGU GUAGU CUAAG 
+miRNA  3' G       A     U     A 5'
+
+
+target: AT2G43500.1
+length: 3239
+miRNA: ath-miR172e
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.016048
+
+position:  2620
+target 5' C                    A 3'
+           AUGCAGCA UAUCA GAUUC 
+           UACGUCGU GUAGU CUAAG 
+miRNA  3'          A     U     G 5'
+
+
+target: AT2G43500.2
+length: 3243
+miRNA: ath-miR172a
+length: 21
+
+mfe: -27.8 kcal/mol
+p-value: 0.013996
+
+position:  2624
+target 5' C                    A 3'
+           AUGCAGCA UAUCA GAUUC 
+           UACGUCGU GUAGU CUAAG 
+miRNA  3'          A     U     A 5'
+
+
+target: AT2G43500.2
+length: 3243
+miRNA: ath-miR172b
+length: 21
+
+mfe: -27.8 kcal/mol
+p-value: 0.013387
+
+position:  2624
+target 5' C                    A 3'
+           AUGCAGCA UAUCA GAUUC 
+           UACGUCGU GUAGU CUAAG 
+miRNA  3'          A     U     A 5'
+
+
+target: AT2G43500.2
+length: 3243
+miRNA: ath-miR172c
+length: 21
+
+mfe: -27.5 kcal/mol
+p-value: 0.016600
+
+position:  2625
+target 5' A                   A 3'
+           UGCAGCA UAUCA GAUUC 
+           ACGUCGU GUAGU CUAAG 
+miRNA  3' G       A     U     A 5'
+
+
+target: AT2G43500.2
+length: 3243
+miRNA: ath-miR172d
+length: 21
+
+mfe: -27.5 kcal/mol
+p-value: 0.017328
+
+position:  2625
+target 5' A                   A 3'
+           UGCAGCA UAUCA GAUUC 
+           ACGUCGU GUAGU CUAAG 
+miRNA  3' G       A     U     A 5'
+
+
+target: AT2G43500.2
+length: 3243
+miRNA: ath-miR172e
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.016071
+
+position:  2624
+target 5' C                    A 3'
+           AUGCAGCA UAUCA GAUUC 
+           UACGUCGU GUAGU CUAAG 
+miRNA  3'          A     U     G 5'
+
+

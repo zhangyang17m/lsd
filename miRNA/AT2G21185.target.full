@@ -1,0 +1,15 @@
+target: AT2G21185.1
+length: 612
+miRNA: ath-miR834
+length: 21
+
+mfe: -38.0 kcal/mol
+p-value: 0.000030
+
+position: 170
+target 5' A       G           G A  3'
+           UUACCAC GCUGCUGCUGC G    
+           AAUGGUG CGAUGACGAUG U    
+miRNA  3'         G           G    5'
+
+

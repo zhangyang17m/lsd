@@ -1,0 +1,15 @@
+target: LOC_Os09g08430
+length: 950
+miRNA: osa-miR808
+length: 22
+
+mfe: -27.6 kcal/mol
+p-value: 0.000698
+
+position:  414
+target 5' C  U      G           A 3'
+           UC UUAUGU UCCCACAUUCA 
+           AG AAUGUA AGGGUGUAAGU 
+miRNA  3' A         A           A 5'
+
+

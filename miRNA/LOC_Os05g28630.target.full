@@ -1,0 +1,60 @@
+target: LOC_Os05g28630.1
+length: 2209
+miRNA: osa-miR2864.1
+length: 21
+
+mfe: -32.5 kcal/mol
+p-value: 0.003271
+
+position: 1396
+target 5' A              U G    A  3'
+           UGCAGAGCGAGGGC G GGAA    
+           ACGUUUUGUUCCCG C UUUU    
+miRNA  3'                U G       5'
+
+
+target: LOC_Os05g28630.1
+length: 2209
+miRNA: osa-miR417
+length: 21
+
+mfe: -26.8 kcal/mol
+p-value: 0.003122
+
+position: 1709
+target 5' A              U    G  A  3'
+           UGGAACGAGUUCAU UACG UC    
+           ACCUUGUUUAAGUG AUGU AG    
+miRNA  3'                     A     5'
+
+
+target: LOC_Os05g28630.1
+length: 2209
+miRNA: osa-miR5075
+length: 21
+
+mfe: -45.7 kcal/mol
+p-value: 0.000058
+
+position: 649
+target 5' G                    C  3'
+           GCGG CGGCGGCGGCGGAGG    
+           CGCC GCCGCCGCUGCCUCU    
+miRNA  3'      U               U  5'
+
+
+target: LOC_Os05g28630.1
+length: 2209
+miRNA: osa-miR529a
+length: 20
+
+mfe: -32.1 kcal/mol
+p-value: 0.002253
+
+position: 185
+target 5' C              A     A  3'
+           GGAGGAGGGGGAGG UGCGG    
+           CUUCUUCUCUCUCC AUGUC    
+miRNA  3'                C        5'
+
+

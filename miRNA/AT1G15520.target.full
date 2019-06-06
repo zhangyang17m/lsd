@@ -1,0 +1,15 @@
+target: AT1G15520.1
+length: 4558
+miRNA: ath-miR775
+length: 20
+
+mfe: -26.6 kcal/mol
+p-value: 0.053614
+
+position:  2307
+target 5' U   A   A             C 3'
+           UGG CAC GCUGGA GUCGAG 
+           ACC GUG CGAUCU UAGCUU 
+miRNA  3'         A      G        5'
+
+

@@ -1,0 +1,60 @@
+target: GRMZM2G106363_T01
+length: 2365
+miRNA: zma-miR2275a-3p
+length: 22
+
+mfe: -29.5 kcal/mol
+p-value: 0.002804
+
+position: 202
+target 5' A     C   G             G  3'
+           UGAGG UGU GGAGGAGGACGAG    
+           ACUCU AUA CCUCCUUUUGUUU    
+miRNA  3'           A                5'
+
+
+target: GRMZM2G106363_T01
+length: 2365
+miRNA: zma-miR2275d-3p
+length: 22
+
+mfe: -27.7 kcal/mol
+p-value: 0.006005
+
+position: 202
+target 5' A     C   G             G  3'
+           UGAGG UGU GGAGGAGGACGAG    
+           ACUCU AUA UCUCCUUUUGUUU    
+miRNA  3'           A                5'
+
+
+target: GRMZM2G106363_T02
+length: 743
+miRNA: zma-miR2275a-3p
+length: 22
+
+mfe: -29.5 kcal/mol
+p-value: 0.000436
+
+position: 202
+target 5' A     C   G             G  3'
+           UGAGG UGU GGAGGAGGACGAG    
+           ACUCU AUA CCUCCUUUUGUUU    
+miRNA  3'           A                5'
+
+
+target: GRMZM2G106363_T02
+length: 743
+miRNA: zma-miR2275d-3p
+length: 22
+
+mfe: -27.7 kcal/mol
+p-value: 0.001551
+
+position: 202
+target 5' A     C   G             G  3'
+           UGAGG UGU GGAGGAGGACGAG    
+           ACUCU AUA UCUCCUUUUGUUU    
+miRNA  3'           A                5'
+
+

@@ -1,0 +1,30 @@
+target: AT5G55560.1
+length: 1242
+miRNA: ath-miR168a
+length: 21
+
+mfe: -29.9 kcal/mol
+p-value: 0.010952
+
+position:  727
+target 5' C      G      G   A  A 3'
+           UCCUGA CUGUAC AGG GA 
+           AGGGCU GACGUG UUC CU 
+miRNA  3' A      G      G   G    5'
+
+
+target: AT5G55560.1
+length: 1242
+miRNA: ath-miR168b
+length: 21
+
+mfe: -29.9 kcal/mol
+p-value: 0.015795
+
+position:  727
+target 5' C      G      G   A  A 3'
+           UCCUGA CUGUAC AGG GA 
+           AGGGCU GACGUG UUC CU 
+miRNA  3' A      G      G   G    5'
+
+

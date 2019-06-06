@@ -1,0 +1,15 @@
+target: GD185257
+length: 556
+miRNA: mtr-miR2648
+length: 21
+
+mfe: -23.7 kcal/mol
+p-value: 0.007347
+
+position:  370
+target 5' U     C              U 3'
+           UUUGU UGUUCCUG UGGCU 
+           AGACA AUAAGGGU ACCGA 
+miRNA  3' U              A     U 5'
+
+

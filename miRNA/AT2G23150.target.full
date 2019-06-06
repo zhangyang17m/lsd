@@ -1,0 +1,30 @@
+target: AT2G23150.1
+length: 1769
+miRNA: ath-miR834
+length: 21
+
+mfe: -28.9 kcal/mol
+p-value: 0.008539
+
+position:  463
+target 5' A   G  G              A 3'
+           UUG UA UGCUAUUGCUAUCA 
+           AAU GU GCGAUGACGAUGGU 
+miRNA  3'     G  G                5'
+
+
+target: AT2G23150.1
+length: 1769
+miRNA: ath-miR865-5p
+length: 21
+
+mfe: -22.1 kcal/mol
+p-value: 0.026060
+
+position:  435
+target 5' U              U     A 3'
+           UUGAUUGGAUCUGA AUUCA 
+           AGUUAAUCUAGGUU UAAGU 
+miRNA  3' G                    A 5'
+
+

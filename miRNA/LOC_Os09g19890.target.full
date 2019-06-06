@@ -1,0 +1,165 @@
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR1435
+length: 20
+
+mfe: -17.9 kcal/mol
+p-value: 0.075677
+
+position:  255
+target 5' U      U        U     U 3'
+           AAAAAG UUUGAUUU GGGAG 
+           UUUUUC AAACUGAA UCUUU 
+miRNA  3'                 U       5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR159a
+length: 21
+
+mfe: -28.5 kcal/mol
+p-value: 0.020479
+
+position:  558
+target 5' U                    A 3'
+           GGAGC CUCUUCG UCCAAG 
+           UCUCG GGGAAGU AGGUUU 
+miRNA  3' G     A       U        5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR159b
+length: 21
+
+mfe: -28.5 kcal/mol
+p-value: 0.018049
+
+position:  558
+target 5' U                    A 3'
+           GGAGC CUCUUCG UCCAAG 
+           UCUCG GGGAAGU AGGUUU 
+miRNA  3' G     A       U        5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR159c
+length: 21
+
+mfe: -30.8 kcal/mol
+p-value: 0.013026
+
+position:  557
+target 5' U                    G 3'
+           UGGAGC CUCUUCG UCCAA 
+           ACCUCG GGGAAGU AGGUU 
+miRNA  3'        A       U     A 5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR159d
+length: 21
+
+mfe: -30.2 kcal/mol
+p-value: 0.011002
+
+position:  558
+target 5' U                   G 3'
+           GGAGC CUCUUCG UCCAA 
+           CCUCG GGGAAGU AGGUU 
+miRNA  3' G     A       U     A 5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR159e
+length: 21
+
+mfe: -29.7 kcal/mol
+p-value: 0.011503
+
+position:  558
+target 5' U                   G 3'
+           GGAGC CUCUUCG UCCAA 
+           CCUCG GGGAAGU AGGUU 
+miRNA  3' U     A       U     A 5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR159f
+length: 21
+
+mfe: -30.6 kcal/mol
+p-value: 0.009118
+
+position:  557
+target 5' U                     A 3'
+           UGGAGC CUCUUCG UCCAAG 
+           AUCUCG GGGAAGU AGGUUC 
+miRNA  3'        A       U        5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR1857-5p
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.045415
+
+position:  1202
+target 5' U        A             C 3'
+           CCUU UGU UCCAAAGAAACCA 
+           GGAG ACG AGGUUUUUUUGGU 
+miRNA  3'      U                   5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR319a
+length: 20
+
+mfe: -30.8 kcal/mol
+p-value: 0.013914
+
+position:  558
+target 5' U                   G 3'
+           GGAGC CUCUUC GUCCAA 
+           CCUCG GGGAAG CAGGUU 
+miRNA  3' C     U      U        5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR319b
+length: 20
+
+mfe: -30.8 kcal/mol
+p-value: 0.016021
+
+position:  558
+target 5' U                   G 3'
+           GGAGC CUCUUC GUCCAA 
+           CCUCG GGGAAG CAGGUU 
+miRNA  3' C     U      U        5'
+
+
+target: LOC_Os09g19890
+length: 2652
+miRNA: osa-miR418
+length: 21
+
+mfe: -21.4 kcal/mol
+p-value: 0.032004
+
+position:  540
+target 5' U                G    G 3'
+           CGUCA U CGUCGUCG GUUG 
+           GCAGU A GUAGUAGU UAAU 
+miRNA  3'       A A        G      5'
+
+

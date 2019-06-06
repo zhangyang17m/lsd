@@ -1,0 +1,15 @@
+target: AT5G04720.1
+length: 2691
+miRNA: ath-miR172e
+length: 21
+
+mfe: -27.0 kcal/mol
+p-value: 0.017154
+
+position:  2303
+target 5' A                C  A  A 3'
+           AUGCAGC UUAUCGAG AU CC 
+           UACGUCG AGUAGUUC UA GG 
+miRNA  3'         U           A    5'
+
+

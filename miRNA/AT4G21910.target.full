@@ -1,0 +1,315 @@
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR395a
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.004101
+
+position:  722
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR395b
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.012257
+
+position:  722
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR395c
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.007851
+
+position:  722
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR395d
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.007134
+
+position:  722
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR395e
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.004880
+
+position:  722
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR395f
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.010398
+
+position:  722
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.1
+length: 2018
+miRNA: ath-miR782
+length: 21
+
+mfe: -24.4 kcal/mol
+p-value: 0.030303
+
+position:  923
+target 5' G    U  C        C    G 3'
+           GAGA CG UCCAAGGU UUUG 
+           UUCU GU AGGUUCCA AAAC 
+miRNA  3'      U           C    A 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR395a
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.004025
+
+position:  698
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR395b
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.012089
+
+position:  698
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR395c
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.007717
+
+position:  698
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR395d
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.007037
+
+position:  698
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR395e
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.004795
+
+position:  698
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR395f
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.010241
+
+position:  698
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.2
+length: 1994
+miRNA: ath-miR782
+length: 21
+
+mfe: -24.4 kcal/mol
+p-value: 0.029914
+
+position:  899
+target 5' G    U  C        C    G 3'
+           GAGA CG UCCAAGGU UUUG 
+           UUCU GU AGGUUCCA AAAC 
+miRNA  3'      U           C    A 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR395a
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.003524
+
+position:  661
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR395b
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.010950
+
+position:  661
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR395c
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.006819
+
+position:  661
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR395d
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.006379
+
+position:  661
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR395e
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.004233
+
+position:  661
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAA GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR395f
+length: 21
+
+mfe: -30.9 kcal/mol
+p-value: 0.009182
+
+position:  661
+target 5' U    G         C     U 3'
+           GGUU CCCCGAGCG CUUCA 
+           UCAG GGGGUUUGU GAAGU 
+miRNA  3' C    G               C 5'
+
+
+target: AT4G21910.3
+length: 1832
+miRNA: ath-miR782
+length: 21
+
+mfe: -24.4 kcal/mol
+p-value: 0.027268
+
+position:  862
+target 5' G    U  C        C    G 3'
+           GAGA CG UCCAAGGU UUUG 
+           UUCU GU AGGUUCCA AAAC 
+miRNA  3'      U           C    A 5'
+
+

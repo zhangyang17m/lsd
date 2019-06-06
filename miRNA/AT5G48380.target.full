@@ -1,0 +1,30 @@
+target: AT5G48380.1
+length: 2756
+miRNA: ath-miR390a
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.015380
+
+position:  1880
+target 5' C        G     A     A 3'
+           GGUGUUGU CUUCU GAGCU 
+           CCGCGAUA GGAGG CUCGA 
+miRNA  3'          G     A     A 5'
+
+
+target: AT5G48380.1
+length: 2756
+miRNA: ath-miR390b
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.016885
+
+position:  1880
+target 5' C        G     A     A 3'
+           GGUGUUGU CUUCU GAGCU 
+           CCGCGAUA GGAGG CUCGA 
+miRNA  3'          G     A     A 5'
+
+

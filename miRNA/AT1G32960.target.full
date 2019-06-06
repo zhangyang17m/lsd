@@ -1,0 +1,15 @@
+target: AT1G32960.1
+length: 2599
+miRNA: ath-miR869
+length: 21
+
+mfe: -26.1 kcal/mol
+p-value: 0.017518
+
+position:  512
+target 5' U    A               A 3'
+           GACA UGGGGUUGGACCAAU 
+           UUGU GUCUUAACUUGGUUA 
+miRNA  3' G    G                 5'
+
+

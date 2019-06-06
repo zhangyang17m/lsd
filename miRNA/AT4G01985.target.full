@@ -1,0 +1,15 @@
+target: AT4G01985.1
+length: 1890
+miRNA: ath-miR838
+length: 21
+
+mfe: -30.8 kcal/mol
+p-value: 0.001112
+
+position: 193
+target 5' G   G                G  3'
+           GUG AGGAGGUGGAGGAGGA    
+           CAC UUCUUCAUCUUCUUUU    
+miRNA  3' A   G                   5'
+
+

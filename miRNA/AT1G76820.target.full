@@ -1,0 +1,15 @@
+target: AT1G76820.1
+length: 3855
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -26.9 kcal/mol
+p-value: 0.022903
+
+position: 2007
+target 5' A    G  C           A  3'
+           GAGA GA CAGGGAACUGA    
+           CUUU CU GUUCUUUGACU    
+miRNA  3' A    G  U           A  5'
+
+

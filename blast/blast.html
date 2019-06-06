@@ -1,0 +1,158 @@
+<!--
+/* $Id: blast.html,v 1.4 2003/05/22 16:20:45 dondosha Exp $
+* ===========================================================================
+*
+*                            PUBLIC DOMAIN NOTICE
+*               National Center for Biotechnology Information
+*
+*  This software/database is a "United States Government Work" under the
+*  terms of the United States Copyright Act.  It was written as part of
+*  the author's official duties as a United States Government employee and
+*  thus cannot be copyrighted.  This software/database is freely available
+*  to the public for use. The National Library of Medicine and the U.S.
+*  Government have not placed any restriction on its use or reproduction.
+*
+*  Although all reasonable efforts have been taken to ensure the accuracy
+*  and reliability of the software and data, the NLM and the U.S.
+*  Government do not and cannot warrant the performance or results that
+*  may be obtained by using this software or data. The NLM and the U.S.
+*  Government disclaim all warranties, express or implied, including
+*  warranties of performance, merchantability or fitness for any particular
+*  purpose.
+*
+*  Please cite the author in any work or product based on this material.
+*
+* ===========================================================================
+*
+* File Name:  $RCSfile: blast.html,v $
+*
+* Author:  Sergei Shavirin
+*
+* Initial Version Creation Date: 03/14/2000
+*
+* $Revision: 1.4 $
+*
+* File Description:
+*         Template for standalone BLAST Web page
+*
+* $Log: blast.html,v $
+* Revision 1.4  2003/05/22 16:20:45  dondosha
+* Removed references to blast_form.map: describe the map inside HTML
+*
+* Revision 1.3  2003/05/09 17:54:38  dondosha
+* Added select menu for database genetic codes
+*
+* Revision 1.2  2003/05/05 18:14:02  dondosha
+* Uncommented discontiguous megablast options; added subsequence option*
+* Revision 1.1  2002/08/06 19:03:51  dondosha
+* WWW BLAST server, initial CVS revision
+*
+
+-->
+<HTML>
+<TITLE>BLAST Search </TITLE>
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<map name=img_map>
+</map>
+
+
+<FORM ACTION="blast.cgi" METHOD = POST NAME="MainBlastForm" ENCTYPE= "multipart/form-data">
+<P class=header>BLAST Against Arabidopsis Hormone Database (genes from genetic study and GO annotation)</P>
+<P>
+<a href="docs/blast_program.html">Program</a>
+<select name = "PROGRAM">
+    <option>blastn 
+    <option>blastp 
+</select>
+<a href="docs/blast_databases.html">Database</a>
+<select name = "DATALIB">
+    <option VALUE ="seq_cds"> Cds
+    <option VALUE ="seq_cdna"> Cdna
+    <option VALUE ="seq_up1k"> upstream 1K
+    <option VALUE ="seq_down1k"> Downstream 1K
+    <option VALUE ="seq_pep"> Protein
+</select>
+
+<!--
+Enter here your input data as 
+<select name = "INPUT_TYPE"> 
+    <option> Sequence in FASTA format 
+    <option> Accession or GI 
+</select>
+-->
+
+<P>
+Enter sequence below in <a href="docs/fasta.html">FASTA</a>  format 
+<BR>
+<textarea name="SEQUENCE" rows=6 cols=60>
+</textarea>
+<BR>
+Or load it from disk 
+<INPUT TYPE="file" NAME="SEQFILE">
+<P>
+Set subsequence: From
+&nbsp<input TYPE="text" NAME="QUERY_FROM" VALUE="" SIZE="10">nt
+&nbsp;&nbsp&nbsp;&nbsp To
+<input TYPE="text" NAME="QUERY_TO" VALUE="" SIZE="10">nt
+<P>
+<INPUT TYPE="button" VALUE="Clear sequence" onClick="MainBlastForm.SEQUENCE.value='';MainBlastForm.QUERY_FROM.value='';MainBlastForm.QUERY_TO.value='';MainBlastForm.SEQUENCE.focus();">
+<INPUT TYPE="submit" VALUE="Search">
+<HR>
+
+<!--
+<INPUT TYPE="checkbox" NAME="NCBI_GI" >&nbsp;&nbsp;
+<a href="docs/newoptions.html#ncbi-gi"> NCBI-gi</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+-->
+<INPUT TYPE="checkbox" NAME="OVERVIEW"  CHECKED> 
+
+<a href="docs/newoptions.html#graphical-overview">Graphical Overview</a>
+&nbsp;&nbsp;
+<a href="docs/options.html#alignmentviews">Alignment view</a>
+<select name = "ALIGNMENT_VIEW">
+    <option value=0> Pairwise
+    <option value=1> master-slave with identities
+    <option value=2> master-slave without identities
+    <option value=3> flat master-slave with identities
+    <option value=4> flat master-slave without identities
+    <option value=7> BLAST XML
+    <option value=9> Hit Table
+</select>
+<BR>
+<a href="docs/newoptions.html#descriptions">Descriptions</a>
+<select name = "DESCRIPTIONS">
+    <option> 0 
+    <option> 10 
+    <option> 50 
+    <option selected> 100 
+    <option> 250 
+    <option> 500 
+</select>
+&nbsp;&nbsp;
+<a href="docs/newoptions.html#alignments">Alignments</a>
+<select name = "ALIGNMENTS">
+    <option> 0 
+    <option> 10 
+    <option selected> 50 
+    <option> 100 
+    <option> 250 
+    <option> 500 
+</select>
+<a href="docs/color_schema.html">Color schema</a>
+<select name = "COLOR_SCHEMA">
+    <option selected value = 0> No color schema 
+    <option value = 1> Color schema 1 
+    <option value = 2> Color schema 2  
+    <option value = 3> Color schema 3 
+    <option value = 4> Color schema 4 
+    <option value = 5> Color schema 5 
+    <option value = 6> Color schema 6 
+</select>
+<P>
+<INPUT TYPE="button" VALUE="Clear sequence" onClick="MainBlastForm.SEQUENCE.value='';MainBlastForm.SEQFILE.value='';MainBlastForm.SEQUENCE.focus();">
+<INPUT TYPE="submit" VALUE="Search">
+<HR>
+<BR>
+</BODY>
+</HTML>

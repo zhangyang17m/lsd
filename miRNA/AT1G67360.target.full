@@ -1,0 +1,30 @@
+target: AT1G67360.1
+length: 1107
+miRNA: ath-miR419
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.014915
+
+position:  163
+target 5' A                    G 3'
+           AACA CC UAGCGUUCGUGA 
+           UUGU GG GUCGUAAGUAUU 
+miRNA  3' G    A  A              5'
+
+
+target: AT1G67360.2
+length: 1205
+miRNA: ath-miR419
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.016495
+
+position:  261
+target 5' A                    G 3'
+           AACA CC UAGCGUUCGUGA 
+           UUGU GG GUCGUAAGUAUU 
+miRNA  3' G    A  A              5'
+
+

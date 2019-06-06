@@ -1,0 +1,30 @@
+target: AT3G04520.1
+length: 1315
+miRNA: ath-miR2111a-3p
+length: 21
+
+mfe: -35.5 kcal/mol
+p-value: 0.001221
+
+position: 402
+target 5' C      G              G  3'
+           GGUGGU UGCAUCC GAGGAC    
+           CCAUUA GCGUAGG CUCCUG    
+miRNA  3'        G       G         5'
+
+
+target: AT3G04520.2
+length: 1264
+miRNA: ath-miR2111a-3p
+length: 21
+
+mfe: -35.5 kcal/mol
+p-value: 0.001156
+
+position: 414
+target 5' C      G              G  3'
+           GGUGGU UGCAUCC GAGGAC    
+           CCAUUA GCGUAGG CUCCUG    
+miRNA  3'        G       G         5'
+
+

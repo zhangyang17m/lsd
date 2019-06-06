@@ -1,0 +1,30 @@
+target: AT5G43900.1
+length: 5021
+miRNA: ath-miR1886
+length: 21
+
+mfe: -20.7 kcal/mol
+p-value: 0.232416
+
+position:  141
+target 5' C  A   C             C 3'
+           AG AAG UGAAGUCUUUGAU 
+           UC UUC ACUUUAGAAAUUA 
+miRNA  3'    A   U             A 5'
+
+
+target: AT5G43900.1
+length: 5021
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -27.5 kcal/mol
+p-value: 0.024022
+
+position:  2893
+target 5' A                   C 3'
+           GAAACGGAUAAGG ACUGA 
+           CUUUGCUUGUUCU UGACU 
+miRNA  3' A             U     A 5'
+
+

@@ -1,0 +1,15 @@
+target: AT2G19120.1
+length: 3273
+miRNA: ath-miR775
+length: 20
+
+mfe: -25.4 kcal/mol
+p-value: 0.064805
+
+position:  78
+target 5' A    G       G      C 3'
+           GGCA UGUUAGA AU GAG 
+           CCGU ACGAUCU UA CUU 
+miRNA  3' A    G       G  G     5'
+
+

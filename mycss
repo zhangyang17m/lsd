@@ -1,0 +1,231 @@
+table {
+/*	table-layout: fixed;*/
+}
+table.box {
+	font-family: Arial, verdana, sans-serif;
+	background-color: #ffffff;
+	border-spacing: 0;
+}
+
+
+table.navg {
+	font-family: Arial, verdana, sans-serif;
+	background-color: #ededed;
+}
+
+td {
+	font-family: Arial, verdana, sans-serif;
+	font-size:12px;
+/*	word-break: break-all; */
+/*	word-wrap:break-word;  */
+/*	text-align: center; */
+}
+td.bl {
+	font-family: Arial, verdana, sans-serif;
+	font-size:12px;
+	background-color: #ffffff;
+	text-align: left; 
+}
+td.bc {
+	font-family: Arial, verdana, sans-serif;
+	font-size:12px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+td.content {
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	color: black;
+	text-align: left;
+	background-color: #ffffff;
+
+        border: solid 2px black; 
+}
+
+td.contentB {
+        font-size:12px;
+        font-family: Arial, verdana, sans-serif;
+        color: black;
+        text-align: left;
+        background-color: #ffffff;
+        border: solid 2px black; 
+	
+        font-weight: bold;
+}
+
+/* header with border */
+td.header {
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	color: #006600;
+	text-align: left;
+	background-color: #ffffff;
+
+        border-style: solid;
+}
+td.headerC {
+	font-size:22px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	color: #006600;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+
+	border-style: solid; 
+}
+
+/* header without border */
+td.header2 {
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	color: #006600;
+	text-align: left;
+	vertical-align: top;
+	background-color: #ffffff;
+}
+td.header3 {
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	color: #006600;
+	text-align: left;
+	vertical-align: top;
+}
+td.header2C {
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	color: #006600;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+}
+
+td.Lheader {
+	font-size:18px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	color: #000099;
+	text-align: left;
+	background-color: #b3daff;
+}
+A {
+	font-size:12px;
+	text-decoration: none;
+	color: blue;
+	font-family: Arial, verdana, sans-serif;
+}
+
+A:hover {
+color: #aa0000;
+	   text-decoration: underline;
+}
+
+
+A.visiting{
+	font-size:20px;
+	text-decoration: none; 
+color: blue;
+	font-weight: bold;
+	font-family: Arial, verdana, sans-serif;
+}
+
+h2{
+	font-size:24px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+}
+h3{
+	font-size:21px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+}
+
+P{
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+}
+P.tiny{
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+}
+P.warn{
+	font-size:20px;
+	font-family: Arial, verdana, sans-serif;
+	color: black;
+	font-weight: bold;
+       background-color: red;
+}
+P.good{
+        font-size:20px;
+        font-family: Arial, verdana, sans-serif;
+        color: black;
+        font-weight: bold;
+       background-color: green;            
+}
+P.header{
+        font-size:14px;
+        font-family: Arial, verdana, sans-serif;
+        color: white;
+        font-weight: bold;
+        background-color: #787878; 
+        padding:0.05cm;
+}
+P.info{/*words that describe the page*/
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+}
+P.infoshort{/*words that describe the page*/
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	font-weight: bold;
+	width: 700px;
+}
+
+P.sequence{
+	font-size:12px;
+	font-family: Courier, "Courier New";
+	width: 500px;
+}
+
+P.footer{/*words that describe the page*/
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+	color: #858585;
+	font-weight: bold;
+	width: 800px;
+}
+
+li {
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+}
+
+li.sh { /* short one */
+	font-size:12px;
+	font-family: Arial, verdana, sans-serif;
+width: 730px;
+}
+
+span.kHL{ /* key word highlight */
+	background-color: #ffff99;
+}
+
+
+
+div{
+        font-size:12px;           
+        font-family: Arial, verdana, sans-serif;
+}                      
+div.header{            
+        font-size:12px;                         
+        font-family: Arial, verdana, sans-serif;
+        color: black;
+        font-weight: bold;
+        background-color: #6699FF;
+} 

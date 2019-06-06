@@ -1,0 +1,30 @@
+target: AT3G55140.1
+length: 1246
+miRNA: ath-miR838
+length: 21
+
+mfe: -28.9 kcal/mol
+p-value: 0.001549
+
+position: 195
+target 5' C   A                G  3'
+           GUG AGGAGGUAGGAGGAAA    
+           CAC UUCUUCAUCUUCUUUU    
+miRNA  3' A   G                   5'
+
+
+target: AT3G55140.2
+length: 1402
+miRNA: ath-miR838
+length: 21
+
+mfe: -28.9 kcal/mol
+p-value: 0.001816
+
+position: 353
+target 5' C   A                G  3'
+           GUG AGGAGGUAGGAGGAAA    
+           CAC UUCUUCAUCUUCUUUU    
+miRNA  3' A   G                   5'
+
+

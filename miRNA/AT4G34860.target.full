@@ -1,0 +1,30 @@
+target: AT4G34860.1
+length: 2330
+miRNA: ath-miR1886
+length: 21
+
+mfe: -19.0 kcal/mol
+p-value: 0.294455
+
+position:  1258
+target 5' C        G      A     A 3'
+           GUAGGAUG GAGUUU UGGUU 
+           CAUUCUAC UUUAGA AUUAA 
+miRNA  3' U               A       5'
+
+
+target: AT4G34860.2
+length: 2214
+miRNA: ath-miR1886
+length: 21
+
+mfe: -19.0 kcal/mol
+p-value: 0.276069
+
+position:  1142
+target 5' C        G      A     A 3'
+           GUAGGAUG GAGUUU UGGUU 
+           CAUUCUAC UUUAGA AUUAA 
+miRNA  3' U               A       5'
+
+

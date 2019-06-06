@@ -1,0 +1,30 @@
+target: AT2G46680.1
+length: 1327
+miRNA: ath-miR865-3p
+length: 21
+
+mfe: -26.6 kcal/mol
+p-value: 0.001288
+
+position:  792
+target 5' U                     C 3'
+           UUGG UGGGUUUGAGGAAGAA 
+           AACC AUUUAAACUCCUUUUU 
+miRNA  3'      U                  5'
+
+
+target: AT2G46680.2
+length: 1308
+miRNA: ath-miR865-3p
+length: 21
+
+mfe: -26.6 kcal/mol
+p-value: 0.001266
+
+position:  786
+target 5' U                     C 3'
+           UUGG UGGGUUUGAGGAAGAA 
+           AACC AUUUAAACUCCUUUUU 
+miRNA  3'      U                  5'
+
+

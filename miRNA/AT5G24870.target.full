@@ -1,0 +1,120 @@
+target: AT5G24870.1
+length: 2086
+miRNA: ath-miR162a
+length: 21
+
+mfe: -27.2 kcal/mol
+p-value: 0.008340
+
+position:  1391
+target 5' A    G U        A       C 3'
+           UGGA U GCAGAGGU UUGUUGG 
+           ACCU A CGUCUCCA AAUAGCU 
+miRNA  3' G                         5'
+
+
+target: AT5G24870.1
+length: 2086
+miRNA: ath-miR162b
+length: 21
+
+mfe: -27.2 kcal/mol
+p-value: 0.004303
+
+position:  1391
+target 5' A    G U        A       C 3'
+           UGGA U GCAGAGGU UUGUUGG 
+           ACCU A CGUCUCCA AAUAGCU 
+miRNA  3' G                         5'
+
+
+target: AT5G24870.1
+length: 2086
+miRNA: ath-miR414
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.012951
+
+position:  1719
+target 5' A    U   U            A 3'
+           GA G AUG UGAUGGAGAUGA 
+           CU C UAC ACUACUUCUACU 
+miRNA  3' A  G     U              5'
+
+
+target: AT5G24870.1
+length: 2086
+miRNA: ath-miR447c
+length: 22
+
+mfe: -30.0 kcal/mol
+p-value: 0.002909
+
+position:  393
+target 5' U                    U 3'
+           GAUAAGAG UGUUGUCCCUA 
+           UUGUUUUC ACAGCAGGGGU 
+miRNA  3' G        U           U 5'
+
+
+target: AT5G24870.2
+length: 2204
+miRNA: ath-miR162a
+length: 21
+
+mfe: -27.2 kcal/mol
+p-value: 0.008819
+
+position:  1509
+target 5' A    G U        A       C 3'
+           UGGA U GCAGAGGU UUGUUGG 
+           ACCU A CGUCUCCA AAUAGCU 
+miRNA  3' G                         5'
+
+
+target: AT5G24870.2
+length: 2204
+miRNA: ath-miR162b
+length: 21
+
+mfe: -27.2 kcal/mol
+p-value: 0.004644
+
+position:  1509
+target 5' A    G U        A       C 3'
+           UGGA U GCAGAGGU UUGUUGG 
+           ACCU A CGUCUCCA AAUAGCU 
+miRNA  3' G                         5'
+
+
+target: AT5G24870.2
+length: 2204
+miRNA: ath-miR414
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.013799
+
+position:  1837
+target 5' A    U   U            A 3'
+           GA G AUG UGAUGGAGAUGA 
+           CU C UAC ACUACUUCUACU 
+miRNA  3' A  G     U              5'
+
+
+target: AT5G24870.2
+length: 2204
+miRNA: ath-miR447c
+length: 22
+
+mfe: -30.0 kcal/mol
+p-value: 0.003085
+
+position:  511
+target 5' U                    U 3'
+           GAUAAGAG UGUUGUCCCUA 
+           UUGUUUUC ACAGCAGGGGU 
+miRNA  3' G        U           U 5'
+
+

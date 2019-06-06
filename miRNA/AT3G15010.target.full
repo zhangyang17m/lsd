@@ -1,0 +1,75 @@
+target: AT3G15010.2
+length: 2212
+miRNA: ath-miR172a
+length: 21
+
+mfe: -27.3 kcal/mol
+p-value: 0.011305
+
+position:  1372
+target 5' U    U         U     A 3'
+           GUGU GCAUUAUCA GAUUC 
+           UACG CGUAGUAGU CUAAG 
+miRNA  3'      U         U     A 5'
+
+
+target: AT3G15010.2
+length: 2212
+miRNA: ath-miR172b
+length: 21
+
+mfe: -27.3 kcal/mol
+p-value: 0.011070
+
+position:  1372
+target 5' U    U         U     A 3'
+           GUGU GCAUUAUCA GAUUC 
+           UACG CGUAGUAGU CUAAG 
+miRNA  3'      U         U     A 5'
+
+
+target: AT3G15010.2
+length: 2212
+miRNA: ath-miR172c
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.015466
+
+position:  1373
+target 5' G   U         U     A 3'
+           UGU GCAUUAUCA GAUUC 
+           ACG CGUAGUAGU CUAAG 
+miRNA  3' G   U         U     A 5'
+
+
+target: AT3G15010.2
+length: 2212
+miRNA: ath-miR172d
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.016235
+
+position:  1373
+target 5' G   U         U     A 3'
+           UGU GCAUUAUCA GAUUC 
+           ACG CGUAGUAGU CUAAG 
+miRNA  3' G   U         U     A 5'
+
+
+target: AT3G15010.2
+length: 2212
+miRNA: ath-miR172e
+length: 21
+
+mfe: -27.1 kcal/mol
+p-value: 0.012931
+
+position:  1372
+target 5' U    U         U     A 3'
+           GUGU GCAUUAUCA GAUUC 
+           UACG CGUAGUAGU CUAAG 
+miRNA  3'      U         U     G 5'
+
+

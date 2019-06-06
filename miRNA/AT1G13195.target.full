@@ -1,0 +1,30 @@
+target: AT1G13195.1
+length: 1223
+miRNA: ath-miR860
+length: 21
+
+mfe: -26.9 kcal/mol
+p-value: 0.001908
+
+position: 499
+target 5' C    A           A   A  3'
+           UACA GGUCCAGUCUG UGG    
+           AUGU UCAGGUUAGAU ACU    
+miRNA  3' U    A           A      5'
+
+
+target: AT1G13195.2
+length: 1553
+miRNA: ath-miR860
+length: 21
+
+mfe: -26.9 kcal/mol
+p-value: 0.002638
+
+position: 829
+target 5' C    A           A   A  3'
+           UACA GGUCCAGUCUG UGG    
+           AUGU UCAGGUUAGAU ACU    
+miRNA  3' U    A           A      5'
+
+

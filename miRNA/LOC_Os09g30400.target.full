@@ -1,0 +1,45 @@
+target: LOC_Os09g30400.1
+length: 2833
+miRNA: osa-miR2864.1
+length: 21
+
+mfe: -31.5 kcal/mol
+p-value: 0.007047
+
+position: 960
+target 5' G        C     U      G  3'
+           GCAGAGCG AGGGC GCGAGG    
+           CGUUUUGU UCCCG CGUUUU    
+miRNA  3' A              U         5'
+
+
+target: LOC_Os09g30400.2
+length: 2712
+miRNA: osa-miR2864.1
+length: 21
+
+mfe: -31.5 kcal/mol
+p-value: 0.006670
+
+position: 839
+target 5' G        C     U      G  3'
+           GCAGAGCG AGGGC GCGAGG    
+           CGUUUUGU UCCCG CGUUUU    
+miRNA  3' A              U         5'
+
+
+target: LOC_Os09g30400.3
+length: 2224
+miRNA: osa-miR2864.1
+length: 21
+
+mfe: -31.5 kcal/mol
+p-value: 0.005167
+
+position: 351
+target 5' G        C     U      G  3'
+           GCAGAGCG AGGGC GCGAGG    
+           CGUUUUGU UCCCG CGUUUU    
+miRNA  3' A              U         5'
+
+

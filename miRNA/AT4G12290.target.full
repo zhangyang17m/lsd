@@ -1,0 +1,15 @@
+target: AT4G12290.1
+length: 2420
+miRNA: ath-miR171a
+length: 21
+
+mfe: -26.8 kcal/mol
+p-value: 0.027798
+
+position:  1319
+target 5' A              G   C  C 3'
+           GAUAUUGG GUGGC UCA UC 
+           CUAUAACC CGCCG AGU AG 
+miRNA  3'          G         U  U 5'
+
+

@@ -1,0 +1,30 @@
+target: AT2G30550.1
+length: 1589
+miRNA: ath-miR832-5p
+length: 21
+
+mfe: -28.2 kcal/mol
+p-value: 0.014994
+
+position:  450
+target 5' C                    U 3'
+           UUUCGAUU UCGAUCCC GC 
+           AAAGCUAA GGCUAGGG CG 
+miRNA  3'          G        U  U 5'
+
+
+target: AT2G30550.2
+length: 1774
+miRNA: ath-miR832-5p
+length: 21
+
+mfe: -28.2 kcal/mol
+p-value: 0.016987
+
+position:  461
+target 5' C                    U 3'
+           UUUCGAUU UCGAUCCC GC 
+           AAAGCUAA GGCUAGGG CG 
+miRNA  3'          G        U  U 5'
+
+

@@ -1,0 +1,60 @@
+target: AT1G20620.1
+length: 1901
+miRNA: ath-miR781
+length: 21
+
+mfe: -23.8 kcal/mol
+p-value: 0.044221
+
+position:  576
+target 5' A                    A 3'
+           GAGUA CUGGAGGAUUCUGG 
+           UUCAU GGUCUUUUGAGAUU 
+miRNA  3' A     A                5'
+
+
+target: AT1G20620.2
+length: 2000
+miRNA: ath-miR781
+length: 21
+
+mfe: -23.8 kcal/mol
+p-value: 0.046769
+
+position:  576
+target 5' A                    A 3'
+           GAGUA CUGGAGGAUUCUGG 
+           UUCAU GGUCUUUUGAGAUU 
+miRNA  3' A     A                5'
+
+
+target: AT1G20620.4
+length: 1899
+miRNA: ath-miR781
+length: 21
+
+mfe: -23.8 kcal/mol
+p-value: 0.044169
+
+position:  574
+target 5' A                    A 3'
+           GAGUA CUGGAGGAUUCUGG 
+           UUCAU GGUCUUUUGAGAUU 
+miRNA  3' A     A                5'
+
+
+target: AT1G20620.5
+length: 1817
+miRNA: ath-miR781
+length: 21
+
+mfe: -23.8 kcal/mol
+p-value: 0.042048
+
+position:  576
+target 5' A                    A 3'
+           GAGUA CUGGAGGAUUCUGG 
+           UUCAU GGUCUUUUGAGAUU 
+miRNA  3' A     A                5'
+
+

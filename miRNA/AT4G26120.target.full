@@ -1,0 +1,15 @@
+target: AT4G26120.1
+length: 1803
+miRNA: ath-miR866-3p
+length: 20
+
+mfe: -21.5 kcal/mol
+p-value: 0.051399
+
+position:  1158
+target 5' U   C G           A  C 3'
+           UCU U AAAGGCGGAUU UG 
+           AGA A UUUCUGCCUAA AC 
+miRNA  3'       G           A  A 5'
+
+

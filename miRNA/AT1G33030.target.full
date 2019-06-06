@@ -1,0 +1,15 @@
+target: AT1G33030.1
+length: 1231
+miRNA: ath-miR414
+length: 21
+
+mfe: -31.0 kcal/mol
+p-value: 0.000578
+
+position: 636
+target 5' U     U               C  3'
+           UGAUG UGGUGGUGGAGAUGG    
+           ACUGC ACUACUACUUCUACU    
+miRNA  3'       U                  5'
+
+

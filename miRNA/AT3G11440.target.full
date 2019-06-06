@@ -1,0 +1,45 @@
+target: AT3G11440.1
+length: 2013
+miRNA: ath-miR159a
+length: 21
+
+mfe: -37.7 kcal/mol
+p-value: 0.000343
+
+position: 1153
+target 5' C              U     U  3'
+           UGGAGCUCCCUUCA UCCAA    
+           AUCUCGAGGGAAGU AGGUU    
+miRNA  3'                U     U  5'
+
+
+target: AT3G11440.1
+length: 2013
+miRNA: ath-miR159b
+length: 21
+
+mfe: -36.9 kcal/mol
+p-value: 0.000392
+
+position: 1154
+target 5' U             U     U  3'
+           GGAGCUCCCUUCA UCCAA    
+           UCUCGAGGGAAGU AGGUU    
+miRNA  3' U             U     U  5'
+
+
+target: AT3G11440.1
+length: 2013
+miRNA: ath-miR159c
+length: 21
+
+mfe: -39.0 kcal/mol
+p-value: 0.000262
+
+position: 1154
+target 5' U             U     U  3'
+           GGAGCUCCCUUCA UCCAA    
+           CCUCGAGGGAAGU AGGUU    
+miRNA  3' U             U     U  5'
+
+

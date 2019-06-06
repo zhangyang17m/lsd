@@ -1,0 +1,15 @@
+target: AT5G40720.1
+length: 2023
+miRNA: ath-miR5664
+length: 21
+
+mfe: -27.9 kcal/mol
+p-value: 0.001190
+
+position: 640
+target 5' A  C                 G  3'
+           CA ACCGAUGGGAUUGGCUG    
+           GU UGGCUAUUUUAACUGAU    
+miRNA  3'    C                 A  5'
+
+

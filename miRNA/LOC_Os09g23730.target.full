@@ -1,0 +1,30 @@
+target: LOC_Os09g23730
+length: 1083
+miRNA: osa-miR160f
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.012994
+
+position:  711
+target 5' C C  G            C  C 3'
+           G CG UCGGGGAGCCAG CG 
+           C GU AGUCCCUCGGUC GU 
+miRNA  3' A C  A            C    5'
+
+
+target: LOC_Os09g23730
+length: 1083
+miRNA: osa-miR1848
+length: 21
+
+mfe: -37.0 kcal/mol
+p-value: 0.003923
+
+position:  701
+target 5' A A C            U     A 3'
+           G C CGC CGCGCCGG CGGGG 
+           C G GCG GCGCGGCC GCUCC 
+miRNA  3' A   U   C                5'
+
+

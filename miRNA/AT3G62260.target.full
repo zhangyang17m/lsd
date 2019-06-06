@@ -1,0 +1,30 @@
+target: AT3G62260.1
+length: 1571
+miRNA: ath-miR869
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.035333
+
+position:  1005
+target 5' C  C   G       A      A 3'
+           UC ACU AUCUCGG ACCAGA 
+           AG UGA UAGAGUU UGGUCU 
+miRNA  3' C  U           G        5'
+
+
+target: AT3G62260.2
+length: 1560
+miRNA: ath-miR869
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.035044
+
+position:  994
+target 5' C  C   G       A      A 3'
+           UC ACU AUCUCGG ACCAGA 
+           AG UGA UAGAGUU UGGUCU 
+miRNA  3' C  U           G        5'
+
+

@@ -1,0 +1,15 @@
+target: AT3G51440.1
+length: 1251
+miRNA: ath-miR157d
+length: 20
+
+mfe: -28.7 kcal/mol
+p-value: 0.001775
+
+position:  691
+target 5' G   U          C   A   A 3'
+           GUG CUCUCUGUCU CUG UCA 
+           CAC GAGAGAUAGA GAC AGU 
+miRNA  3'                A         5'
+
+

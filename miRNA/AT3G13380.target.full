@@ -1,0 +1,75 @@
+target: AT3G13380.1
+length: 4274
+miRNA: ath-miR399e
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.039850
+
+position:  1426
+target 5' U       C     C      C 3'
+           GAGGCAG UCUCU UUG CA 
+           CUCCGUU AGAGG AAC GU 
+miRNA  3' G       U     A   C    5'
+
+
+target: AT3G13380.1
+length: 4274
+miRNA: ath-miR779
+length: 21
+
+mfe: -22.1 kcal/mol
+p-value: 0.085141
+
+position:  1307
+target 5' C                     G 3'
+           GG CGAC AGAUUUCCGGUUA 
+           UC GUUG UUUAAAGGUUAGU 
+miRNA  3'    A    C               5'
+
+
+target: AT3G13380.1
+length: 4274
+miRNA: ath-miR780
+length: 21
+
+mfe: -28.0 kcal/mol
+p-value: 0.050570
+
+position:  3040
+target 5' C     G        A      A 3'
+           AUCUG U AGCAGC GCUGGA 
+           UGGAC A UUGUCG CGAUCU 
+miRNA  3'       G G      A        5'
+
+
+target: AT3G13380.1
+length: 4274
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -22.1 kcal/mol
+p-value: 0.198719
+
+position:  3235
+target 5' U  U     U            U 3'
+           UG AGCGA CAAGAAGUUGAU 
+           AC UUGCU GUUCUUUGACUA 
+miRNA  3'    U     U              5'
+
+
+target: AT3G13380.1
+length: 4274
+miRNA: ath-miR858
+length: 21
+
+mfe: -25.7 kcal/mol
+p-value: 0.068556
+
+position:  2358
+target 5' G     G        U  A    U 3'
+           AAGGU GGACGGAU GC GAGG 
+           UUCCA CUUGUCUG UG CUUU 
+miRNA  3'       G        U         5'
+
+

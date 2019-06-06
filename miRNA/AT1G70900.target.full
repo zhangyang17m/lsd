@@ -1,0 +1,15 @@
+target: AT1G70900.1
+length: 1191
+miRNA: ath-miR771
+length: 22
+
+mfe: -31.1 kcal/mol
+p-value: 0.006112
+
+position:  256
+target 5' U         U             U 3'
+           UGAGGG UG CCAUGG GGUUCA 
+           ACUCCC AU GGUGUC CCGAGU 
+miRNA  3'        G         U        5'
+
+

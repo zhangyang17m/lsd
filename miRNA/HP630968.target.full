@@ -1,0 +1,15 @@
+target: HP630968.1
+length: 382
+miRNA: tae-miR1130
+length: 23
+
+mfe: -35.4 kcal/mol
+p-value: 0.000005
+
+position: 195
+target 5' A  U  C                  G  3'
+           CG UC UAUAUUAUGGGACGGAGG    
+           GC AG AUGUAAUGCUCUGCCUCC    
+miRNA  3'       A                     5'
+
+

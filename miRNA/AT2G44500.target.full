@@ -1,0 +1,30 @@
+target: AT2G44500.1
+length: 2181
+miRNA: ath-miR5640
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.001602
+
+position: 284
+target 5' A              A     U  3'
+           GAAUCUGGUUCUUU CUCUC    
+           CUUAGAUUAAGGAA GAGAG    
+miRNA  3' A                    U  5'
+
+
+target: AT2G44500.2
+length: 2309
+miRNA: ath-miR5640
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.001716
+
+position: 333
+target 5' A              A     U  3'
+           GAAUCUGGUUCUUU CUCUC    
+           CUUAGAUUAAGGAA GAGAG    
+miRNA  3' A                    U  5'
+
+

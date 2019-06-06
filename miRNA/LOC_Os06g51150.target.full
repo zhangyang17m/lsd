@@ -1,0 +1,15 @@
+target: LOC_Os06g51150
+length: 2176
+miRNA: osa-miR1867
+length: 24
+
+mfe: -29.3 kcal/mol
+p-value: 0.008834
+
+position:  1828
+target 5' C   G  G                U 3'
+           CUU CU UGUCUUGGGAAAGAGA 
+           GAG GA ACAGGAUCUUUUUUUU 
+miRNA  3' U   G  G                  5'
+
+

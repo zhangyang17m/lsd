@@ -1,0 +1,45 @@
+target: AT5G62000.1
+length: 3522
+miRNA: ath-miR868
+length: 21
+
+mfe: -22.9 kcal/mol
+p-value: 0.054702
+
+position:  3055
+target 5' U       C            C 3'
+           CAUUGUC AGCGCU GGGAA 
+           GUAAUAG UCGUGA UUCUU 
+miRNA  3' C              A     C 5'
+
+
+target: AT5G62000.2
+length: 3391
+miRNA: ath-miR868
+length: 21
+
+mfe: -22.9 kcal/mol
+p-value: 0.052712
+
+position:  2929
+target 5' U       C            C 3'
+           CAUUGUC AGCGCU GGGAA 
+           GUAAUAG UCGUGA UUCUU 
+miRNA  3' C              A     C 5'
+
+
+target: AT5G62000.3
+length: 3396
+miRNA: ath-miR868
+length: 21
+
+mfe: -22.9 kcal/mol
+p-value: 0.052788
+
+position:  2929
+target 5' U       C            C 3'
+           CAUUGUC AGCGCU GGGAA 
+           GUAAUAG UCGUGA UUCUU 
+miRNA  3' C              A     C 5'
+
+

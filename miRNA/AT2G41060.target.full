@@ -1,0 +1,75 @@
+target: AT2G41060.1
+length: 1787
+miRNA: ath-miR159a
+length: 21
+
+mfe: -30.2 kcal/mol
+p-value: 0.006073
+
+position:  107
+target 5' G              A    C 3'
+           AGGGCUCUCUUCAA UCAA 
+           UCUCGAGGGAAGUU GGUU 
+miRNA  3' A              A    U 5'
+
+
+target: AT2G41060.1
+length: 1787
+miRNA: ath-miR159b
+length: 21
+
+mfe: -30.7 kcal/mol
+p-value: 0.004828
+
+position:  106
+target 5' A               A    C 3'
+           GAGGGCUCUCUUCAA UCAA 
+           UUCUCGAGGGAAGUU GGUU 
+miRNA  3'                 A    U 5'
+
+
+target: AT2G41060.1
+length: 1787
+miRNA: ath-miR159c
+length: 21
+
+mfe: -28.8 kcal/mol
+p-value: 0.011814
+
+position:  105
+target 5' U  A             A    C 3'
+           AG GGGCUCUCUUCAA UCAA 
+           UC CUCGAGGGAAGUU GGUU 
+miRNA  3'                  A    U 5'
+
+
+target: AT2G41060.1
+length: 1787
+miRNA: ath-miR2938
+length: 21
+
+mfe: -32.6 kcal/mol
+p-value: 0.003331
+
+position:  420
+target 5' U       G             A 3'
+           UGGAACC UUUUCAAAGGAUC 
+           ACCUUGG GAGAGUUUUCUAG 
+miRNA  3' G                       5'
+
+
+target: AT2G41060.2
+length: 1703
+miRNA: ath-miR2938
+length: 21
+
+mfe: -32.6 kcal/mol
+p-value: 0.003164
+
+position:  271
+target 5' U       G             A 3'
+           UGGAACC UUUUCAAAGGAUC 
+           ACCUUGG GAGAGUUUUCUAG 
+miRNA  3' G                       5'
+
+

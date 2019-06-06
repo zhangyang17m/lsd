@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [
+<!ENTITY testEnt "test entity">
+]>
+<foo>
+   <element attrib="value"/>
+   &testEnt;
+   <?php print "This is some more PHP code being executed."; ?>
+</foo>
+

@@ -1,0 +1,15 @@
+target: AT5G54060.1
+length: 1491
+miRNA: ath-miR776
+length: 21
+
+mfe: -21.9 kcal/mol
+p-value: 0.049472
+
+position:  555
+target 5' A        G      G    C 3'
+           AAUGUCAG GGAGGA UUAG 
+           UUGUAGUU UCUUCU AAUC 
+miRNA  3'          A      G    U 5'
+
+

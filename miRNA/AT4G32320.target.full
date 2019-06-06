@@ -1,0 +1,15 @@
+target: AT4G32320.1
+length: 1211
+miRNA: ath-miR5661
+length: 21
+
+mfe: -30.8 kcal/mol
+p-value: 0.000994
+
+position: 393
+target 5' A                   G  3'
+           AGGCUGC UGGUGUGCUUC    
+           UCUGAUG ACUACAUGGAG    
+miRNA  3' G       U           A  5'
+
+

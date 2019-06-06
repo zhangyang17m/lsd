@@ -1,0 +1,15 @@
+target: AT3G60190.1
+length: 2253
+miRNA: ath-miR870
+length: 21
+
+mfe: -27.9 kcal/mol
+p-value: 0.007720
+
+position: 1429
+target 5' A                    C  3'
+           AUCGAAGGGGCACUGGGUUA    
+           UAGCUUCUUUGUGGUUUAAU    
+miRNA  3' C                       5'
+
+

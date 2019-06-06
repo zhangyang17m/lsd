@@ -1,0 +1,15 @@
+target: AT3G62640.1
+length: 612
+miRNA: ath-miR5653
+length: 24
+
+mfe: -38.8 kcal/mol
+p-value: 0.000065
+
+position: 149
+target 5' C    G  U               A  3'
+           CCAA UC ACUCAACUCGACCCG    
+           GGUU AG UGAGUUGAGUUGGGU    
+miRNA  3' C    G  U                  5'
+
+

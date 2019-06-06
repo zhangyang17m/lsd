@@ -1,0 +1,30 @@
+target: AT4G19950.1
+length: 1207
+miRNA: ath-miR447a-3p
+length: 22
+
+mfe: -32.5 kcal/mol
+p-value: 0.000826
+
+position: 458
+target 5' U      U  C            A  3'
+           CAGCGA AC UCUCGUCCUCAA    
+           GUUGUU UG AGAGCAGGGGUU    
+miRNA  3'        U  U               5'
+
+
+target: AT4G19950.1
+length: 1207
+miRNA: ath-miR447b
+length: 22
+
+mfe: -32.5 kcal/mol
+p-value: 0.000953
+
+position: 458
+target 5' U      U  C            A  3'
+           CAGCGA AC UCUCGUCCUCAA    
+           GUUGUU UG AGAGCAGGGGUU    
+miRNA  3'        U  U               5'
+
+

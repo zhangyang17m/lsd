@@ -1,0 +1,30 @@
+target: AT3G18830.1
+length: 1822
+miRNA: ath-miR394a
+length: 20
+
+mfe: -27.3 kcal/mol
+p-value: 0.018989
+
+position:  1377
+target 5' U  U    A        A    U 3'
+           GG GGUG ACAGAGUG CUAG 
+           CC CCAC UGUCUUAC GGUU 
+miRNA  3'    U    C               5'
+
+
+target: AT3G18830.1
+length: 1822
+miRNA: ath-miR394b
+length: 20
+
+mfe: -27.3 kcal/mol
+p-value: 0.015300
+
+position:  1377
+target 5' U  U    A        A    U 3'
+           GG GGUG ACAGAGUG CUAG 
+           CC CCAC UGUCUUAC GGUU 
+miRNA  3'    U    C               5'
+
+

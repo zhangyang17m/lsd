@@ -1,0 +1,75 @@
+target: AB037595
+length: 1275
+miRNA: osa-miR812a
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.008152
+
+position:  607
+target 5' U              C       G 3'
+           UCCAA G UUGGCC GUCUGUC 
+           AGGUU C AAUUGG CAGGCAG 
+miRNA  3' C     G A                5'
+
+
+target: AB037595
+length: 1275
+miRNA: osa-miR812b
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.006779
+
+position:  607
+target 5' U              C       G 3'
+           UCCAA G UUGGCC GUCUGUC 
+           AGGUU C AAUUGG CAGGCAG 
+miRNA  3' C     G A                5'
+
+
+target: AB037595
+length: 1275
+miRNA: osa-miR812c
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.007373
+
+position:  607
+target 5' U              C       G 3'
+           UCCAA G UUGGCC GUCUGUC 
+           AGGUU C AAUUGG CAGGCAG 
+miRNA  3' C     G A                5'
+
+
+target: AB037595
+length: 1275
+miRNA: osa-miR812d
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.008247
+
+position:  607
+target 5' U              C       G 3'
+           UCCAA G UUGGCC GUCUGUC 
+           AGGUU C AAUUGG CAGGCAG 
+miRNA  3' C     G A                5'
+
+
+target: AB037595
+length: 1275
+miRNA: osa-miR812e
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.008101
+
+position:  607
+target 5' U              C       G 3'
+           UCCAA G UUGGCC GUCUGUC 
+           AGGUU C AAUUGG CAGGCAG 
+miRNA  3' C     G A                5'
+
+

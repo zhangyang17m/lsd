@@ -1,0 +1,2 @@
+256008_s_at	AT1G34040	" alliinase family protein contains Pfam profiles: PF04864 allinase C-terminal domain, PF04863 alliinase EGF-like domain"			68.90	0.47	1.36	0.99				6.10643029	-1.09025624	0.447043609	-0.020323024	0	0
+249112_at	AT5G43780	 sulfate adenylyltransferase 4 / ATP-sulfurylase 4 (APS4) identical to ATP sulfurylase precursor (APS4) [Arabidopsis thaliana] GI:4633131			3.36	0.85	0.91	0.90	1.33	1.46		1.747957702	-0.240468955	-0.138588315	-0.148234868	0.41430265	0.545125391

@@ -1,0 +1,30 @@
+target: AT5G13750.1
+length: 1845
+miRNA: ath-miR858
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.044687
+
+position:  181
+target 5' C        U       A   G 3'
+           AAGGUUGA CAGAUGA GAG 
+           UUCCAGCU GUCUGUU CUU 
+miRNA  3'          U       G   U 5'
+
+
+target: AT5G13750.3
+length: 1835
+miRNA: ath-miR858
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.044414
+
+position:  181
+target 5' C        U       A   G 3'
+           AAGGUUGA CAGAUGA GAG 
+           UUCCAGCU GUCUGUU CUU 
+miRNA  3'          U       G   U 5'
+
+

@@ -1,0 +1,15 @@
+target: AT4G04500.1
+length: 2039
+miRNA: ath-miR170
+length: 21
+
+mfe: -24.3 kcal/mol
+p-value: 0.053741
+
+position:  106
+target 5' A     A  U     G       A 3'
+           AUGUU AC ACGGC UCAGUCG 
+           UAUAA UG UGCCG AGUUAGU 
+miRNA  3' C     C                  5'
+
+

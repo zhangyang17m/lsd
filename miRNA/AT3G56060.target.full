@@ -1,0 +1,15 @@
+target: AT3G56060.1
+length: 1958
+miRNA: ath-miR2938
+length: 21
+
+mfe: -32.8 kcal/mol
+p-value: 0.001458
+
+position: 1258
+target 5' A       G             A  3'
+           UGG ACC CUCUCGAGAGGUC    
+           ACC UGG GAGAGUUUUCUAG    
+miRNA  3' G   U                    5'
+
+

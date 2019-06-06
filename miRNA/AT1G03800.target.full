@@ -1,0 +1,15 @@
+target: AT1G03800.1
+length: 738
+miRNA: ath-miR414
+length: 21
+
+mfe: -26.1 kcal/mol
+p-value: 0.001557
+
+position:  383
+target 5' A        G       A   C 3'
+           GACGGUGA UGAUGGA AUG 
+           CUGCUACU ACUACUU UAC 
+miRNA  3' A                C   U 5'
+
+

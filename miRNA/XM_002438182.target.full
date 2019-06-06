@@ -1,0 +1,15 @@
+target: XM_002438182.1
+length: 1555
+miRNA: sbi-miR5384
+length: 18
+
+mfe: -36.7 kcal/mol
+p-value: 0.000628
+
+position: 840
+target 5' A             G    U  3'
+           CGC GGGCGGCGG CGCG    
+           GCG CCUGCCGCC GCGC    
+miRNA  3' G   A                 5'
+
+

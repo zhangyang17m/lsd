@@ -1,0 +1,15 @@
+target: AT2G17290.1
+length: 2332
+miRNA: ath-miR771
+length: 22
+
+mfe: -34.1 kcal/mol
+p-value: 0.004285
+
+position:  345
+target 5' C      A       U    C  A 3'
+           GAGGGC AUCAUAG AGGC CG 
+           CUCCCG UGGUGUC UCCG GU 
+miRNA  3' A      A            A    5'
+
+

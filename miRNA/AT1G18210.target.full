@@ -1,0 +1,30 @@
+target: AT1G18210.1
+length: 860
+miRNA: ath-miR2936
+length: 22
+
+mfe: -26.5 kcal/mol
+p-value: 0.006396
+
+position:  503
+target 5' A       C             C 3'
+           CGUC GU UUCUCUC CUCAA 
+           GCAG CA AAGAGAG GAGUU 
+miRNA  3'      A  C       A     C 5'
+
+
+target: AT1G18210.2
+length: 667
+miRNA: ath-miR2936
+length: 22
+
+mfe: -26.5 kcal/mol
+p-value: 0.004491
+
+position:  503
+target 5' A       C             C 3'
+           CGUC GU UUCUCUC CUCAA 
+           GCAG CA AAGAGAG GAGUU 
+miRNA  3'      A  C       A     C 5'
+
+

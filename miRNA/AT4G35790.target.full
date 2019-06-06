@@ -1,0 +1,45 @@
+target: AT4G35790.1
+length: 3155
+miRNA: ath-miR5021
+length: 20
+
+mfe: -30.5 kcal/mol
+p-value: 0.000132
+
+position: 247
+target 5' C                   C  3'
+           UUUUCUUCUUCUUCUUCUU    
+           AAAAGAAGAAGAAGAAGAG    
+miRNA  3'                     U  5'
+
+
+target: AT4G35790.2
+length: 3122
+miRNA: ath-miR5021
+length: 20
+
+mfe: -30.5 kcal/mol
+p-value: 0.000130
+
+position: 247
+target 5' C                   C  3'
+           UUUUCUUCUUCUUCUUCUU    
+           AAAAGAAGAAGAAGAAGAG    
+miRNA  3'                     U  5'
+
+
+target: AT4G35790.3
+length: 3261
+miRNA: ath-miR5021
+length: 20
+
+mfe: -30.5 kcal/mol
+p-value: 0.000140
+
+position: 247
+target 5' C                   C  3'
+           UUUUCUUCUUCUUCUUCUU    
+           AAAAGAAGAAGAAGAAGAG    
+miRNA  3'                     U  5'
+
+

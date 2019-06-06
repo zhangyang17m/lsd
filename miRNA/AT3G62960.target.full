@@ -1,0 +1,30 @@
+target: AT3G62960.1
+length: 615
+miRNA: ath-miR168a
+length: 21
+
+mfe: -31.6 kcal/mol
+p-value: 0.001972
+
+position:  243
+target 5' G                C    U 3'
+           UCUUGG CUGCGCCAA GCGG 
+           AGGGCU GACGUGGUU CGCU 
+miRNA  3' A      G                5'
+
+
+target: AT3G62960.1
+length: 615
+miRNA: ath-miR168b
+length: 21
+
+mfe: -31.6 kcal/mol
+p-value: 0.003674
+
+position:  243
+target 5' G                C    U 3'
+           UCUUGG CUGCGCCAA GCGG 
+           AGGGCU GACGUGGUU CGCU 
+miRNA  3' A      G                5'
+
+

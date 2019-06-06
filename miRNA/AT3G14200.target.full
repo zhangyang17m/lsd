@@ -1,0 +1,15 @@
+target: AT3G14200.1
+length: 1292
+miRNA: ath-miR865-5p
+length: 21
+
+mfe: -20.7 kcal/mol
+p-value: 0.040300
+
+position:  400
+target 5' U     A   C            U 3'
+           CUCAG UGG AUCCAGA UCGU 
+           GAGUU AUC UAGGUUU AGUA 
+miRNA  3'       A           A      5'
+
+

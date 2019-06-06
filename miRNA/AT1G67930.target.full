@@ -1,0 +1,15 @@
+target: AT1G67930.1
+length: 2668
+miRNA: ath-miR397b
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.058664
+
+position:  1222
+target 5' A   U G              A 3'
+           GUC G GAUGCACUU GUGA 
+           UAG U CUACGUGAG UACU 
+miRNA  3' G   U G         U      5'
+
+

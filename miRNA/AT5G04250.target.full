@@ -1,0 +1,60 @@
+target: AT5G04250.1
+length: 1461
+miRNA: ath-miR172b
+length: 20
+
+mfe: -25.2 kcal/mol
+p-value: 0.004488
+
+position:  316
+target 5' A               G  G 3'
+           UGAGUC UGGUGGUG UG 
+           ACUUAG AUUACCAC AC 
+miRNA  3' C      A        G  G 5'
+
+
+target: AT5G04250.1
+length: 1461
+miRNA: ath-miR773
+length: 21
+
+mfe: -26.3 kcal/mol
+p-value: 0.014480
+
+position:  690
+target 5' U  U          G      C 3'
+           GG CAGAGGUUGG AAGCGA 
+           UC GUUUUCGACC UUCGUU 
+miRNA  3' C  U                 U 5'
+
+
+target: AT5G04250.2
+length: 1534
+miRNA: ath-miR172b
+length: 20
+
+mfe: -25.2 kcal/mol
+p-value: 0.004744
+
+position:  389
+target 5' A               G  G 3'
+           UGAGUC UGGUGGUG UG 
+           ACUUAG AUUACCAC AC 
+miRNA  3' C      A        G  G 5'
+
+
+target: AT5G04250.2
+length: 1534
+miRNA: ath-miR773
+length: 21
+
+mfe: -26.3 kcal/mol
+p-value: 0.015335
+
+position:  763
+target 5' U  U          G      C 3'
+           GG CAGAGGUUGG AAGCGA 
+           UC GUUUUCGACC UUCGUU 
+miRNA  3' C  U                 U 5'
+
+

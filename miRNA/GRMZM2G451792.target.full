@@ -1,0 +1,60 @@
+target: GRMZM2G451792_T01
+length: 3816
+miRNA: zma-miR156d-3p
+length: 22
+
+mfe: -34.2 kcal/mol
+p-value: 0.003196
+
+position: 98
+target 5' U  G     U          C     G  3'
+           GC UGACA GAAAGAGAAG UGGGC    
+           CG ACUGU CUUUCUCUUC ACUCG    
+miRNA  3'                              5'
+
+
+target: GRMZM2G451792_T01
+length: 3816
+miRNA: zma-miR156f-3p
+length: 22
+
+mfe: -34.2 kcal/mol
+p-value: 0.002863
+
+position: 98
+target 5' U  G     U          C     G  3'
+           GC UGACA GAAAGAGAAG UGGGC    
+           CG ACUGU CUUUCUCUUC ACUCG    
+miRNA  3'                              5'
+
+
+target: GRMZM2G451792_T01
+length: 3816
+miRNA: zma-miR156g-3p
+length: 22
+
+mfe: -34.2 kcal/mol
+p-value: 0.003325
+
+position: 98
+target 5' U  G     U          C     G  3'
+           GC UGACA GAAAGAGAAG UGGGC    
+           CG ACUGU CUUUCUCUUC ACUCG    
+miRNA  3'                              5'
+
+
+target: GRMZM2G451792_T01
+length: 3816
+miRNA: zma-miR156k-3p
+length: 22
+
+mfe: -35.7 kcal/mol
+p-value: 0.003211
+
+position: 98
+target 5' U  G     U           U    G  3'
+           GC UGACA GAAAGAGAAGC GGGC    
+           CG ACUGU CUUUCUCUUCG CUCG    
+miRNA  3'                              5'
+
+

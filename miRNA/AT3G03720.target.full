@@ -1,0 +1,30 @@
+target: AT3G03720.1
+length: 2664
+miRNA: ath-miR401
+length: 21
+
+mfe: -27.7 kcal/mol
+p-value: 0.019368
+
+position:  927
+target 5' G        G        G   G 3'
+           GUUGGUUG GCACUGGU UUG 
+           CAGCCAGC UGUGGUCA AGC 
+miRNA  3' A                 A     5'
+
+
+target: AT3G03720.2
+length: 2301
+miRNA: ath-miR401
+length: 21
+
+mfe: -27.7 kcal/mol
+p-value: 0.016501
+
+position:  564
+target 5' G        G        G   G 3'
+           GUUGGUUG GCACUGGU UUG 
+           CAGCCAGC UGUGGUCA AGC 
+miRNA  3' A                 A     5'
+
+

@@ -1,0 +1,15 @@
+target: AT5G66760.1
+length: 2333
+miRNA: ath-miR447c-3p
+length: 22
+
+mfe: -33.7 kcal/mol
+p-value: 0.000525
+
+position: 1096
+target 5' G  U                   A  3'
+           CA CAAGAGAUGUUGUCUCCAG    
+           GU GUUUUCUACAGCAGGGGUU    
+miRNA  3'    U                      5'
+
+

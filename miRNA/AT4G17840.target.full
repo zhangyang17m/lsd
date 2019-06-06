@@ -1,0 +1,15 @@
+target: AT4G17840.1
+length: 1723
+miRNA: ath-miR826
+length: 21
+
+mfe: -31.3 kcal/mol
+p-value: 0.001336
+
+position: 408
+target 5' G                   U  3'
+           GCGUGUUCGAGAUCGGAUU    
+           UGCAUAGGUUUUGGCCUGA    
+miRNA  3' G                   U  5'
+
+

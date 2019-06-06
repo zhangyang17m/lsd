@@ -1,0 +1,15 @@
+target: AT1G19250.1
+length: 1745
+miRNA: ath-miR843
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.038507
+
+position:  328
+target 5' A                U     G 3'
+           UUC AUGAAGUUUGGC CUAAG 
+           AGG UACUUCGAGCUG GAUUU 
+miRNA  3'     U                    5'
+
+

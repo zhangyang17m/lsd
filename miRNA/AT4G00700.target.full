@@ -1,0 +1,15 @@
+target: AT4G00700.1
+length: 3375
+miRNA: ath-miR869
+length: 21
+
+mfe: -24.5 kcal/mol
+p-value: 0.091986
+
+position:  2583
+target 5' A                 G   A 3'
+           GUCAGCUG UUCAGCAU AGG 
+           CAGUUGAU GAGUUGUG UCU 
+miRNA  3'          A        G     5'
+
+

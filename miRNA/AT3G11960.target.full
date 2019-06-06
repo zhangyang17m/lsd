@@ -1,0 +1,30 @@
+target: AT3G11960.1
+length: 4396
+miRNA: ath-miR156h
+length: 20
+
+mfe: -32.0 kcal/mol
+p-value: 0.000937
+
+position: 541
+target 5' A   G          G      G  3'
+           GUG UCUCUUUCUU CUGUCA    
+           CAC AGAGAAAGAA GACAGU    
+miRNA  3'     G                    5'
+
+
+target: AT3G11960.1
+length: 4396
+miRNA: ath-miR156j
+length: 20
+
+mfe: -32.1 kcal/mol
+p-value: 0.003865
+
+position: 541
+target 5' A   G          G      G  3'
+           GUG UCUCUUUCUU CUGUCA    
+           CAC AGAGAGAGAA GACAGU    
+miRNA  3'     G                    5'
+
+

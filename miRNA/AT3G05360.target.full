@@ -1,0 +1,45 @@
+target: AT3G05360.1
+length: 2554
+miRNA: ath-miR395a
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.030067
+
+position:  2082
+target 5' C      A             U 3'
+           AGUUCC CUAGGCACU CAG 
+           UCAAGG GGUUUGUGA GUC 
+miRNA  3' C      G         A     5'
+
+
+target: AT3G05360.1
+length: 2554
+miRNA: ath-miR395d
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.031106
+
+position:  2082
+target 5' C      A             U 3'
+           AGUUCC CUAGGCACU CAG 
+           UCAAGG GGUUUGUGA GUC 
+miRNA  3' C      G         A     5'
+
+
+target: AT3G05360.1
+length: 2554
+miRNA: ath-miR395e
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.031643
+
+position:  2082
+target 5' C      A             U 3'
+           AGUUCC CUAGGCACU CAG 
+           UCAAGG GGUUUGUGA GUC 
+miRNA  3' C      G         A     5'
+
+

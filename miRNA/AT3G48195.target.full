@@ -1,0 +1,30 @@
+target: AT3G48195.1
+length: 3291
+miRNA: ath-miR5630a
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.003073
+
+position: 1444
+target 5' A              G     A  3'
+           CC UCAGAACCGUU UUGGC    
+           GG AGUCUUGGCGA AAUCG    
+miRNA  3' A  U           G        5'
+
+
+target: AT3G48195.1
+length: 3291
+miRNA: ath-miR5630b
+length: 21
+
+mfe: -33.6 kcal/mol
+p-value: 0.003644
+
+position: 1444
+target 5' A              G     A  3'
+           CC UCAGAACCGUU UUGGC    
+           GG AGUCUUGGCGA AAUCG    
+miRNA  3' A  U           G        5'
+
+

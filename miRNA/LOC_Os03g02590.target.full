@@ -1,0 +1,15 @@
+target: LOC_Os03g02590
+length: 2567
+miRNA: osa-miR2864
+length: 21
+
+mfe: -30.2 kcal/mol
+p-value: 0.026620
+
+position:  258
+target 5' A    U           G    U 3'
+           GCAA AGCAAGGGUAG AAGA 
+           CGUU UUGUUCCCGUC UUUU 
+miRNA  3' A                G      5'
+
+

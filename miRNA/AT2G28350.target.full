@@ -1,0 +1,45 @@
+target: AT2G28350.1
+length: 2263
+miRNA: ath-miR160a
+length: 21
+
+mfe: -44.5 kcal/mol
+p-value: 0.000193
+
+position: 1328
+target 5' A  A                 A  3'
+           GG AUACAGGGAGCCAGGCA    
+           CC UAUGUCCCUCGGUCCGU    
+miRNA  3' A  G                    5'
+
+
+target: AT2G28350.1
+length: 2263
+miRNA: ath-miR160b
+length: 21
+
+mfe: -44.5 kcal/mol
+p-value: 0.000329
+
+position: 1328
+target 5' A  A                 A  3'
+           GG AUACAGGGAGCCAGGCA    
+           CC UAUGUCCCUCGGUCCGU    
+miRNA  3' A  G                    5'
+
+
+target: AT2G28350.1
+length: 2263
+miRNA: ath-miR160c
+length: 21
+
+mfe: -44.5 kcal/mol
+p-value: 0.000053
+
+position: 1328
+target 5' A  A                 A  3'
+           GG AUACAGGGAGCCAGGCA    
+           CC UAUGUCCCUCGGUCCGU    
+miRNA  3' A  G                    5'
+
+

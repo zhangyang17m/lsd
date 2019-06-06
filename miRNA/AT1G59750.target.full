@@ -1,0 +1,45 @@
+target: AT1G59750.1
+length: 2484
+miRNA: ath-miR400
+length: 21
+
+mfe: -28.7 kcal/mol
+p-value: 0.000983
+
+position:  872
+target 5' A      G              U 3'
+           GUGGCU GUGAUGCUUUCAUA 
+           CACUGA UAUUAUGAGAGUAU 
+miRNA  3'        A                5'
+
+
+target: AT1G59750.2
+length: 2472
+miRNA: ath-miR400
+length: 21
+
+mfe: -28.7 kcal/mol
+p-value: 0.000978
+
+position:  872
+target 5' A      G              U 3'
+           GUGGCU GUGAUGCUUUCAUA 
+           CACUGA UAUUAUGAGAGUAU 
+miRNA  3'        A                5'
+
+
+target: AT1G59750.3
+length: 2308
+miRNA: ath-miR400
+length: 21
+
+mfe: -28.7 kcal/mol
+p-value: 0.000910
+
+position:  676
+target 5' A      G              U 3'
+           GUGGCU GUGAUGCUUUCAUA 
+           CACUGA UAUUAUGAGAGUAU 
+miRNA  3'        A                5'
+
+

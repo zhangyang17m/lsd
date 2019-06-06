@@ -1,0 +1,15 @@
+target: AY850134.1
+length: 1523
+miRNA: osa-miR2099-3p
+length: 20
+
+mfe: -28.3 kcal/mol
+p-value: 0.000824
+
+position: 1152
+target 5' A            U      C  3'
+           AAUGACGCUGCG GCUUUG    
+           UUAUUGCGAUGU CGAAAC    
+miRNA  3' C                   A  5'
+
+

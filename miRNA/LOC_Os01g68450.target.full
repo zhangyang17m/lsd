@@ -1,0 +1,15 @@
+target: LOC_Os01g68450
+length: 1100
+miRNA: osa-miR2097-3p
+length: 22
+
+mfe: -24.9 kcal/mol
+p-value: 0.051324
+
+position:  214
+target 5' G                     U 3'
+           AGAUG G UGCGGAGGAGAGG 
+           UUUAC C GUGCUUCUUCUCU 
+miRNA  3'       G U             U 5'
+
+

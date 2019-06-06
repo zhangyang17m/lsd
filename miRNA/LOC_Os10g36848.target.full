@@ -1,0 +1,120 @@
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR1848
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.027687
+
+position:  340
+target 5' G  C     A         A   A 3'
+           GC UG GC GCGCUGGCG AGG 
+           CG GC CG CGCGGCCGC UCC 
+miRNA  3' A  U  G                  5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR1848
+length: 21
+
+mfe: -35.6 kcal/mol
+p-value: 0.014974
+
+position:  635
+target 5' C  U               C  C 3'
+           GC CGUGCGCGCC GUGG GG 
+           CG GCGCGCGCGG CGCU CC 
+miRNA  3' A  U          C         5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR1848
+length: 21
+
+mfe: -38.1 kcal/mol
+p-value: 0.006347
+
+position:  1032
+target 5' C     C             C  G 3'
+           GC CG CG GCGCCGGCGA GG 
+           CG GC GC CGCGGCCGCU CC 
+miRNA  3' A  U     G               5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR1850
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.012937
+
+position:  8
+target 5' C   G    A            C 3'
+           CCU GAUC UCCUAACUUUCU 
+           GGG UUAG AGGGUUGAAAGG 
+miRNA  3'     G                 U 5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR2104
+length: 22
+
+mfe: -40.6 kcal/mol
+p-value: 0.003509
+
+position:  977
+target 5' A                     A 3'
+           CAUGCUCGCGUUCCU CGCCG 
+           GUGCGAGCGUAGGGG GCGGC 
+miRNA  3'                 A     G 5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR2275a
+length: 22
+
+mfe: -24.5 kcal/mol
+p-value: 0.075332
+
+position:  1116
+target 5' C U      C        G   A 3'
+           G GAUGUU GGGGGGAC GAG 
+           C CUAUAA CUCCUUUG UUU 
+miRNA  3' A U      C        G     5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR2275b
+length: 22
+
+mfe: -24.5 kcal/mol
+p-value: 0.065136
+
+position:  1116
+target 5' C U      C        G   A 3'
+           G GAUGUU GGGGGGAC GAG 
+           C CUAUAA CUCCUUUG UUU 
+miRNA  3' A U      C        G     5'
+
+
+target: LOC_Os10g36848
+length: 2132
+miRNA: osa-miR395f
+length: 21
+
+mfe: -25.2 kcal/mol
+p-value: 0.080705
+
+position:  783
+target 5' G              U     G 3'
+           GAGUU CUCCAAGC GUUCG 
+           CUCAA GGGGUUUG UAAGU 
+miRNA  3'       G        U     G 5'
+
+

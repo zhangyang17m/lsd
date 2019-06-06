@@ -1,0 +1,15 @@
+target: AT2G46030.1
+length: 862
+miRNA: ath-miR414
+length: 21
+
+mfe: -31.0 kcal/mol
+p-value: 0.000357
+
+position: 550
+target 5' A               U  C    G  3'
+           UGAUGAUGAUGAUGA AG AUGA    
+           ACUGCUACUACUACU UC UACU    
+miRNA  3'                            5'
+
+

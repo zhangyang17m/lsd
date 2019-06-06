@@ -1,0 +1,15 @@
+target: AT2G01470.1
+length: 1463
+miRNA: ath-miR834
+length: 21
+
+mfe: -35.1 kcal/mol
+p-value: 0.000531
+
+position: 708
+target 5' A    U               G  3'
+           UGCU CUGCUGCUGUUGCCA    
+           AUGG GGCGAUGACGAUGGU    
+miRNA  3' A    U                  5'
+
+

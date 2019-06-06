@@ -1,0 +1,45 @@
+target: AT3G17810.1
+length: 1739
+miRNA: ath-miR170
+length: 21
+
+mfe: -24.2 kcal/mol
+p-value: 0.047906
+
+position:  1209
+target 5' U    A          A      U 3'
+           GAUG UG CACGGCU UGGUCA 
+           CUAU AC GUGCCGA GUUAGU 
+miRNA  3'      A  U                5'
+
+
+target: AT3G17810.1
+length: 1739
+miRNA: ath-miR835-3p
+length: 21
+
+mfe: -28.0 kcal/mol
+p-value: 0.001558
+
+position:  84
+target 5' A    G         G     U 3'
+           CUUU UUGCGUGUC UCUUC 
+           GAAA AACGCAUAG AGAGG 
+miRNA  3'      G         A     U 5'
+
+
+target: AT3G17810.1
+length: 1739
+miRNA: ath-miR846
+length: 21
+
+mfe: -20.7 kcal/mol
+p-value: 0.079901
+
+position:  1507
+target 5' A         A           C 3'
+           GGUUC AGC ACUUCA UUCA 
+           UUAAG UCG UGAAGU AAGU 
+miRNA  3'       U          U    U 5'
+
+

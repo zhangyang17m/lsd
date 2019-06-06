@@ -1,0 +1,15 @@
+target: AT5G19900.1
+length: 1885
+miRNA: ath-miR414
+length: 21
+
+mfe: -32.5 kcal/mol
+p-value: 0.000533
+
+position: 779
+target 5' A   G  G              A  3'
+           UGA GA GAUGAUGAAGAUGA    
+           ACU CU CUACUACUUCUACU    
+miRNA  3'     G  A                 5'
+
+

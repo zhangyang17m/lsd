@@ -1,0 +1,15 @@
+target: AT1G30473.1
+length: 1531
+miRNA: ath-miR5021
+length: 20
+
+mfe: -27.5 kcal/mol
+p-value: 0.000256
+
+position: 202
+target 5' G   G                C  3'
+           UUU CUUCUUCUUCUUUUCA    
+           AAA GAAGAAGAAGAAGAGU    
+miRNA  3' A                       5'
+
+

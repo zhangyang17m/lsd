@@ -1,0 +1,15 @@
+target: GRMZM2G312877_T01
+length: 1441
+miRNA: zma-miR408b-5p
+length: 21
+
+mfe: -39.9 kcal/mol
+p-value: 0.000202
+
+position: 381
+target 5' A       G           A  3'
+           CGUGCUC GCUUCGUCCCU    
+           GUACGAG CGGAGCAGGGA    
+miRNA  3' G       A           C  5'
+
+

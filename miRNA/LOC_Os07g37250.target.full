@@ -1,0 +1,15 @@
+target: LOC_Os07g37250.1
+length: 1346
+miRNA: osa-miR5075
+length: 21
+
+mfe: -44.8 kcal/mol
+p-value: 0.000036
+
+position: 203
+target 5' G                    C  3'
+           GCGG CGGCGGCGGCGGGGG    
+           CGCC GCCGCCGCUGCCUCU    
+miRNA  3'      U               U  5'
+
+

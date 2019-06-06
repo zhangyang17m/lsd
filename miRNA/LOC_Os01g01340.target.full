@@ -1,0 +1,30 @@
+target: LOC_Os01g01340
+length: 1645
+miRNA: osa-miR1433
+length: 21
+
+mfe: -30.0 kcal/mol
+p-value: 0.018602
+
+position:  254
+target 5' C      A U          G A 3'
+           GGUGGC G GGAGGCU GC G 
+           CCAUCG C CCUCUGA CG U 
+miRNA  3'        G U       A  G   5'
+
+
+target: LOC_Os01g01340
+length: 1645
+miRNA: osa-miR413
+length: 21
+
+mfe: -25.2 kcal/mol
+p-value: 0.017076
+
+position:  924
+target 5' U   U U U               A 3'
+           GUG C A GACAGGUGGGACUAG 
+           CAC G U UUGUUCACUUUGAUC 
+miRNA  3'         C                 5'
+
+

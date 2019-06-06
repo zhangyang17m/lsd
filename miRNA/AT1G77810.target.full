@@ -1,0 +1,30 @@
+target: AT1G77810.1
+length: 1631
+miRNA: ath-miR171a
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.021660
+
+position:  1171
+target 5' C      U       C   U   A 3'
+           GAUGUU GUGUGGC UCA UCG 
+           CUAUAA CGCGCCG AGU AGU 
+miRNA  3'        C           U     5'
+
+
+target: AT1G77810.2
+length: 1462
+miRNA: ath-miR171a
+length: 21
+
+mfe: -26.4 kcal/mol
+p-value: 0.019185
+
+position:  1061
+target 5' C      U       C   U   A 3'
+           GAUGUU GUGUGGC UCA UCG 
+           CUAUAA CGCGCCG AGU AGU 
+miRNA  3'        C           U     5'
+
+

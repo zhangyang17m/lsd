@@ -1,0 +1,45 @@
+target: AT1G02340.1
+length: 1253
+miRNA: ath-miR826
+length: 21
+
+mfe: -26.5 kcal/mol
+p-value: 0.013376
+
+position:  277
+target 5' A             G      C 3'
+           ACG GUCUAAAAU GGGCUA 
+           UGC UAGGUUUUG CCUGAU 
+miRNA  3' G   A         G        5'
+
+
+target: AT1G02340.1
+length: 1253
+miRNA: ath-miR831
+length: 22
+
+mfe: -25.3 kcal/mol
+p-value: 0.015269
+
+position:  590
+target 5' G              A    G G 3'
+           AAGAAGAG ACGAG AGAU A 
+           UUCUUCUC UGCUU UCUA U 
+miRNA  3' G        A     C    G   5'
+
+
+target: AT1G02340.1
+length: 1253
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -22.8 kcal/mol
+p-value: 0.047353
+
+position:  243
+target 5' A                    G 3'
+           GAAA GAGCAAGAAG UGAU 
+           CUUU CUUGUUCUUU ACUA 
+miRNA  3' A    G          G      5'
+
+

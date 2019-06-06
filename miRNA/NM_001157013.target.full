@@ -1,0 +1,15 @@
+target: NM_001157013.1
+length: 1272
+miRNA: zma-miR2275c-5p
+length: 21
+
+mfe: -32.1 kcal/mol
+p-value: 0.001906
+
+position: 1217
+target 5' C  A                 C  3'
+           GG UCGGGUUCCUCUGAUCU    
+           CC AGUUCAGGGAGAUUAGG    
+miRNA  3'    A                 A  5'
+
+

@@ -1,0 +1,30 @@
+target: AT4G01610.1
+length: 1511
+miRNA: ath-miR773
+length: 21
+
+mfe: -24.9 kcal/mol
+p-value: 0.028743
+
+position:  1087
+target 5' U  A                 U 3'
+           GG ACAGAGGCUGG GGUGA 
+           UC UGUUUUCGACC UCGUU 
+miRNA  3' C              U     U 5'
+
+
+target: AT4G01610.2
+length: 1511
+miRNA: ath-miR773
+length: 21
+
+mfe: -24.9 kcal/mol
+p-value: 0.028743
+
+position:  1087
+target 5' U  A                 U 3'
+           GG ACAGAGGCUGG GGUGA 
+           UC UGUUUUCGACC UCGUU 
+miRNA  3' C              U     U 5'
+
+

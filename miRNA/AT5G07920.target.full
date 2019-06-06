@@ -1,0 +1,30 @@
+target: AT5G07920.1
+length: 3043
+miRNA: ath-miR781
+length: 21
+
+mfe: -21.8 kcal/mol
+p-value: 0.180002
+
+position:  2024
+target 5' G   A         G      U 3'
+           GAG AUCCAGAGA AUUUUA 
+           UUC UAGGUCUUU UGAGAU 
+miRNA  3' A   A                U 5'
+
+
+target: AT5G07920.1
+length: 3043
+miRNA: ath-miR838
+length: 21
+
+mfe: -22.3 kcal/mol
+p-value: 0.093597
+
+position:  2809
+target 5' C                A    G 3'
+           UGUGU GGAAGUAGGA AAAG 
+           ACACG UCUUCAUCUU UUUU 
+miRNA  3'       U          C      5'
+
+

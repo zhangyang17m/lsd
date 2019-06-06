@@ -1,0 +1,15 @@
+target: AT5G13140.1
+length: 982
+miRNA: ath-miR3440b-3p
+length: 21
+
+mfe: -33.7 kcal/mol
+p-value: 0.000442
+
+position: 671
+target 5' U  G            U     G  3'
+           UG UUCCCUUGGCCA AUCCG    
+           GC AAGGGAACUGGU UAGGU    
+miRNA  3' U  G                     5'
+
+

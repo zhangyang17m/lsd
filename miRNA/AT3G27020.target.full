@@ -1,0 +1,15 @@
+target: AT3G27020.1
+length: 2471
+miRNA: ath-miR781
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.163821
+
+position:  2024
+target 5' A      G            C 3'
+           AAG AU CAGAGGACUUUG 
+           UUC UA GUCUUUUGAGAU 
+miRNA  3' A   A  G            U 5'
+
+

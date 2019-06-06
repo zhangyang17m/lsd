@@ -1,0 +1,45 @@
+target: AT5G37780.1
+length: 780
+miRNA: ath-miR414
+length: 21
+
+mfe: -34.2 kcal/mol
+p-value: 0.000073
+
+position: 549
+target 5' G               U     C  3'
+           UGAUGAUGAUGAUGA GAUGA    
+           ACUGCUACUACUACU CUACU    
+miRNA  3'                 U        5'
+
+
+target: AT5G37780.2
+length: 825
+miRNA: ath-miR414
+length: 21
+
+mfe: -34.2 kcal/mol
+p-value: 0.000080
+
+position: 594
+target 5' G               U     C  3'
+           UGAUGAUGAUGAUGA GAUGA    
+           ACUGCUACUACUACU CUACU    
+miRNA  3'                 U        5'
+
+
+target: AT5G37780.3
+length: 858
+miRNA: ath-miR414
+length: 21
+
+mfe: -34.2 kcal/mol
+p-value: 0.000085
+
+position: 627
+target 5' G               U     C  3'
+           UGAUGAUGAUGAUGA GAUGA    
+           ACUGCUACUACUACU CUACU    
+miRNA  3'                 U        5'
+
+

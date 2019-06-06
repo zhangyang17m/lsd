@@ -1,0 +1,30 @@
+target: AT2G43410.1
+length: 3180
+miRNA: ath-miR863-3p
+length: 21
+
+mfe: -27.7 kcal/mol
+p-value: 0.002959
+
+position: 3066
+target 5' A                    U  3'
+           GUUGU UCUUGUUGUUCUCA    
+           UAAUA AGAACAACGAGAGU    
+miRNA  3'       C              U  5'
+
+
+target: AT2G43410.2
+length: 3309
+miRNA: ath-miR863-3p
+length: 21
+
+mfe: -27.7 kcal/mol
+p-value: 0.003083
+
+position: 3195
+target 5' A                    U  3'
+           GUUGU UCUUGUUGUUCUCA    
+           UAAUA AGAACAACGAGAGU    
+miRNA  3'       C              U  5'
+
+

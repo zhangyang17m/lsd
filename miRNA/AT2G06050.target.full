@@ -1,0 +1,15 @@
+target: AT2G06050.3
+length: 1232
+miRNA: ath-miR844-3p
+length: 21
+
+mfe: -26.5 kcal/mol
+p-value: 0.001463
+
+position: 978
+target 5' G    U                G  3'
+           AGCU G AGGAUGGCUUAUAA    
+           UUGA C UUCUACCGAAUAUU    
+miRNA  3'      U A                 5'
+
+

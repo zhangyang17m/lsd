@@ -1,0 +1,3 @@
+# !/usr/bin/sh
+FORMATDB="/usr/bin/formatdb"
+$FORMATDB -i "$1" -pT -oT -sT

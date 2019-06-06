@@ -1,0 +1,30 @@
+target: AT3G63060.1
+length: 1183
+miRNA: ath-miR447a-3p
+length: 22
+
+mfe: -33.6 kcal/mol
+p-value: 0.000473
+
+position: 657
+target 5' A      C            G  G  3'
+           CGGCGG GCGUCUCGUCCC AA    
+           GUUGUU UGUAGAGCAGGG UU    
+miRNA  3'        U            G     5'
+
+
+target: AT3G63060.1
+length: 1183
+miRNA: ath-miR447b
+length: 22
+
+mfe: -33.6 kcal/mol
+p-value: 0.000553
+
+position: 657
+target 5' A      C            G  G  3'
+           CGGCGG GCGUCUCGUCCC AA    
+           GUUGUU UGUAGAGCAGGG UU    
+miRNA  3'        U            G     5'
+
+

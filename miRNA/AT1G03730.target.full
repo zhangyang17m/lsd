@@ -1,0 +1,30 @@
+target: AT1G03730.1
+length: 1067
+miRNA: ath-miR156i
+length: 20
+
+mfe: -32.7 kcal/mol
+p-value: 0.000258
+
+position: 242
+target 5' G                  U  3'
+           UGCUCUCUCUCUUCU UC    
+           ACGAGAGAGAGAAGA AG    
+miRNA  3' G               C  U  5'
+
+
+target: AT1G03730.1
+length: 1067
+miRNA: ath-miR156j
+length: 20
+
+mfe: -33.9 kcal/mol
+p-value: 0.000259
+
+position: 241
+target 5' U                   U  3'
+           GUGCUCUCUCUCUUCU UC    
+           CACGAGAGAGAGAAGA AG    
+miRNA  3'                  C  U  5'
+
+

@@ -1,0 +1,30 @@
+target: AT1G22930.1
+length: 3851
+miRNA: ath-miR779
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.014190
+
+position:  2123
+target 5' U  G           A     G 3'
+           GU GACGAGGUUUC AAUCA 
+           CA UUGCUUUAAAG UUAGU 
+miRNA  3' U  G           G       5'
+
+
+target: AT1G22930.2
+length: 3577
+miRNA: ath-miR779
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.012888
+
+position:  1849
+target 5' U  G           A     G 3'
+           GU GACGAGGUUUC AAUCA 
+           CA UUGCUUUAAAG UUAGU 
+miRNA  3' U  G           G       5'
+
+

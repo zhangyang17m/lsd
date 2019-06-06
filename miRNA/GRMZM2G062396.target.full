@@ -1,0 +1,30 @@
+target: GRMZM2G062396_T01
+length: 1756
+miRNA: zma-miR408a
+length: 21
+
+mfe: -42.3 kcal/mol
+p-value: 0.000094
+
+position: 630
+target 5' U                    G  3'
+           CCAGGG GGAGGCGGUGCAG    
+           GGUCCC UCUCCGUCACGUC    
+miRNA  3' C      U                5'
+
+
+target: GRMZM2G062396_T01
+length: 1756
+miRNA: zma-miR408b-3p
+length: 21
+
+mfe: -42.3 kcal/mol
+p-value: 0.000095
+
+position: 630
+target 5' U                    G  3'
+           CCAGGG GGAGGCGGUGCAG    
+           GGUCCC UCUCCGUCACGUC    
+miRNA  3' C      U                5'
+
+

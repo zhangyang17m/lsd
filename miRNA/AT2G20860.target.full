@@ -1,0 +1,15 @@
+target: AT2G20860.1
+length: 1425
+miRNA: ath-miR156h
+length: 20
+
+mfe: -26.2 kcal/mol
+p-value: 0.003916
+
+position:  1218
+target 5' U      G            G 3'
+           UGCUUU UUUCUUCUG CG 
+           ACGAGA AAAGAAGAC GU 
+miRNA  3' C      G         A    5'
+
+

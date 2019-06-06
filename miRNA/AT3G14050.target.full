@@ -1,0 +1,15 @@
+target: AT3G14050.1
+length: 2675
+miRNA: ath-miR402
+length: 22
+
+mfe: -26.9 kcal/mol
+p-value: 0.009581
+
+position:  2035
+target 5' U    U    G            U 3'
+           CAGA GGUU AAUGGG CUCGG 
+           GUCU CCAA UUAUCC GAGCU 
+miRNA  3'           A      G     U 5'
+
+

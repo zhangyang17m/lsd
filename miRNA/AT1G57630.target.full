@@ -1,0 +1,30 @@
+target: AT1G57630.1
+length: 519
+miRNA: ath-miR164a
+length: 21
+
+mfe: -29.9 kcal/mol
+p-value: 0.001338
+
+position:  233
+target 5' U   U U               A 3'
+           UGC C UGUCUUGCU CUCCA 
+           ACG G ACGGGACGA GAGGU 
+miRNA  3'     U C         A       5'
+
+
+target: AT1G57630.1
+length: 519
+miRNA: ath-miR164b
+length: 21
+
+mfe: -29.9 kcal/mol
+p-value: 0.003166
+
+position:  233
+target 5' U   U U               A 3'
+           UGC C UGUCUUGCU CUCCA 
+           ACG G ACGGGACGA GAGGU 
+miRNA  3'     U C         A       5'
+
+

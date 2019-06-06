@@ -1,0 +1,30 @@
+target: AT5G02780.1
+length: 993
+miRNA: ath-miR163
+length: 24
+
+mfe: -29.1 kcal/mol
+p-value: 0.004188
+
+position:  630
+target 5' U      C C            C    C 3'
+           AUCGAA G UUUCAAGUCUUC UCGA 
+           UAGCUU C AAGGUUCAGGAG AGUU 
+miRNA  3'                       A      5'
+
+
+target: AT5G02780.2
+length: 987
+miRNA: ath-miR163
+length: 24
+
+mfe: -29.1 kcal/mol
+p-value: 0.004156
+
+position:  624
+target 5' U      C C            C    C 3'
+           AUCGAA G UUUCAAGUCUUC UCGA 
+           UAGCUU C AAGGUUCAGGAG AGUU 
+miRNA  3'                       A      5'
+
+

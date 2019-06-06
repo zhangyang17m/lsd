@@ -1,0 +1,15 @@
+target: AT1G26420.1
+length: 1738
+miRNA: ath-miR824
+length: 21
+
+mfe: -29.0 kcal/mol
+p-value: 0.003170
+
+position:  341
+target 5' G              C     U 3'
+           CCUUUCUUACAGGU GUCUG 
+           GGGAAGAGUGUUUA CAGAU 
+miRNA  3' A              C       5'
+
+

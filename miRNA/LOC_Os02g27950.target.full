@@ -1,0 +1,15 @@
+target: LOC_Os02g27950
+length: 2607
+miRNA: osa-miR426
+length: 21
+
+mfe: -22.1 kcal/mol
+p-value: 0.136239
+
+position:  790
+target 5' G    A        G      G 3'
+           GUGG GAUGAGCU CCAAAA 
+           CAUU CUGUUUGA GGUUUU 
+miRNA  3' G    C        A        5'
+
+

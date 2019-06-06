@@ -1,0 +1,15 @@
+target: LOC_Os01g08270
+length: 1880
+miRNA: osa-miR1851
+length: 21
+
+mfe: -28.0 kcal/mol
+p-value: 0.038971
+
+position:  670
+target 5' U  U C               A 3'
+           CC A AUGUCAUUCCAGAUG 
+           GG U UACGGUAGGGUCUGC 
+miRNA  3' C  U U                 5'
+
+

@@ -1,0 +1,75 @@
+target: AT3G52480.1
+length: 909
+miRNA: ath-miR5645a
+length: 20
+
+mfe: -26.1 kcal/mol
+p-value: 0.002760
+
+position: 338
+target 5' G             A     G  3'
+           UUAAUGACGUGGC UCAAA    
+           AAUUGCUGUACUG AGUUU    
+miRNA  3' G                   A  5'
+
+
+target: AT3G52480.1
+length: 909
+miRNA: ath-miR5645b
+length: 20
+
+mfe: -26.1 kcal/mol
+p-value: 0.003299
+
+position: 338
+target 5' G             A     G  3'
+           UUAAUGACGUGGC UCAAA    
+           AAUUGCUGUACUG AGUUU    
+miRNA  3' G                   A  5'
+
+
+target: AT3G52480.1
+length: 909
+miRNA: ath-miR5645d
+length: 20
+
+mfe: -26.1 kcal/mol
+p-value: 0.001966
+
+position: 338
+target 5' G             A     G  3'
+           UUAAUGACGUGGC UCAAA    
+           AAUUGCUGUACUG AGUUU    
+miRNA  3' G                   A  5'
+
+
+target: AT3G52480.1
+length: 909
+miRNA: ath-miR5645e
+length: 20
+
+mfe: -26.1 kcal/mol
+p-value: 0.002770
+
+position: 338
+target 5' G             A     G  3'
+           UUAAUGACGUGGC UCAAA    
+           AAUUGCUGUACUG AGUUU    
+miRNA  3' G                   A  5'
+
+
+target: AT3G52480.1
+length: 909
+miRNA: ath-miR5645f
+length: 20
+
+mfe: -26.1 kcal/mol
+p-value: 0.002874
+
+position: 338
+target 5' G             A     G  3'
+           UUAAUGACGUGGC UCAAA    
+           AAUUGCUGUACUG AGUUU    
+miRNA  3' G                   A  5'
+
+

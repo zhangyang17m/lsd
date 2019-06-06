@@ -1,0 +1,30 @@
+target: AT3G19290.1
+length: 1802
+miRNA: ath-miR848
+length: 22
+
+mfe: -32.2 kcal/mol
+p-value: 0.002635
+
+position:  267
+target 5' U               U      U 3'
+           UGGC UAGGCAGUCC CG GUC 
+           AUCG AUCCGUCAGG GU CAG 
+miRNA  3'      A             A   U 5'
+
+
+target: AT3G19290.2
+length: 1825
+miRNA: ath-miR848
+length: 22
+
+mfe: -32.2 kcal/mol
+p-value: 0.002680
+
+position:  267
+target 5' U               U      U 3'
+           UGGC UAGGCAGUCC CG GUC 
+           AUCG AUCCGUCAGG GU CAG 
+miRNA  3'      A             A   U 5'
+
+

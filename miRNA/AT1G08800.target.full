@@ -1,0 +1,30 @@
+target: AT1G08800.1
+length: 4022
+miRNA: ath-miR774b-3p
+length: 21
+
+mfe: -27.1 kcal/mol
+p-value: 0.006103
+
+position: 2944
+target 5' A    G          A     A  3'
+           UCGA GGUGAAAGUG GGGUG    
+           AGCU CUACUUUUAU CCUAC    
+miRNA  3' A               A        5'
+
+
+target: AT1G08800.2
+length: 4097
+miRNA: ath-miR774b-3p
+length: 21
+
+mfe: -27.1 kcal/mol
+p-value: 0.006234
+
+position: 3018
+target 5' A    G          A     A  3'
+           UCGA GGUGAAAGUG GGGUG    
+           AGCU CUACUUUUAU CCUAC    
+miRNA  3' A               A        5'
+
+

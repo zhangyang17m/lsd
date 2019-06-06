@@ -1,0 +1,180 @@
+target: AT5G14930.2
+length: 1913
+miRNA: ath-miR395a
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.006867
+
+position:  497
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAA GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.2
+length: 1913
+miRNA: ath-miR395b
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.017888
+
+position:  497
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAG GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.2
+length: 1913
+miRNA: ath-miR395c
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.012591
+
+position:  497
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAG GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.2
+length: 1913
+miRNA: ath-miR395d
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.010443
+
+position:  497
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAA GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.2
+length: 1913
+miRNA: ath-miR395e
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.007916
+
+position:  497
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAA GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.2
+length: 1913
+miRNA: ath-miR395f
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.015773
+
+position:  497
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAG GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.3
+length: 1526
+miRNA: ath-miR395a
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.004846
+
+position:  498
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAA GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.3
+length: 1526
+miRNA: ath-miR395b
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.013799
+
+position:  498
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAG GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.3
+length: 1526
+miRNA: ath-miR395c
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.009103
+
+position:  498
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAG GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.3
+length: 1526
+miRNA: ath-miR395d
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.008071
+
+position:  498
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAA GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.3
+length: 1526
+miRNA: ath-miR395e
+length: 21
+
+mfe: -29.4 kcal/mol
+p-value: 0.005708
+
+position:  498
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAA GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+
+target: AT5G14930.3
+length: 1526
+miRNA: ath-miR395f
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.011848
+
+position:  498
+target 5' A     G              A 3'
+           GAGUU CUCCAAACGCU CA 
+           CUCAG GGGGUUUGUGA GU 
+miRNA  3'       G           A  C 5'
+
+

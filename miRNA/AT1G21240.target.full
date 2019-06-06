@@ -1,0 +1,60 @@
+target: AT1G21240.1
+length: 2354
+miRNA: ath-miR168a
+length: 21
+
+mfe: -30.2 kcal/mol
+p-value: 0.020495
+
+position:  2137
+target 5' A             A      A 3'
+           UCUUG UCUGCAC AGGCGA 
+           AGGGC GGACGUG UUCGCU 
+miRNA  3' A     U       G        5'
+
+
+target: AT1G21240.1
+length: 2354
+miRNA: ath-miR168b
+length: 21
+
+mfe: -30.2 kcal/mol
+p-value: 0.026900
+
+position:  2137
+target 5' A             A      A 3'
+           UCUUG UCUGCAC AGGCGA 
+           AGGGC GGACGUG UUCGCU 
+miRNA  3' A     U       G        5'
+
+
+target: AT1G21240.1
+length: 2354
+miRNA: ath-miR2111b
+length: 21
+
+mfe: -27.6 kcal/mol
+p-value: 0.007614
+
+position:  2089
+target 5' U   C   U A            G 3'
+           GGU GGA C GUAUCCUGAGGA 
+           CCA UUU G CAUAGGGCUCCU 
+miRNA  3'           A            A 5'
+
+
+target: AT1G21240.1
+length: 2354
+miRNA: ath-miR413
+length: 21
+
+mfe: -23.1 kcal/mol
+p-value: 0.132320
+
+position:  184
+target 5' U    C U G           C 3'
+           GUGU G G AAGAGAAGCUA 
+           CACG C U UUCUCUUUGAU 
+miRNA  3'      U U G           A 5'
+
+

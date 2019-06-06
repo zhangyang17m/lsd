@@ -1,0 +1,15 @@
+target: AT5G16680.1
+length: 4171
+miRNA: ath-miR426
+length: 21
+
+mfe: -21.6 kcal/mol
+p-value: 0.039245
+
+position:  2848
+target 5' A    U A              A 3'
+           GUGG G AUAAAUUUCCAGAA 
+           CAUU C UGUUUAAAGGUUUU 
+miRNA  3' G    C                  5'
+
+

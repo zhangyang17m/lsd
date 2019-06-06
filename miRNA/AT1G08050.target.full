@@ -1,0 +1,45 @@
+target: AT1G08050.1
+length: 2292
+miRNA: ath-miR398a
+length: 21
+
+mfe: -37.2 kcal/mol
+p-value: 0.000955
+
+position: 1684
+target 5' U              C  G   G  3'
+           GGGGGUGACCUGAG GG GCA    
+           UCCCCACUGGACUC UU UGU    
+miRNA  3' U                 G      5'
+
+
+target: AT1G08050.1
+length: 2292
+miRNA: ath-miR398b
+length: 21
+
+mfe: -37.8 kcal/mol
+p-value: 0.000363
+
+position: 1684
+target 5' U              C  G   G  3'
+           GGGGGUGACCUGAG GG GCA    
+           UCCCCACUGGACUC UU UGU    
+miRNA  3' G                 G      5'
+
+
+target: AT1G08050.1
+length: 2292
+miRNA: ath-miR398c
+length: 21
+
+mfe: -37.8 kcal/mol
+p-value: 0.000625
+
+position: 1684
+target 5' U              C  G   G  3'
+           GGGGGUGACCUGAG GG GCA    
+           UCCCCACUGGACUC UU UGU    
+miRNA  3' G                 G      5'
+
+

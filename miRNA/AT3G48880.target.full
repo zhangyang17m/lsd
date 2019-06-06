@@ -1,0 +1,15 @@
+target: AT3G48880.2
+length: 1190
+miRNA: ath-miR5641
+length: 21
+
+mfe: -27.4 kcal/mol
+p-value: 0.000694
+
+position: 4
+target 5' A     A        A      U  3'
+           AAUUC UAUCAUCU CUUCCA    
+           UUAAG AUAGUAGA GAAGGU    
+miRNA  3' A              A         5'
+
+

@@ -1,0 +1,45 @@
+target: AT3G13100.1
+length: 4606
+miRNA: ath-miR396a
+length: 21
+
+mfe: -25.1 kcal/mol
+p-value: 0.072792
+
+position:  1111
+target 5' A    G               U 3'
+           GGUU C AGAAAGCUG GGA 
+           UCAA G UCUUUCGAC CCU 
+miRNA  3' G      U         A   U 5'
+
+
+target: AT3G13100.1
+length: 4606
+miRNA: ath-miR396b
+length: 21
+
+mfe: -25.0 kcal/mol
+p-value: 0.069998
+
+position:  1110
+target 5' C     G               U 3'
+           AGGUU C AGAAAGCUG GGA 
+           UUCAA G UCUUUCGAC CCU 
+miRNA  3'         U         A   U 5'
+
+
+target: AT3G13100.1
+length: 4606
+miRNA: ath-miR414
+length: 21
+
+mfe: -23.8 kcal/mol
+p-value: 0.045911
+
+position:  665
+target 5' A  C   A          U  U 3'
+           GG CGA GAUGAUGAGG UG 
+           CU GCU CUACUACUUC AC 
+miRNA  3' A      A          U  U 5'
+
+

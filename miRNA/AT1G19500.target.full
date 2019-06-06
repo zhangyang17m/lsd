@@ -1,0 +1,15 @@
+target: AT1G19500.1
+length: 557
+miRNA: ath-miR397b
+length: 21
+
+mfe: -33.0 kcal/mol
+p-value: 0.000065
+
+position: 271
+target 5' U    C               A  3'
+           GUCA CGAUGCAUUCAAUGA    
+           UAGU GCUACGUGAGUUACU    
+miRNA  3' G    U                  5'
+
+

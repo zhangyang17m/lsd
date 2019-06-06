@@ -1,0 +1,30 @@
+target: AF031241
+length: 2180
+miRNA: gma-miR2109
+length: 20
+
+mfe: -27.7 kcal/mol
+p-value: 0.043746
+
+position:  809
+target 5' U            U  G  C 3'
+           GGAGGUGAGGAC UU GU 
+           UCUCCGCUUCUG GA CG 
+miRNA  3' G            U  G  U 5'
+
+
+target: AF031241
+length: 2180
+miRNA: gma-miR396a
+length: 21
+
+mfe: -25.6 kcal/mol
+p-value: 0.031507
+
+position:  1071
+target 5' C     G         A     G 3'
+           CAG U AAGAAGGCU UGGAA 
+           GUC A UUCUUUCGA ACCUU 
+miRNA  3'     A G         C       5'
+
+

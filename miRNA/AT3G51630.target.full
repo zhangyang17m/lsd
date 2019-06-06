@@ -1,0 +1,30 @@
+target: AT3G51630.1
+length: 2497
+miRNA: ath-miR157d
+length: 20
+
+mfe: -30.3 kcal/mol
+p-value: 0.001121
+
+position: 109
+target 5' U                  U  3'
+           UGCUCUCUAUCUUCU UC    
+           ACGAGAGAUAGAAGA AG    
+miRNA  3' C               C  U  5'
+
+
+target: AT3G51630.2
+length: 2261
+miRNA: ath-miR157d
+length: 20
+
+mfe: -30.3 kcal/mol
+p-value: 0.000985
+
+position: 145
+target 5' U                  U  3'
+           UGCUCUCUAUCUUCU UC    
+           ACGAGAGAUAGAAGA AG    
+miRNA  3' C               C  U  5'
+
+

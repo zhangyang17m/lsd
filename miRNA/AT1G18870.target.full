@@ -1,0 +1,30 @@
+target: AT1G18870.1
+length: 1852
+miRNA: ath-miR835-5p
+length: 21
+
+mfe: -22.8 kcal/mol
+p-value: 0.014485
+
+position:  1515
+target 5' U      G          U   C 3'
+           GAUAGA GAAUGUAUGC GGA 
+           CUAUUU CUUGUAUACG UCU 
+miRNA  3'                   U   U 5'
+
+
+target: AT1G18870.2
+length: 1747
+miRNA: ath-miR835-5p
+length: 21
+
+mfe: -22.8 kcal/mol
+p-value: 0.013679
+
+position:  1410
+target 5' U      G          U   C 3'
+           GAUAGA GAAUGUAUGC GGA 
+           CUAUUU CUUGUAUACG UCU 
+miRNA  3'                   U   U 5'
+
+

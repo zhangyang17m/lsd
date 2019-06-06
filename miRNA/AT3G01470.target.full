@@ -1,0 +1,15 @@
+target: AT3G01470.1
+length: 1440
+miRNA: ath-miR396b
+length: 21
+
+mfe: -23.9 kcal/mol
+p-value: 0.032956
+
+position:  968
+target 5' U                 U    G 3'
+           AAGUUC AGGGAGC GU GGGA 
+           UUCAAG UCUUUCG CA CCUU 
+miRNA  3'        U       A         5'
+
+

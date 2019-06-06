@@ -1,0 +1,60 @@
+target: AT3G55770.1
+length: 1076
+miRNA: ath-miR5658
+length: 21
+
+mfe: -30.0 kcal/mol
+p-value: 0.000328
+
+position: 119
+target 5' C      C            C  3'
+           UUCGUC UCAUCAUCGUCA    
+           AAGUAG AGUAGUAGUAGU    
+miRNA  3' A      U            A  5'
+
+
+target: AT3G55770.4
+length: 1029
+miRNA: ath-miR5658
+length: 21
+
+mfe: -30.0 kcal/mol
+p-value: 0.000308
+
+position: 36
+target 5' C      C            C  3'
+           UUCGUC UCAUCAUCGUCA    
+           AAGUAG AGUAGUAGUAGU    
+miRNA  3' A      U            A  5'
+
+
+target: AT3G55770.6
+length: 1344
+miRNA: ath-miR5658
+length: 21
+
+mfe: -30.0 kcal/mol
+p-value: 0.000444
+
+position: 102
+target 5' C      C            C  3'
+           UUCGUC UCAUCAUCGUCA    
+           AAGUAG AGUAGUAGUAGU    
+miRNA  3' A      U            A  5'
+
+
+target: AT3G55770.7
+length: 1081
+miRNA: ath-miR5658
+length: 21
+
+mfe: -30.0 kcal/mol
+p-value: 0.000330
+
+position: 136
+target 5' C      C            C  3'
+           UUCGUC UCAUCAUCGUCA    
+           AAGUAG AGUAGUAGUAGU    
+miRNA  3' A      U            A  5'
+
+

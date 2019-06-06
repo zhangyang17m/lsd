@@ -1,0 +1,15 @@
+target: LOC_Os07g30970
+length: 997
+miRNA: osa-miR1852
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.017232
+
+position:  896
+target 5' A      U           U   U 3'
+           ACCUGC GUUCUGGA CU UGU 
+           UGGACG UAAGACUU GG AUA 
+miRNA  3'                 A  U     5'
+
+

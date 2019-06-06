@@ -1,0 +1,90 @@
+target: AT4G24230.1
+length: 1653
+miRNA: ath-miR157d
+length: 20
+
+mfe: -24.7 kcal/mol
+p-value: 0.014667
+
+position:  105
+target 5' U       U        U  C 3'
+           UGCUCUC UGUUUUCU UC 
+           ACGAGAG AUAGAAGA AG 
+miRNA  3' C                C  U 5'
+
+
+target: AT4G24230.2
+length: 1697
+miRNA: ath-miR157d
+length: 20
+
+mfe: -24.7 kcal/mol
+p-value: 0.015073
+
+position:  130
+target 5' U       U        U  C 3'
+           UGCUCUC UGUUUUCU UC 
+           ACGAGAG AUAGAAGA AG 
+miRNA  3' C                C  U 5'
+
+
+target: AT4G24230.3
+length: 1372
+miRNA: ath-miR157d
+length: 20
+
+mfe: -24.7 kcal/mol
+p-value: 0.012035
+
+position:  54
+target 5' U       U        U  C 3'
+           UGCUCUC UGUUUUCU UC 
+           ACGAGAG AUAGAAGA AG 
+miRNA  3' C                C  U 5'
+
+
+target: AT4G24230.4
+length: 1293
+miRNA: ath-miR157d
+length: 20
+
+mfe: -24.7 kcal/mol
+p-value: 0.011282
+
+position:  51
+target 5' U       U        U  C 3'
+           UGCUCUC UGUUUUCU UC 
+           ACGAGAG AUAGAAGA AG 
+miRNA  3' C                C  U 5'
+
+
+target: AT4G24230.5
+length: 1194
+miRNA: ath-miR157d
+length: 20
+
+mfe: -24.7 kcal/mol
+p-value: 0.010333
+
+position:  52
+target 5' U       U        U  C 3'
+           UGCUCUC UGUUUUCU UC 
+           ACGAGAG AUAGAAGA AG 
+miRNA  3' C                C  U 5'
+
+
+target: AT4G24230.6
+length: 1288
+miRNA: ath-miR157d
+length: 20
+
+mfe: -24.7 kcal/mol
+p-value: 0.011235
+
+position:  38
+target 5' U       U        U  C 3'
+           UGCUCUC UGUUUUCU UC 
+           ACGAGAG AUAGAAGA AG 
+miRNA  3' C                C  U 5'
+
+

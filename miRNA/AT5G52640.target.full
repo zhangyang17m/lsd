@@ -1,0 +1,45 @@
+target: AT5G52640.1
+length: 2475
+miRNA: ath-miR171b
+length: 21
+
+mfe: -29.1 kcal/mol
+p-value: 0.006760
+
+position:  399
+target 5' A              A     A 3'
+           GUGGUAUUGGCAUG C CAA 
+           CACUAUAACCGUGC G GUU 
+miRNA  3' G              C A     5'
+
+
+target: AT5G52640.1
+length: 2475
+miRNA: ath-miR171c
+length: 21
+
+mfe: -29.1 kcal/mol
+p-value: 0.006017
+
+position:  399
+target 5' A              A     A 3'
+           GUGGUAUUGGCAUG C CAA 
+           CACUAUAACCGUGC G GUU 
+miRNA  3' G              C A     5'
+
+
+target: AT5G52640.1
+length: 2475
+miRNA: ath-miR780
+length: 21
+
+mfe: -23.3 kcal/mol
+p-value: 0.055165
+
+position:  2131
+target 5' C                   U 3'
+           UGCUAGG AUUCAC AGGA 
+           ACGGUCU UAAGUG UUCU 
+miRNA  3' U       A      C    U 5'
+
+

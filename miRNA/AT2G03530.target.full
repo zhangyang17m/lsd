@@ -1,0 +1,30 @@
+target: AT2G03530.1
+length: 1368
+miRNA: ath-miR164c
+length: 21
+
+mfe: -30.1 kcal/mol
+p-value: 0.007533
+
+position:  840
+target 5' U    G               C 3'
+           CGCA GU CUUUGUUUCUCC 
+           GCGU CA GGGACGAAGAGG 
+miRNA  3'      G  C            U 5'
+
+
+target: AT2G03530.2
+length: 1409
+miRNA: ath-miR164c
+length: 21
+
+mfe: -30.1 kcal/mol
+p-value: 0.007835
+
+position:  885
+target 5' U    G               C 3'
+           CGCA GU CUUUGUUUCUCC 
+           GCGU CA GGGACGAAGAGG 
+miRNA  3'      G  C            U 5'
+
+

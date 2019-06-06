@@ -1,0 +1,45 @@
+target: AT1G72360.1
+length: 1015
+miRNA: ath-miR838
+length: 21
+
+mfe: -30.4 kcal/mol
+p-value: 0.000557
+
+position: 611
+target 5' C       C             U  3'
+           UGUGCAA AGGUAGAGGAGAA    
+           ACACGUU UUCAUCUUCUUUU    
+miRNA  3'         C                5'
+
+
+target: AT1G72360.2
+length: 931
+miRNA: ath-miR838
+length: 21
+
+mfe: -30.4 kcal/mol
+p-value: 0.000489
+
+position: 526
+target 5' C       C             U  3'
+           UGUGCAA AGGUAGAGGAGAA    
+           ACACGUU UUCAUCUUCUUUU    
+miRNA  3'         C                5'
+
+
+target: AT1G72360.3
+length: 930
+miRNA: ath-miR838
+length: 21
+
+mfe: -30.4 kcal/mol
+p-value: 0.000488
+
+position: 525
+target 5' C       C             U  3'
+           UGUGCAA AGGUAGAGGAGAA    
+           ACACGUU UUCAUCUUCUUUU    
+miRNA  3'         C                5'
+
+

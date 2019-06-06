@@ -1,0 +1,30 @@
+target: AT4G04490.1
+length: 1977
+miRNA: ath-miR2111a
+length: 21
+
+mfe: -25.2 kcal/mol
+p-value: 0.035674
+
+position:  1445
+target 5' C             G G      U 3'
+           AGACUUUGGGAUG C AGGUUG 
+           UUUGGAGUCCUAC G UCUAAU 
+miRNA  3' A                        5'
+
+
+target: AT4G04490.1
+length: 1977
+miRNA: ath-miR2111b
+length: 21
+
+mfe: -25.2 kcal/mol
+p-value: 0.034260
+
+position:  1445
+target 5' C             G G      U 3'
+           AGACUUUGGGAUG C AGGUUG 
+           UUUGGAGUCCUAC G UCUAAU 
+miRNA  3' A                        5'
+
+

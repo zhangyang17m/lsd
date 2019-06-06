@@ -1,0 +1,15 @@
+target: AT5G20470.1
+length: 1671
+miRNA: ath-miR2937
+length: 21
+
+mfe: -24.3 kcal/mol
+p-value: 0.037382
+
+position:  785
+target 5' U     G       G A    C 3'
+           ACUCC UCAACAG C CUUG 
+           UGAGG AGUUGUC G GAAU 
+miRNA  3' C     A         A    A 5'
+
+

@@ -1,0 +1,15 @@
+target: AT5G63110.1
+length: 1746
+miRNA: ath-miR869
+length: 21
+
+mfe: -24.5 kcal/mol
+p-value: 0.046145
+
+position:  1156
+target 5' U    G               U 3'
+           UUGA UAUUUCGGC CCAGA 
+           AGUU AUAGAGUUG GGUCU 
+miRNA  3' C    G         U       5'
+
+

@@ -1,0 +1,30 @@
+target: AT4G30190.1
+length: 3301
+miRNA: ath-miR773b-3p
+length: 21
+
+mfe: -33.1 kcal/mol
+p-value: 0.001157
+
+position: 1293
+target 5' G     U               G  3'
+           GAGGC AGAGCUGGAAUCAGG    
+           CUCUG UUUCGACCUUAGUUU    
+miRNA  3'       U                  5'
+
+
+target: AT4G30190.2
+length: 3107
+miRNA: ath-miR773b-3p
+length: 21
+
+mfe: -33.1 kcal/mol
+p-value: 0.001060
+
+position: 1295
+target 5' G     U               G  3'
+           GAGGC AGAGCUGGAAUCAGG    
+           CUCUG UUUCGACCUUAGUUU    
+miRNA  3'       U                  5'
+
+

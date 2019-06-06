@@ -1,0 +1,15 @@
+target: AT3G24860.1
+length: 1059
+miRNA: ath-miR2934-5p
+length: 21
+
+mfe: -33.8 kcal/mol
+p-value: 0.000150
+
+position: 785
+target 5' A             U      G  3'
+           UUAGGGCGUUUGC GAGAGA    
+           GGUUCCGCAAACG CUUUCU    
+miRNA  3' A             U         5'
+
+

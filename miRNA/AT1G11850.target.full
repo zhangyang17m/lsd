@@ -1,0 +1,45 @@
+target: AT1G11850.1
+length: 582
+miRNA: ath-miR773b-3p
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.000794
+
+position: 221
+target 5' U     U              C  3'
+           GGGAU GGGGCUGGGAUCGG    
+           CUCUG UUUCGACCUUAGUU    
+miRNA  3'       U              U  5'
+
+
+target: AT1G11850.2
+length: 675
+miRNA: ath-miR773b-3p
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.001025
+
+position: 221
+target 5' U     U              C  3'
+           GGGAU GGGGCUGGGAUCGG    
+           CUCUG UUUCGACCUUAGUU    
+miRNA  3'       U              U  5'
+
+
+target: AT1G11850.4
+length: 591
+miRNA: ath-miR773b-3p
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.000816
+
+position: 224
+target 5' U     U              C  3'
+           GGGAU GGGGCUGGGAUCGG    
+           CUCUG UUUCGACCUUAGUU    
+miRNA  3'       U              U  5'
+
+

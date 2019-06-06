@@ -1,0 +1,30 @@
+target: AT3G55430.1
+length: 1768
+miRNA: ath-miR833-5p
+length: 22
+
+mfe: -26.8 kcal/mol
+p-value: 0.011315
+
+position:  712
+target 5' C              C      G 3'
+           CU GACCG GUGCA CAAGCA 
+           GA CUGGC CAUGU GUUUGU 
+miRNA  3' U  U     U     U        5'
+
+
+target: AT3G55430.1
+length: 1768
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -25.8 kcal/mol
+p-value: 0.016603
+
+position:  1244
+target 5' C             C G   A 3'
+           GAAACGGACAAGG G UGG 
+           CUUUGCUUGUUCU U ACU 
+miRNA  3' A             U G   A 5'
+
+

@@ -1,0 +1,15 @@
+target: AT3G03310.1
+length: 1635
+miRNA: ath-miR776
+length: 21
+
+mfe: -21.1 kcal/mol
+p-value: 0.087290
+
+position:  760
+target 5' U  A   U        G     A 3'
+           GC AUU GUGGAAGG UUAGA 
+           UG UAG UAUCUUCU AAUCU 
+miRNA  3' U      U        G       5'
+
+

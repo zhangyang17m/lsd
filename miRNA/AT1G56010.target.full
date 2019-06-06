@@ -1,0 +1,90 @@
+target: AT1G56010.1
+length: 1367
+miRNA: ath-miR164a
+length: 21
+
+mfe: -43.4 kcal/mol
+p-value: 0.000042
+
+position: 777
+target 5' A      A             A  3'
+           GCACGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' A      C                5'
+
+
+target: AT1G56010.1
+length: 1367
+miRNA: ath-miR164b
+length: 21
+
+mfe: -43.4 kcal/mol
+p-value: 0.000031
+
+position: 777
+target 5' A      A             A  3'
+           GCACGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' A      C                5'
+
+
+target: AT1G56010.1
+length: 1367
+miRNA: ath-miR164c
+length: 21
+
+mfe: -43.4 kcal/mol
+p-value: 0.000087
+
+position: 777
+target 5' A      A             A  3'
+           GCACGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' G      C                5'
+
+
+target: AT1G56010.2
+length: 1392
+miRNA: ath-miR164a
+length: 21
+
+mfe: -43.4 kcal/mol
+p-value: 0.000043
+
+position: 802
+target 5' A      A             A  3'
+           GCACGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' A      C                5'
+
+
+target: AT1G56010.2
+length: 1392
+miRNA: ath-miR164b
+length: 21
+
+mfe: -43.4 kcal/mol
+p-value: 0.000032
+
+position: 802
+target 5' A      A             A  3'
+           GCACGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' A      C                5'
+
+
+target: AT1G56010.2
+length: 1392
+miRNA: ath-miR164c
+length: 21
+
+mfe: -43.4 kcal/mol
+p-value: 0.000089
+
+position: 802
+target 5' A      A             A  3'
+           GCACGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' G      C                5'
+
+

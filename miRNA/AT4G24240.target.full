@@ -1,0 +1,15 @@
+target: AT4G24240.1
+length: 1505
+miRNA: ath-miR847
+length: 21
+
+mfe: -27.1 kcal/mol
+p-value: 0.011973
+
+position:  494
+target 5' G             U   G    A 3'
+           GUUGAGGAGGAGG GGA GUGG 
+           UAGUUCUUCUUCU CCU CACU 
+miRNA  3' G                        5'
+
+

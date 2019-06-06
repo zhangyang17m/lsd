@@ -1,0 +1,120 @@
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156a
+length: 20
+
+mfe: -35.2 kcal/mol
+p-value: 0.000164
+
+position: 837
+target 5' A                    U  3'
+           GUGCUCACUUUCUUUUGUUA    
+           CACGAGUGAGAGAAGACAGU    
+miRNA  3'                         5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156b
+length: 20
+
+mfe: -35.2 kcal/mol
+p-value: 0.000637
+
+position: 837
+target 5' A                    U  3'
+           GUGCUCACUUUCUUUUGUUA    
+           CACGAGUGAGAGAAGACAGU    
+miRNA  3'                         5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156c
+length: 20
+
+mfe: -35.2 kcal/mol
+p-value: 0.000396
+
+position: 837
+target 5' A                    U  3'
+           GUGCUCACUUUCUUUUGUUA    
+           CACGAGUGAGAGAAGACAGU    
+miRNA  3'                         5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156d
+length: 20
+
+mfe: -35.2 kcal/mol
+p-value: 0.000435
+
+position: 837
+target 5' A                    U  3'
+           GUGCUCACUUUCUUUUGUUA    
+           CACGAGUGAGAGAAGACAGU    
+miRNA  3'                         5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156e
+length: 20
+
+mfe: -35.2 kcal/mol
+p-value: 0.000528
+
+position: 837
+target 5' A                    U  3'
+           GUGCUCACUUUCUUUUGUUA    
+           CACGAGUGAGAGAAGACAGU    
+miRNA  3'                         5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156f
+length: 20
+
+mfe: -35.2 kcal/mol
+p-value: 0.000316
+
+position: 837
+target 5' A                    U  3'
+           GUGCUCACUUUCUUUUGUUA    
+           CACGAGUGAGAGAAGACAGU    
+miRNA  3'                         5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156g
+length: 20
+
+mfe: -34.6 kcal/mol
+p-value: 0.001089
+
+position: 837
+target 5' A                   A  3'
+           GUGCUCACUUUCUUUUGUU    
+           CACGAGUGAGAGAAGACAG    
+miRNA  3'                     C  5'
+
+
+target: AT3G28690.1
+length: 2466
+miRNA: ath-miR156h
+length: 20
+
+mfe: -29.7 kcal/mol
+p-value: 0.001252
+
+position: 837
+target 5' A      A             U  3'
+           GUGCUC CUUUCUUUUGUUA    
+           CACGAG GAAAGAAGACAGU    
+miRNA  3'        A                5'
+
+

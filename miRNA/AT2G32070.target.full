@@ -1,0 +1,15 @@
+target: AT2G32070.1
+length: 1151
+miRNA: ath-miR5658
+length: 21
+
+mfe: -33.1 kcal/mol
+p-value: 0.000086
+
+position: 139
+target 5' A                    C  3'
+           UUCAUCAUCAUCGUUAUCAU    
+           AAGUAGUAGUAGUAGUAGUA    
+miRNA  3' A                       5'
+
+

@@ -1,0 +1,15 @@
+target: AT1G71180.1
+length: 1374
+miRNA: ath-miR3434-5p
+length: 20
+
+mfe: -29.0 kcal/mol
+p-value: 0.001006
+
+position: 128
+target 5' G                 U   U  3'
+           GAUAAUGGGAUCGGCCA GGU    
+           UUAUUAUCUUAGUCGGU UCA    
+miRNA  3'                          5'
+
+

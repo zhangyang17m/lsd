@@ -1,0 +1,15 @@
+target: AB109891.1
+length: 3863
+miRNA: osa-miR172d-5p
+length: 20
+
+mfe: -31.7 kcal/mol
+p-value: 0.001683
+
+position: 1478
+target 5' U     A G            U  3'
+           GUGAA U UGAUGGUGCUGC    
+           CACUU G ACUACCACGACG    
+miRNA  3'       A A               5'
+
+

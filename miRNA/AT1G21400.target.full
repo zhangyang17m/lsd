@@ -1,0 +1,15 @@
+target: AT1G21400.1
+length: 1955
+miRNA: ath-miR472
+length: 22
+
+mfe: -27.4 kcal/mol
+p-value: 0.010647
+
+position:  1263
+target 5' C               A      U 3'
+           GG AU GGUGGAGUG GGAAGA 
+           CC UA CCGCCUCAU CCUUUU 
+miRNA  3'    A  C                U 5'
+
+

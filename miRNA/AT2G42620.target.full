@@ -1,0 +1,30 @@
+target: AT2G42620.1
+length: 2329
+miRNA: ath-miR172b
+length: 20
+
+mfe: -24.4 kcal/mol
+p-value: 0.010642
+
+position:  936
+target 5' U     G A         A  U 3'
+           GUGAA C UAGUGGUGU GC 
+           CACUU G AUUACCACG CG 
+miRNA  3'       A A         A    5'
+
+
+target: AT2G42620.1
+length: 2329
+miRNA: ath-miR782
+length: 21
+
+mfe: -28.4 kcal/mol
+p-value: 0.005407
+
+position:  1004
+target 5' U      G U            C 3'
+           AGGACA U CCAAGGUGUUUG 
+           UCUUGU A GGUUCCACAAAC 
+miRNA  3' U                     A 5'
+
+

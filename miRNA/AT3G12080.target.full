@@ -1,0 +1,30 @@
+target: AT3G12080.1
+length: 2207
+miRNA: ath-miR5021
+length: 20
+
+mfe: -32.6 kcal/mol
+p-value: 0.000019
+
+position: 20
+target 5' A                  U  3'
+           UUUCUUCUUCUUCUUCUC    
+           AAAGAAGAAGAAGAAGAG    
+miRNA  3' A                  U  5'
+
+
+target: AT3G12080.2
+length: 2203
+miRNA: ath-miR5021
+length: 20
+
+mfe: -32.6 kcal/mol
+p-value: 0.000018
+
+position: 20
+target 5' A                  U  3'
+           UUUCUUCUUCUUCUUCUC    
+           AAAGAAGAAGAAGAAGAG    
+miRNA  3' A                  U  5'
+
+

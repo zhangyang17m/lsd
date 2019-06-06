@@ -1,0 +1,60 @@
+target: AT1G20900.1
+length: 1517
+miRNA: ath-miR2111b
+length: 21
+
+mfe: -26.5 kcal/mol
+p-value: 0.007523
+
+position:  960
+target 5' C              G     G 3'
+           GGU GG UGUGUCC GAGGA 
+           CCA UU ACAUAGG CUCCU 
+miRNA  3'     U  G       G     A 5'
+
+
+target: AT1G20900.1
+length: 1517
+miRNA: ath-miR396a
+length: 21
+
+mfe: -27.0 kcal/mol
+p-value: 0.005558
+
+position:  476
+target 5' G     A    C     G      C 3'
+           CGGUU CGAG AAGGC GUGGAG 
+           GUCAA GUUC UUUCG CACCUU 
+miRNA  3'                  A        5'
+
+
+target: AT1G20900.1
+length: 1517
+miRNA: ath-miR396b
+length: 21
+
+mfe: -25.8 kcal/mol
+p-value: 0.012811
+
+position:  477
+target 5' C    A    C     G      C 3'
+           GGUU CGAG AAGGC GUGGAG 
+           UCAA GUUC UUUCG CACCUU 
+miRNA  3' U               A        5'
+
+
+target: AT1G20900.1
+length: 1517
+miRNA: ath-miR832-5p
+length: 21
+
+mfe: -27.0 kcal/mol
+p-value: 0.023651
+
+position:  315
+target 5' G      C          G   U 3'
+           UUUUGA UUCUCGAUCU AGU 
+           AAAGCU AAGGGCUAGG UCG 
+miRNA  3'                   G   U 5'
+
+

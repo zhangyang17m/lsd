@@ -1,0 +1,45 @@
+target: AT2G43790.1
+length: 1653
+miRNA: ath-miR159a
+length: 21
+
+mfe: -28.1 kcal/mol
+p-value: 0.012740
+
+position:  1323
+target 5' G   C    G             A 3'
+           AGG GCUU CUUUCAAUCCAGA 
+           UCU CGAG GGAAGUUAGGUUU 
+miRNA  3' A                        5'
+
+
+target: AT2G43790.1
+length: 1653
+miRNA: ath-miR159b
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.010597
+
+position:  1322
+target 5' C    C    G             A 3'
+           GAGG GCUU CUUUCAAUCCAGA 
+           UUCU CGAG GGAAGUUAGGUUU 
+miRNA  3'                           5'
+
+
+target: AT2G43790.1
+length: 1653
+miRNA: ath-miR159c
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.005145
+
+position:  1323
+target 5' G   C    G             A 3'
+           AGG GCUU CUUUCAAUCCAGA 
+           UCC CGAG GGAAGUUAGGUUU 
+miRNA  3'     U                    5'
+
+

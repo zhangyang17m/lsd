@@ -1,0 +1,15 @@
+target: LOC_Os05g51020.2
+length: 2036
+miRNA: osa-miR1429-3p
+length: 21
+
+mfe: -30.3 kcal/mol
+p-value: 0.004856
+
+position: 721
+target 5' A    A              G  3'
+           AAUG ACAAGCCCGUGCAA    
+           UUGU UGUUUGGGCACGUU    
+miRNA  3' G    A              G  5'
+
+

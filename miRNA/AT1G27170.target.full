@@ -1,0 +1,30 @@
+target: AT1G27170.1
+length: 4508
+miRNA: ath-miR4221
+length: 22
+
+mfe: -30.2 kcal/mol
+p-value: 0.006258
+
+position: 1889
+target 5' A      U  C             G  3'
+           GUAAGA UU CAGCAGAGGAAAA    
+           CGUUCU AA GUUGUCUCCUUUU    
+miRNA  3'        U                   5'
+
+
+target: AT1G27170.2
+length: 4438
+miRNA: ath-miR4221
+length: 22
+
+mfe: -30.2 kcal/mol
+p-value: 0.006146
+
+position: 1819
+target 5' A      U  C             G  3'
+           GUAAGA UU CAGCAGAGGAAAA    
+           CGUUCU AA GUUGUCUCCUUUU    
+miRNA  3'        U                   5'
+
+

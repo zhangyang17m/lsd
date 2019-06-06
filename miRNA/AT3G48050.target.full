@@ -1,0 +1,30 @@
+target: AT3G48050.1
+length: 5477
+miRNA: ath-miR834
+length: 21
+
+mfe: -35.5 kcal/mol
+p-value: 0.002677
+
+position: 3547
+target 5' A                     A  3'
+           UUACUGUUGCUGCUGCUGCCA    
+           AAUGGUGGCGAUGACGAUGGU    
+miRNA  3'                          5'
+
+
+target: AT3G48050.2
+length: 5397
+miRNA: ath-miR834
+length: 21
+
+mfe: -35.5 kcal/mol
+p-value: 0.002630
+
+position: 3547
+target 5' A                     A  3'
+           UUACUGUUGCUGCUGCUGCCA    
+           AAUGGUGGCGAUGACGAUGGU    
+miRNA  3'                          5'
+
+

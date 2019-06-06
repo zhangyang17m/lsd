@@ -1,0 +1,90 @@
+target: AT5G43780.1
+length: 1702
+miRNA: ath-miR395a
+length: 21
+
+mfe: -39.0 kcal/mol
+p-value: 0.000029
+
+position:  394
+target 5' A                    U 3'
+           GAGUUCCUCCAAACACUUCA 
+           CUCAAGGGGGUUUGUGAAGU 
+miRNA  3'                      C 5'
+
+
+target: AT5G43780.1
+length: 1702
+miRNA: ath-miR395b
+length: 21
+
+mfe: -38.5 kcal/mol
+p-value: 0.000456
+
+position:  394
+target 5' A                    U 3'
+           GAGUUCCUCCAAACACUUCA 
+           CUCAGGGGGGUUUGUGAAGU 
+miRNA  3'                      C 5'
+
+
+target: AT5G43780.1
+length: 1702
+miRNA: ath-miR395c
+length: 21
+
+mfe: -38.5 kcal/mol
+p-value: 0.000129
+
+position:  394
+target 5' A                    U 3'
+           GAGUUCCUCCAAACACUUCA 
+           CUCAGGGGGGUUUGUGAAGU 
+miRNA  3'                      C 5'
+
+
+target: AT5G43780.1
+length: 1702
+miRNA: ath-miR395d
+length: 21
+
+mfe: -39.0 kcal/mol
+p-value: 0.000182
+
+position:  394
+target 5' A                    U 3'
+           GAGUUCCUCCAAACACUUCA 
+           CUCAAGGGGGUUUGUGAAGU 
+miRNA  3'                      C 5'
+
+
+target: AT5G43780.1
+length: 1702
+miRNA: ath-miR395e
+length: 21
+
+mfe: -39.0 kcal/mol
+p-value: 0.000046
+
+position:  394
+target 5' A                    U 3'
+           GAGUUCCUCCAAACACUUCA 
+           CUCAAGGGGGUUUGUGAAGU 
+miRNA  3'                      C 5'
+
+
+target: AT5G43780.1
+length: 1702
+miRNA: ath-miR395f
+length: 21
+
+mfe: -38.5 kcal/mol
+p-value: 0.000277
+
+position:  394
+target 5' A                    U 3'
+           GAGUUCCUCCAAACACUUCA 
+           CUCAGGGGGGUUUGUGAAGU 
+miRNA  3'                      C 5'
+
+

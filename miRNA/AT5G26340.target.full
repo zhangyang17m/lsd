@@ -1,0 +1,60 @@
+target: AT5G26340.1
+length: 1993
+miRNA: ath-miR2111a
+length: 21
+
+mfe: -24.2 kcal/mol
+p-value: 0.055933
+
+position:  664
+target 5' G   G  G      G      U 3'
+           GAG UU GGGAUG AGGUUA 
+           UUU GA UCCUAC UCUAAU 
+miRNA  3' A   G  G      G        5'
+
+
+target: AT5G26340.1
+length: 1993
+miRNA: ath-miR2111b
+length: 21
+
+mfe: -24.2 kcal/mol
+p-value: 0.053856
+
+position:  664
+target 5' G   G  G      G      U 3'
+           GAG UU GGGAUG AGGUUA 
+           UUU GA UCCUAC UCUAAU 
+miRNA  3' A   G  G      G        5'
+
+
+target: AT5G26340.1
+length: 1993
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -22.6 kcal/mol
+p-value: 0.083401
+
+position:  1690
+target 5' A    G                A 3'
+           GAGA UGAACAAGAGG UGGU 
+           CUUU GCUUGUUCUUU ACUA 
+miRNA  3' A                G      5'
+
+
+target: AT5G26340.1
+length: 1993
+miRNA: ath-miR857
+length: 21
+
+mfe: -20.7 kcal/mol
+p-value: 0.092133
+
+position:  89
+target 5' U    A        A      U 3'
+           UGCG CUUCGGCG ACGGAG 
+           AUGU GAAGUUGU UGUUUU 
+miRNA  3' U    G        A        5'
+
+

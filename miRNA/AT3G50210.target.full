@@ -1,0 +1,45 @@
+target: AT3G50210.1
+length: 1390
+miRNA: ath-miR396b
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.029913
+
+position:  640
+target 5' G                A     G 3'
+           GAGUUUAA AGAGUUG UGGAG 
+           UUCAAGUU UUUCGAC ACCUU 
+miRNA  3'          C               5'
+
+
+target: AT3G50210.2
+length: 1326
+miRNA: ath-miR396b
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.028200
+
+position:  577
+target 5' G                A     G 3'
+           GAGUUUAA AGAGUUG UGGAG 
+           UUCAAGUU UUUCGAC ACCUU 
+miRNA  3'          C               5'
+
+
+target: AT3G50210.3
+length: 1279
+miRNA: ath-miR396b
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.026944
+
+position:  529
+target 5' G                A     G 3'
+           GAGUUUAA AGAGUUG UGGAG 
+           UUCAAGUU UUUCGAC ACCUU 
+miRNA  3'          C               5'
+
+

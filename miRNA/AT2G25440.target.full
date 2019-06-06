@@ -1,0 +1,15 @@
+target: AT2G25440.1
+length: 2016
+miRNA: ath-miR856
+length: 22
+
+mfe: -23.7 kcal/mol
+p-value: 0.004558
+
+position:  1918
+target 5' C              U     U 3'
+           CUGGA UUGUUGGU GGAUU 
+           GACUU AAUAACCA CCUAA 
+miRNA  3' C     C        U     U 5'
+
+

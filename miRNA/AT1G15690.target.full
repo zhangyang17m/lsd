@@ -1,0 +1,30 @@
+target: AT1G15690.1
+length: 2770
+miRNA: ath-miR414
+length: 21
+
+mfe: -29.5 kcal/mol
+p-value: 0.002804
+
+position: 2455
+target 5' A     C           A  A  3'
+           GAUGA GAUGAUGAAGA GA    
+           CUGCU CUACUACUUCU CU    
+miRNA  3' A     A           A     5'
+
+
+target: AT1G15690.2
+length: 2600
+miRNA: ath-miR414
+length: 21
+
+mfe: -29.5 kcal/mol
+p-value: 0.002620
+
+position: 2071
+target 5' A     C           A  A  3'
+           GAUGA GAUGAUGAAGA GA    
+           CUGCU CUACUACUUCU CU    
+miRNA  3' A     A           A     5'
+
+

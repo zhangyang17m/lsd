@@ -1,0 +1,45 @@
+target: AT3G12977.1
+length: 1052
+miRNA: ath-miR164a
+length: 21
+
+mfe: -41.6 kcal/mol
+p-value: 0.000056
+
+position: 717
+target 5' A      A             A  3'
+           GCAUGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' A      C                5'
+
+
+target: AT3G12977.1
+length: 1052
+miRNA: ath-miR164b
+length: 21
+
+mfe: -41.6 kcal/mol
+p-value: 0.000042
+
+position: 717
+target 5' A      A             A  3'
+           GCAUGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' A      C                5'
+
+
+target: AT3G12977.1
+length: 1052
+miRNA: ath-miR164c
+length: 21
+
+mfe: -41.6 kcal/mol
+p-value: 0.000114
+
+position: 717
+target 5' A      A             A  3'
+           GCAUGU CCCUGCUUCUCCA    
+           CGUGCA GGGACGAAGAGGU    
+miRNA  3' G      C                5'
+
+

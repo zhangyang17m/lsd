@@ -1,0 +1,15 @@
+target: AT1G43710.1
+length: 1748
+miRNA: ath-miR865-3p
+length: 21
+
+mfe: -24.5 kcal/mol
+p-value: 0.002867
+
+position: 766
+target 5' A   U                  G  3'
+           UUG GAU GAUUUGAGGAAGAA    
+           AAC CUA UUAAACUCCUUUUU    
+miRNA  3'         U                 5'
+
+

@@ -1,0 +1,15 @@
+target: AT2G45760.1
+length: 815
+miRNA: ath-miR827
+length: 21
+
+mfe: -24.2 kcal/mol
+p-value: 0.002057
+
+position:  631
+target 5' U    A  G          G   U 3'
+           GGUU UG UGGUGGUCGU UAG 
+           UCAA AC ACUACCAGUA AUU 
+miRNA  3'         A          G     5'
+
+

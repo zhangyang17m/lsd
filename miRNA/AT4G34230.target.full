@@ -1,0 +1,30 @@
+target: AT4G34230.1
+length: 1301
+miRNA: ath-miR838
+length: 21
+
+mfe: -23.3 kcal/mol
+p-value: 0.023513
+
+position:  256
+target 5' C  G   U       U       G 3'
+           UG GCA GAAGUGG AGGGGAA 
+           AC CGU CUUCAUC UUCUUUU 
+miRNA  3'    A   U                 5'
+
+
+target: AT4G34230.2
+length: 1306
+miRNA: ath-miR838
+length: 21
+
+mfe: -23.3 kcal/mol
+p-value: 0.023620
+
+position:  253
+target 5' C  G   U       U       G 3'
+           UG GCA GAAGUGG AGGGGAA 
+           AC CGU CUUCAUC UUCUUUU 
+miRNA  3'    A   U                 5'
+
+

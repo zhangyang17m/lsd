@@ -1,0 +1,30 @@
+target: AT2G29130.1
+length: 2068
+miRNA: ath-miR397a
+length: 21
+
+mfe: -39.2 kcal/mol
+p-value: 0.000109
+
+position: 729
+target 5' A                    C  3'
+           AUCAAUGCUGCACUCAAUGA    
+           UAGUUGCGACGUGAGUUACU    
+miRNA  3' G                       5'
+
+
+target: AT2G29130.1
+length: 2068
+miRNA: ath-miR397b
+length: 21
+
+mfe: -32.6 kcal/mol
+p-value: 0.000778
+
+position: 729
+target 5' A       C            C  3'
+           AUCAAUG UGCACUCAAUGA    
+           UAGUUGC ACGUGAGUUACU    
+miRNA  3' G       U               5'
+
+

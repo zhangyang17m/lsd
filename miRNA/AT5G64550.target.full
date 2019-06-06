@@ -1,0 +1,15 @@
+target: AT5G64550.1
+length: 2531
+miRNA: ath-miR773a
+length: 21
+
+mfe: -31.5 kcal/mol
+p-value: 0.003768
+
+position: 1851
+target 5' A                    G  3'
+           AGAU AAAGCUGGAAGCAAG    
+           UCUG UUUCGACCUUCGUUU    
+miRNA  3' C    U                  5'
+
+

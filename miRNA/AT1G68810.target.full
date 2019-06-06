@@ -1,0 +1,15 @@
+target: AT1G68810.1
+length: 1511
+miRNA: ath-miR838
+length: 21
+
+mfe: -29.1 kcal/mol
+p-value: 0.001427
+
+position:  1097
+target 5' G                    G 3'
+           GUG AGGAAGUGGAGGAAGA 
+           CAC UUCUUCAUCUUCUUUU 
+miRNA  3' A   G                  5'
+
+

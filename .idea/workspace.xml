@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a56ecef5-f03f-4f29-9d77-b0ab7ccddd22" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lsd2.0 [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lsd2.0 [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lsd2.0 [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="senescencedb_dev: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="senescencedb_dev2@78" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="senescencedb_dev2@78" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="senescencedb_dev2@78" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="senescencedb_dev2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="senescencedb_dev2@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="senescencedb_dev2@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="senescencedb_dev2@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="senescencedb_dev2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_gene_detail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="445" column="48" selection-start-line="445" selection-start-column="48" selection-end-line="445" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#b#0;n#font#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+                <element signature="e#165#171#0" expanded="true" />
+                <element signature="e#171#177#0" expanded="true" />
+                <element signature="e#177#183#0" expanded="true" />
+                <element signature="e#159#165#0" expanded="true" />
+                <element signature="e#165#171#0" expanded="true" />
+                <element signature="e#171#177#0" expanded="true" />
+                <element signature="e#164#170#0" expanded="true" />
+                <element signature="e#170#176#0" expanded="true" />
+                <element signature="e#176#182#0" expanded="true" />
+                <element signature="e#182#188#0" expanded="true" />
+                <element signature="e#188#194#0" expanded="true" />
+                <element signature="e#194#200#0" expanded="true" />
+                <element signature="e#39#45#0" expanded="true" />
+                <element signature="e#161#167#0" expanded="true" />
+                <element signature="e#167#173#0" expanded="true" />
+                <element signature="e#173#179#0" expanded="true" />
+                <element signature="e#179#185#0" expanded="true" />
+                <element signature="e#185#191#0" expanded="true" />
+                <element signature="e#191#197#0" expanded="true" />
+                <element signature="e#157#163#0" expanded="true" />
+                <element signature="e#163#169#0" expanded="true" />
+                <element signature="e#169#175#0" expanded="true" />
+                <element signature="e#175#181#0" expanded="true" />
+                <element signature="e#181#187#0" expanded="true" />
+                <element signature="e#187#193#0" expanded="true" />
+                <element signature="e#161#167#0" expanded="true" />
+                <element signature="e#167#173#0" expanded="true" />
+                <element signature="e#173#179#0" expanded="true" />
+                <element signature="e#179#185#0" expanded="true" />
+                <element signature="e#185#191#0" expanded="true" />
+                <element signature="e#191#197#0" expanded="true" />
+                <element signature="e#507#513#0" expanded="true" />
+                <element signature="e#513#519#0" expanded="true" />
+                <element signature="e#519#525#0" expanded="true" />
+                <element signature="e#173#179#0" expanded="true" />
+                <element signature="e#179#185#0" expanded="true" />
+                <element signature="e#185#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>width:760px</find>
+      <find>width:860px</find>
+      <find>70%</find>
+      <find>Gene Ontology</find>
+      <find>bgcolor=#DDF7DF</find>
+      <find>localhost:3306</find>
+      <find>submit to WebLab</find>
+      <find>Expression Level</find>
+      <find>/mnt/webApplications/peku/</find>
+      <find>test_na_db</find>
+      <find>mutant_image</find>
+      <find>Phenotype information</find>
+      <find>mutant</find>
+      <find>ath_mutant_seed</find>
+      <find>chipdata</find>
+      <find>miRNA Interaction</find>
+      <find>options</find>
+      <find>orthomcl</find>
+      <find>PPI</find>
+      <find>protein_loca</find>
+      <find>Mutant Image</find>
+      <find>Cross Link</find>
+      <find>Function category</find>
+      <find>Mutant Seed</find>
+      <find>Seeds</find>
+      <find>COUNT('LSD_',id)</find>
+      <find>CONCAT('LSD_',id)</find>
+      <find>access_id</find>
+      <find>acce</find>
+      <find>seq</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mysqli_query($conn,$sql)</replace>
+      <replace>preg_replace</replace>
+      <replace>mysqli_fetch_array</replace>
+      <replace>mysqli_error</replace>
+      <replace>mysqli_fetch_row</replace>
+      <replace>mysqli_num_rows</replace>
+      <replace>mysqli_query</replace>
+      <replace />
+      <replace>width:860px</replace>
+      <replace>width:760px</replace>
+      <replace>80%</replace>
+      <replace>accese_id</replace>
+      <replace>accesse_id</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\phpStudy\WWW\PSD</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/php.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/get_qtl_info.php" />
+        <option value="$PROJECT_DIR$/get_ath_mutant_seed.php" />
+        <option value="$PROJECT_DIR$/back.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/faq/BLAST.php" />
+        <option value="$PROJECT_DIR$/faq/crosslink.php" />
+        <option value="$PROJECT_DIR$/download_pubmed.php" />
+        <option value="$PROJECT_DIR$/submit.php" />
+        <option value="$PROJECT_DIR$/browse_mutant.php" />
+        <option value="$PROJECT_DIR$/ecotype.php" />
+        <option value="$PROJECT_DIR$/ecotype_image.php" />
+        <option value="0dbb5e43-f389-4f3b-bee5-68d1bd0e42c3/schema/senescencedb_dev2/table/poplar_treeB.sql" />
+        <option value="$PROJECT_DIR$/search_ecotype_result.php" />
+        <option value="$PROJECT_DIR$/poplar_down.php" />
+        <option value="$PROJECT_DIR$/poplar.php" />
+        <option value="$PROJECT_DIR$/advanced_search.php" />
+        <option value="$PROJECT_DIR$/search_poplar_result.php" />
+        <option value="$PROJECT_DIR$/poplar_gene_info.php" />
+        <option value="$PROJECT_DIR$/blast/new_psd_blast.php" />
+        <option value="$PROJECT_DIR$/feedback.php" />
+        <option value="$PROJECT_DIR$/authimg.php" />
+        <option value="$PROJECT_DIR$/getseqtoweblab.php" />
+        <option value="$PROJECT_DIR$/get_gene_seq.php" />
+        <option value="$PROJECT_DIR$/phenotypesearchgene.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0dbb5e43-f389-4f3b-bee5-68d1bd0e42c3/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d67b5b0a-ba03-49ee-a52a-e6a934328996/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fd388f63-884e-466a-91ec-6caced193409/console.sql" />
+        <option value="$PROJECT_DIR$/JpGraph/jpgraph.php" />
+        <option value="$PROJECT_DIR$/JpGraph/Examples/checkttf.php" />
+        <option value="$PROJECT_DIR$/search_gene_result.php" />
+        <option value="$PROJECT_DIR$/dbconnect.php" />
+        <option value="$PROJECT_DIR$/pic.php" />
+        <option value="$PROJECT_DIR$/blast/blast.cgi" />
+        <option value="$PROJECT_DIR$/mail/mail.pl" />
+        <option value="e9bb60df-1270-43ef-820a-92dac68c60bb/schema/senescencedb_dev2/table/mutant_image.sql" />
+        <option value="c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/gene_hormone_plant.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a74ea994-605a-4ccc-874c-524fac3e62b4/console.sql" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/common_head_for_long_page.php" />
+        <option value="$PROJECT_DIR$/common_head_for_help_page.php" />
+        <option value="$PROJECT_DIR$/common_head.php" />
+        <option value="$PROJECT_DIR$/links.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e9bb60df-1270-43ef-820a-92dac68c60bb/console.sql" />
+        <option value="$PROJECT_DIR$/get_gene_detail.php" />
+        <option value="$PROJECT_DIR$/browse_species.php" />
+        <option value="$PROJECT_DIR$/get_mutant_detail.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PSD" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556023028291" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.data.extractors.current.id" value="Tab-separated (TSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a56ecef5-f03f-4f29-9d77-b0ab7ccddd22" name="Default Changelist" comment="" />
+      <created>1546919739437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546919739437</updated>
+      <workItem from="1546919742570" duration="8741000" />
+      <workItem from="1546928912510" duration="69000" />
+      <workItem from="1546929020053" duration="26894000" />
+      <workItem from="1547001587607" duration="944000" />
+      <workItem from="1547102207037" duration="6000" />
+      <workItem from="1548314983786" duration="3000" />
+      <workItem from="1551693864712" duration="1012000" />
+      <workItem from="1555985602207" duration="9935000" />
+      <workItem from="1556092556101" duration="7000" />
+      <workItem from="1557544956628" duration="95162000" />
+      <workItem from="1558079035231" duration="7389000" />
+      <workItem from="1558086809665" duration="54571000" />
+      <workItem from="1559527427305" duration="129000" />
+      <workItem from="1559527614607" duration="16740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="221602000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21647818" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.4765751" visible="true" weight="0.35342467" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49596122" weight="0.32792208" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.52342486" side_tool="true" weight="0.048701297" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49919224" weight="0.13149351" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.04109589" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.4983845" weight="0.32850242" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4951535" weight="0.18082191" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.2657512" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.21890146" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.45718902" weight="0.17045455" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49596122" weight="0.32792208" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50080776" side_tool="true" weight="0.13149351" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49919224" weight="0.13149351" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.4983845" weight="0.32850242" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.4951535" weight="0.18181819" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.2180937" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chip_data/chipdata.Antioxidants">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/seq_pep">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/seq_cds">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/seq_cdna">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/seq_genomic">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/seq_genomic">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/seq_cdna">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a74ea994-605a-4ccc-874c-524fac3e62b4/console.sql" />
+    <entry file="file://$PROJECT_DIR$/common_head_for_help_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_head_for_long_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="52" column="91" lean-forward="true" selection-start-line="52" selection-start-column="91" selection-end-line="52" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="67" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blast/new_psd_blast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_gene_seq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="77" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e9bb60df-1270-43ef-820a-92dac68c60bb/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/pubmed">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/pubmed">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e9bb60df-1270-43ef-820a-92dac68c60bb/schema/senescencedb_dev2/table/pubmed">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e9bb60df-1270-43ef-820a-92dac68c60bb/schema/senescencedb_dev2/table/gene_hormone_plant">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/gene_hormone_plant">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/gene_hormone_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browse_mutant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#88#94#0" expanded="true" />
+            <element signature="e#94#100#0" expanded="true" />
+            <element signature="e#100#106#0" expanded="true" />
+            <element signature="e#106#112#0" expanded="true" />
+            <element signature="e#100#106#0" expanded="true" />
+            <element signature="e#106#112#0" expanded="true" />
+            <element signature="e#33#37#0" expanded="true" />
+            <element signature="e#37#41#0" expanded="true" />
+            <element signature="e#37#41#0" expanded="true" />
+            <element signature="e#41#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/phenotype_2019_06_03_16_05_11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/plant_info_2019_06_03_16_10_02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/plant_info_2019_06_03_16_11_26.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/plant_info_2019_06_03_16_19_17.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/plant_hormone">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/primer_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/phenotype">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/phenotype">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gene_hormone_info_2019_06_03_15_54_41.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/plant_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gene_hormone_plant_2019_06_03_16_03_58.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/phenotype_2019_06_03_16_08_32.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/plant_info_2019_06_03_16_45_34.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://a74ea994-605a-4ccc-874c-524fac3e62b4/schema/senescencedb_dev/table/mutant_image">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/plant_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e9bb60df-1270-43ef-820a-92dac68c60bb/schema/senescencedb_dev2/table/gene_hormone_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/gene_hormone_plant">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/ath_mutant_seed">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/mutant_image">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/schema/senescencedb_dev2/table/gene_hormone_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getseqtoweblab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_pubmed_result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="209" column="49" lean-forward="true" selection-start-line="209" selection-start-column="49" selection-end-line="209" selection-end-column="49" />
+          <folding>
+            <element signature="e#19#25#0" expanded="true" />
+            <element signature="e#37#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_gene_result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="e#98#104#0" expanded="true" />
+            <element signature="e#104#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browse_species.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#98#104#0" expanded="true" />
+            <element signature="e#104#110#0" expanded="true" />
+            <element signature="e#100#106#0" expanded="true" />
+            <element signature="e#106#112#0" expanded="true" />
+            <element signature="e#100#106#0" expanded="true" />
+            <element signature="e#106#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_mutant_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#160#166#0" expanded="true" />
+            <element signature="e#166#172#0" expanded="true" />
+            <element signature="e#172#178#0" expanded="true" />
+            <element signature="e#160#166#0" expanded="true" />
+            <element signature="e#166#172#0" expanded="true" />
+            <element signature="e#172#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c655ffc3-f7d1-41d4-be9e-9bb111dd3c63/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_gene_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="445" column="48" selection-start-line="445" selection-start-column="48" selection-end-line="445" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#b#0;n#font#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#font#0;n#b#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#165#171#0" expanded="true" />
+            <element signature="e#171#177#0" expanded="true" />
+            <element signature="e#177#183#0" expanded="true" />
+            <element signature="e#159#165#0" expanded="true" />
+            <element signature="e#165#171#0" expanded="true" />
+            <element signature="e#171#177#0" expanded="true" />
+            <element signature="e#164#170#0" expanded="true" />
+            <element signature="e#170#176#0" expanded="true" />
+            <element signature="e#176#182#0" expanded="true" />
+            <element signature="e#182#188#0" expanded="true" />
+            <element signature="e#188#194#0" expanded="true" />
+            <element signature="e#194#200#0" expanded="true" />
+            <element signature="e#39#45#0" expanded="true" />
+            <element signature="e#161#167#0" expanded="true" />
+            <element signature="e#167#173#0" expanded="true" />
+            <element signature="e#173#179#0" expanded="true" />
+            <element signature="e#179#185#0" expanded="true" />
+            <element signature="e#185#191#0" expanded="true" />
+            <element signature="e#191#197#0" expanded="true" />
+            <element signature="e#157#163#0" expanded="true" />
+            <element signature="e#163#169#0" expanded="true" />
+            <element signature="e#169#175#0" expanded="true" />
+            <element signature="e#175#181#0" expanded="true" />
+            <element signature="e#181#187#0" expanded="true" />
+            <element signature="e#187#193#0" expanded="true" />
+            <element signature="e#161#167#0" expanded="true" />
+            <element signature="e#167#173#0" expanded="true" />
+            <element signature="e#173#179#0" expanded="true" />
+            <element signature="e#179#185#0" expanded="true" />
+            <element signature="e#185#191#0" expanded="true" />
+            <element signature="e#191#197#0" expanded="true" />
+            <element signature="e#507#513#0" expanded="true" />
+            <element signature="e#513#519#0" expanded="true" />
+            <element signature="e#519#525#0" expanded="true" />
+            <element signature="e#173#179#0" expanded="true" />
+            <element signature="e#179#185#0" expanded="true" />
+            <element signature="e#185#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

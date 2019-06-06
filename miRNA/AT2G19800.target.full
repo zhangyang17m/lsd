@@ -1,0 +1,30 @@
+target: AT2G19800.1
+length: 1317
+miRNA: ath-miR5643a
+length: 21
+
+mfe: -31.8 kcal/mol
+p-value: 0.000571
+
+position: 503
+target 5' A    U           U      C  3'
+           GCGA CCGGAUCUUGA GAGCCU    
+           CGUU GGUCUAGAAUU UUCGGA    
+miRNA  3'                            5'
+
+
+target: AT2G19800.1
+length: 1317
+miRNA: ath-miR5643b
+length: 21
+
+mfe: -31.8 kcal/mol
+p-value: 0.000220
+
+position: 503
+target 5' A    U           U      C  3'
+           GCGA CCGGAUCUUGA GAGCCU    
+           CGUU GGUCUAGAAUU UUCGGA    
+miRNA  3'                            5'
+
+

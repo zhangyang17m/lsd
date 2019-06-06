@@ -1,0 +1,30 @@
+target: AT1G59870.1
+length: 4759
+miRNA: ath-miR158a
+length: 20
+
+mfe: -23.0 kcal/mol
+p-value: 0.021146
+
+position:  2870
+target 5' A      A     C  A     G 3'
+           GUUUUG CUGCG UU UGGGA 
+           CGAAAC GAUGU AA ACCCU 
+miRNA  3' A      A                5'
+
+
+target: AT1G59870.1
+length: 4759
+miRNA: ath-miR858
+length: 21
+
+mfe: -24.0 kcal/mol
+p-value: 0.157236
+
+position:  2701
+target 5' C    G U         A   A 3'
+           AGGU G GCAGGCAAU AGA 
+           UCCA C UGUCUGUUG UUU 
+miRNA  3' U    G U         C     5'
+
+

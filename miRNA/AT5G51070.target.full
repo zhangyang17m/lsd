@@ -1,0 +1,15 @@
+target: AT5G51070.1
+length: 3202
+miRNA: ath-miR161
+length: 21
+
+mfe: -22.1 kcal/mol
+p-value: 0.047014
+
+position:  1421
+target 5' G   G A              C 3'
+           GGU A C UUCAGUGCAUUG 
+           UCA U G AAGUUACGUAAC 
+miRNA  3' A   G   A            U 5'
+
+

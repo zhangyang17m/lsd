@@ -1,0 +1,30 @@
+target: LOC_Os09g27030
+length: 1538
+miRNA: osa-miR393
+length: 21
+
+mfe: -29.1 kcal/mol
+p-value: 0.004406
+
+position:  552
+target 5' G     C          G     C 3'
+           GGUCA UGUGGUUCCU UUGGA 
+           CUAGU ACGCUAGGGA AACCU 
+miRNA  3'       U                  5'
+
+
+target: LOC_Os09g27030
+length: 1538
+miRNA: osa-miR393b
+length: 22
+
+mfe: -31.5 kcal/mol
+p-value: 0.001635
+
+position:  551
+target 5' A      C          G     C 3'
+           GGGUCA UGUGGUUCCU UUGGA 
+           UCUAGU ACGCUAGGGA AACCU 
+miRNA  3'        U                  5'
+
+

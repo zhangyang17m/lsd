@@ -1,0 +1,30 @@
+target: AT2G19570.1
+length: 1271
+miRNA: ath-miR399a
+length: 21
+
+mfe: -29.3 kcal/mol
+p-value: 0.003382
+
+position:  307
+target 5' U    U           A    U 3'
+           CAGG CGGAUCUUCUU GGCG 
+           GUCC GUUUAGAGGAA CCGU 
+miRNA  3'      C           A      5'
+
+
+target: AT2G19570.1
+length: 1271
+miRNA: ath-miR831
+length: 22
+
+mfe: -26.4 kcal/mol
+p-value: 0.009808
+
+position:  904
+target 5' G       A      A      U 3'
+           GAGGAGG UACGAG GGAUCG 
+           UUCUUCU AUGCUU UCUAGU 
+miRNA  3' G       C      C        5'
+
+

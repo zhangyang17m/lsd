@@ -1,0 +1,60 @@
+target: AT5G11920.1
+length: 1917
+miRNA: ath-miR780
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.007203
+
+position:  354
+target 5' C    A A              U 3'
+           UUUG C UCAACAGCUGCUGG 
+           GGAC G AGUUGUCGACGAUC 
+miRNA  3' U                     U 5'
+
+
+target: AT5G11920.1
+length: 1917
+miRNA: ath-miR826
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.064304
+
+position:  1173
+target 5' C    A               C 3'
+           UAUG AUUCAAAACCGG CU 
+           GUGC UAGGUUUUGGCC GA 
+miRNA  3'      A            U  U 5'
+
+
+target: AT5G11920.2
+length: 1681
+miRNA: ath-miR780
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.006087
+
+position:  354
+target 5' C    A A              U 3'
+           UUUG C UCAACAGCUGCUGG 
+           GGAC G AGUUGUCGACGAUC 
+miRNA  3' U                     U 5'
+
+
+target: AT5G11920.2
+length: 1681
+miRNA: ath-miR826
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.054522
+
+position:  1173
+target 5' C    A               C 3'
+           UAUG AUUCAAAACCGG CU 
+           GUGC UAGGUUUUGGCC GA 
+miRNA  3'      A            U  U 5'
+
+

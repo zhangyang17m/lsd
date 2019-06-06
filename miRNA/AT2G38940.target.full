@@ -1,0 +1,15 @@
+target: AT2G38940.1
+length: 1900
+miRNA: ath-miR776
+length: 21
+
+mfe: -25.7 kcal/mol
+p-value: 0.007451
+
+position:  1275
+target 5' C       U           C  U 3'
+           GACGUCA UGGAAGAUUUG GA 
+           UUGUAGU AUCUUCUGAAU CU 
+miRNA  3'         U                5'
+
+

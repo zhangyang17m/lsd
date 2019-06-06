@@ -1,0 +1,15 @@
+target: LOC_Os09g32240
+length: 1157
+miRNA: osa-miR444d
+length: 21
+
+mfe: -25.5 kcal/mol
+p-value: 0.044915
+
+position:  622
+target 5' A       G      A   G   A 3'
+           CAACUUG AAGAAA CCA CAA 
+           GUUGAAC UUCUUU GGU GUU 
+miRNA  3'         G      C         5'
+
+

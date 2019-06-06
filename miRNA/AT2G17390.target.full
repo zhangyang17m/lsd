@@ -1,0 +1,15 @@
+target: AT2G17390.1
+length: 1446
+miRNA: ath-miR5014a-5p
+length: 21
+
+mfe: -27.7 kcal/mol
+p-value: 0.000467
+
+position: 681
+target 5' U                    A  3'
+           GUGUUG GCAAAGCUGGGUG    
+           UACAAC UGUUUUGAUUCAC    
+miRNA  3'        A             A  5'
+
+

@@ -1,0 +1,45 @@
+target: AT5G65210.2
+length: 1896
+miRNA: ath-miR157a
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.012557
+
+position:  459
+target 5' U              A     G 3'
+           UGUUCUUUGUUUUC GUUGA 
+           ACGAGAGAUAGAAG CAGUU 
+miRNA  3' C              A       5'
+
+
+target: AT5G65210.2
+length: 1896
+miRNA: ath-miR157b
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.012463
+
+position:  459
+target 5' U              A     G 3'
+           UGUUCUUUGUUUUC GUUGA 
+           ACGAGAGAUAGAAG CAGUU 
+miRNA  3' C              A       5'
+
+
+target: AT5G65210.2
+length: 1896
+miRNA: ath-miR157c
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.012497
+
+position:  459
+target 5' U              A     G 3'
+           UGUUCUUUGUUUUC GUUGA 
+           ACGAGAGAUAGAAG CAGUU 
+miRNA  3' C              A       5'
+
+

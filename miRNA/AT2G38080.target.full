@@ -1,0 +1,30 @@
+target: AT2G38080.1
+length: 2019
+miRNA: ath-miR397a
+length: 21
+
+mfe: -39.4 kcal/mol
+p-value: 0.000096
+
+position: 749
+target 5' A                    A  3'
+           GUCAACGCUGCACUUAAUGA    
+           UAGUUGCGACGUGAGUUACU    
+miRNA  3' G                       5'
+
+
+target: AT2G38080.1
+length: 2019
+miRNA: ath-miR397b
+length: 21
+
+mfe: -32.8 kcal/mol
+p-value: 0.000679
+
+position: 749
+target 5' A       C            A  3'
+           GUCAACG UGCACUUAAUGA    
+           UAGUUGC ACGUGAGUUACU    
+miRNA  3' G       U               5'
+
+

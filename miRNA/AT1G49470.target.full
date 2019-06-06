@@ -1,0 +1,15 @@
+target: AT1G49470.1
+length: 1140
+miRNA: ath-miR156g
+length: 20
+
+mfe: -31.9 kcal/mol
+p-value: 0.001199
+
+position: 350
+target 5' C   U                 A  3'
+           GUG UUCGCUCUCUUCUG CG    
+           CAC GAGUGAGAGAAGAC GC    
+miRNA  3'                    A     5'
+
+

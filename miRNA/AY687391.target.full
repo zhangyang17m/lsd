@@ -1,0 +1,45 @@
+target: AY687391
+length: 3377
+miRNA: gma-miR1507b
+length: 21
+
+mfe: -28.6 kcal/mol
+p-value: 0.002707
+
+position:  2388
+target 5' U     U         G    U 3'
+           GGAUG UGUGUGGAG GAGA 
+           UCUGC ACAUACCUU CUCU 
+miRNA  3' G     U         A      5'
+
+
+target: AY687391
+length: 3377
+miRNA: gma-miR1510a
+length: 23
+
+mfe: -25.7 kcal/mol
+p-value: 0.021689
+
+position:  1836
+target 5' A  A     U          U  U 3'
+           GG GGAAU GGUAAGGCAG CA 
+           CC CCUUA CCAUUUUGUU GU 
+miRNA  3' C  A     U             U 5'
+
+
+target: AY687391
+length: 3377
+miRNA: gma-miR1510b
+length: 21
+
+mfe: -24.7 kcal/mol
+p-value: 0.031831
+
+position:  1836
+target 5' A  A     U          U  U 3'
+           GG GGAAU GGUAAGGCAG CA 
+           CC CCUUA CCAUUUUGUU GU 
+miRNA  3'    A     U               5'
+
+

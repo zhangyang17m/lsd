@@ -1,0 +1,45 @@
+target: AT2G02870.1
+length: 2190
+miRNA: ath-miR407
+length: 21
+
+mfe: -18.1 kcal/mol
+p-value: 0.089527
+
+position:  1411
+target 5' U  G U    A            G 3'
+           GC G GAAG AUAUGAUUUGGA 
+           UG U UUUC UAUACUAAAUUU 
+miRNA  3'    G      A              5'
+
+
+target: AT2G02870.2
+length: 2111
+miRNA: ath-miR407
+length: 21
+
+mfe: -18.1 kcal/mol
+p-value: 0.086447
+
+position:  1308
+target 5' U  G U    A            G 3'
+           GC G GAAG AUAUGAUUUGGA 
+           UG U UUUC UAUACUAAAUUU 
+miRNA  3'    G      A              5'
+
+
+target: AT2G02870.3
+length: 2118
+miRNA: ath-miR407
+length: 21
+
+mfe: -18.1 kcal/mol
+p-value: 0.086722
+
+position:  1315
+target 5' U  G U    A            G 3'
+           GC G GAAG AUAUGAUUUGGA 
+           UG U UUUC UAUACUAAAUUU 
+miRNA  3'    G      A              5'
+
+

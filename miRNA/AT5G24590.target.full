@@ -1,0 +1,30 @@
+target: AT5G24590.2
+length: 1823
+miRNA: ath-miR781a
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.007132
+
+position: 547
+target 5' A        A            U  3'
+           UAGGUGUU AGAGGACUCUAG    
+           AUUCAUAG UCUUUUGAGAUU    
+miRNA  3'          G               5'
+
+
+target: AT5G24590.2
+length: 1823
+miRNA: ath-miR781b
+length: 21
+
+mfe: -26.7 kcal/mol
+p-value: 0.009115
+
+position: 547
+target 5' A        A            U  3'
+           UAGGUGUU AGAGGACUCUAG    
+           AUUCAUAG UCUUUUGAGAUU    
+miRNA  3'          G               5'
+
+

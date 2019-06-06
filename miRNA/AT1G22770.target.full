@@ -1,0 +1,15 @@
+target: AT1G22770.1
+length: 4136
+miRNA: ath-miR401
+length: 21
+
+mfe: -30.5 kcal/mol
+p-value: 0.009702
+
+position:  509
+target 5' A      C          A  C 3'
+           GUUGGU CGGCAUCAGU UC 
+           CAGCCA GCUGUGGUCA AG 
+miRNA  3' A                 A  C 5'
+
+

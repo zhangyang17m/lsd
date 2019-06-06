@@ -1,0 +1,15 @@
+target: AT1G16530.1
+length: 642
+miRNA: ath-miR858
+length: 21
+
+mfe: -23.8 kcal/mol
+p-value: 0.019173
+
+position:  54
+target 5' A                     G 3'
+           AGGGUC A CAGACA CGGAA 
+           UUCCAG U GUCUGU GCUUU 
+miRNA  3'        C U      U       5'
+
+

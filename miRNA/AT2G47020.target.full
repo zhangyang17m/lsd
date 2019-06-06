@@ -1,0 +1,30 @@
+target: AT2G47020.1
+length: 1757
+miRNA: ath-miR408
+length: 21
+
+mfe: -50.1 kcal/mol
+p-value: 0.000004
+
+position: 1488
+target 5' A                     G  3'
+           GCCAGGGAAGAGGCAGUGCAU    
+           CGGUCCCUUCUCCGUCACGUA    
+miRNA  3'                          5'
+
+
+target: AT2G47020.2
+length: 1630
+miRNA: ath-miR408
+length: 21
+
+mfe: -50.1 kcal/mol
+p-value: 0.000003
+
+position: 1488
+target 5' A                     G  3'
+           GCCAGGGAAGAGGCAGUGCAU    
+           CGGUCCCUUCUCCGUCACGUA    
+miRNA  3'                          5'
+
+

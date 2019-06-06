@@ -1,0 +1,15 @@
+target: AT1G61566.1
+length: 551
+miRNA: ath-miR831
+length: 22
+
+mfe: -27.3 kcal/mol
+p-value: 0.002448
+
+position:  306
+target 5' A              A      A 3'
+           GAGAGGA UGCGAG AGAUCA 
+           UUCUUCU AUGCUU UCUAGU 
+miRNA  3' G       C      C        5'
+
+

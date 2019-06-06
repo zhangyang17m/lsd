@@ -1,0 +1,64 @@
+-- MySQL dump 10.11
+--
+-- Host: localhost    Database: arabHormoneMutant
+-- ------------------------------------------------------
+-- Server version	5.0.84-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `options`
+--
+
+DROP TABLE IF EXISTS `options`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `options` (
+  `id` int(11) unsigned NOT NULL auto_increment,
+  `class` varchar(30) default NULL,
+  `attribute` varchar(50) default NULL,
+  `alias` varchar(50) default NULL,
+  `op1` varchar(100) default NULL,
+  `op2` varchar(100) default NULL,
+  `op3` varchar(100) default NULL,
+  `op4` varchar(100) default NULL,
+  `op5` varchar(100) default NULL,
+  `op6` varchar(100) default NULL,
+  `op7` varchar(100) default NULL,
+  `op8` varchar(100) default NULL,
+  `op9` varchar(100) default NULL,
+  `op10` varchar(100) default NULL,
+  `op11` varchar(100) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=57 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `options`
+--
+
+LOCK TABLES `options` WRITE;
+/*!40000 ALTER TABLE `options` DISABLE KEYS */;
+INSERT INTO `options` VALUES (1,'Root','Primary root','Primary root','long','short','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(2,'Root','Lateral root','Lateral root','increased','reduced','no lateral root','abnormal','rescued by hormone','\r',NULL,NULL,NULL,NULL,NULL),(3,'Root','Root hairs','Root hairs','more','fewer','no root hairs','abnormal','rescued by hormone','\r',NULL,NULL,NULL,NULL,NULL),(4,'Root','Agravitropic root','Agravitropic root','yes','abnormal','rescued by hormone','','','\r',NULL,NULL,NULL,NULL,NULL),(5,'Root','Swollen primary roots or lateral roots','Swollen primary roots or lateral roots','swollen primary roots','swollen lateral roots','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(6,'Cotyledon/Leaf','Cotyledon number','Cotyledon number','fused cotyledon','single cotyledon','triple cotyledon','abnormal','rescued by hormone','\r',NULL,NULL,NULL,NULL,NULL),(7,'Cotyledon/Leaf','Epinastic or hyponastic cotyledon','Epinastic or hyponastic cotyledon','epinastic cotyledon','hyponastic cotyledon','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(8,'Cotyledon/Leaf','Vasculature pattern','Vasculature pattern','defective leaf venation','reduced leaf vasculature','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(9,'Cotyledon/Leaf','Leaf size','Leaf size','enlarged leaf size','small leaves','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(10,'Cotyledon/Leaf','Rumpled or serrated leaves','Rumpled or serrated leaves','rumpled leaves','serrated leaf','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(11,'Cotyledon/Leaf','Hyponastic or epinastic leaves','Hyponastic or epinastic leaves','epinastic leaves','hyponastic leaves','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(12,'Cotyledon/Leaf','Rounded or narrow leaves','Rounded or narrow leaves','rounded leaves','narrow leaves','abnormal','rescued by hormone','','\r',NULL,NULL,NULL,NULL,NULL),(13,'Cotyledon/Leaf','Trichome branching','Trichome branching','more than three','two','one','no','abnormal','rescued by hormone\r',NULL,NULL,NULL,NULL,NULL),(14,'Cotyledon/Leaf','Trichome density','Trichome density','more','fewer','no','abnormal','rescued by hormone','\r',NULL,NULL,NULL,NULL,NULL),(15,'Cotyledon/Leaf','Stomata aperture','Stomata aperture','larger','smaller','always closed','always open','abnormal','rescued by hormone\r',NULL,NULL,NULL,NULL,NULL),(16,'Cotyledon/Leaf','Stomata density','Stomata density','more','fewer','no','abnormal','rescued by hormone','\r',NULL,NULL,NULL,NULL,NULL),(17,'Cotyledon/Leaf','Leaf senescence','Leaf senescence','delayed','earlier','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(18,'Cotyledon/Leaf','Dorsoventrality','Dorsoventrality','abnormal dorsoventrality','adaxialization','abaxialization','abnormal','rescued by hormone','','','','\r',NULL,NULL),(19,'Cotyledon/Leaf','Leaf color','Leaf color','albino','pale green leaf','dark green leaf','purple leaf','abnormal','rescued by hormone','','','\r',NULL,NULL),(20,'Cotyledon/Leaf','Petiole','Petiole','shortened petiole','elongated petiole','twisted petiole','abnormal','rescued by hormone','','','','\r',NULL,NULL),(21,'Cotyledon/Leaf','Leaf growth in dark','Leaf growth in dark','leaves in dark','abnormal','rescued by hormone','','','','','','\r',NULL,NULL),(22,'Hypocotyl/Stem','Hypocotyl length','Hypocotyl length','long hypocotyls','short hypocotyls','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(23,'Hypocotyl/Stem','Shoot apical hook','Shoot apical hook','reduced apical hook','enhanced apical hook','hookless','abnormal','rescued by hormone','','','','\r',NULL,NULL),(24,'Hypocotyl/Stem','Agravitropic hypocotyls','Agravitropic hypocotyls','yes','abnormal','rescued by hormone','','','','','','\r',NULL,NULL),(25,'Hypocotyl/Stem','Nonphototropic hypocotyls','Nonphototropic hypocotyls','yes','in red light','in blue light','in far red light','abnormal','rescued by hormone','','','\r',NULL,NULL),(26,'Hypocotyl/Stem','Plant height','Plant height','increased plant height','dwarf, reduced height','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(27,'Hypocotyl/Stem','Shoot apical dominance','Shoot apical dominance','increased shoot apical dominance','reduced shoot apical dominance','bushy','abnormal','rescued by hormone','','','','\r',NULL,NULL),(28,'Hypocotyl/Stem','Internode length','Internode length','long internode, induced stem elongation','short internode, reduced stem elongation','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(29,'Flower','Flowering time under long day','Flowering time under long day','early flowering','late flowering','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(30,'Flower','Flowering time under short day','Flowering time under short day','early flowering','late flowering','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(31,'Flower','Flower size','Flower size','enlarged flower','small flower','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(32,'Flower','Sepal','Sepal','no sepal','long sepal','short sepal','abnormal ad-ab','abnormal number','stamen-like','carpel-like','abnormal','rescued by hormone\r',NULL,NULL),(33,'Flower','Petal','Petal','no petal','long petal','short petal','stamen-like','carpel-like','abnormal ad-ab','abnormal number','abnormal','rescued by hormone\r',NULL,NULL),(34,'Flower','Stamen','Stamen','no stamen','short filaments','long filaments','abnormal number','abnormal','rescued by hormone','','','\r',NULL,NULL),(35,'Flower','Carpel','Carpel','no carpel','more carpels','abnormal ad-ab','abnormal number','long gynophore','abnormal','rescued by hormone','','\r',NULL,NULL),(36,'Flower','Gynoecium protrusion','Gynoecium protrusion','yes','abnormal','rescued by hormone','','','','','','\r',NULL,NULL),(37,'Flower','Anther development','Anther development','reduced anther development ','delayed anther breakage','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(38,'Flower','Pollen development','Pollen development','reduced pollen development','reduced pollen tube growth','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(39,'Flower','Fertility','Fertility','sterile','male sterility','female sterility','semisterile','reduced fertility','abnormal','rescued by hormone','','\r',NULL,NULL),(40,'Silique/Seed','Silique length','Silique length','long silique','short silique','no silique','abnormal','rescued by hormone','','','','\r',NULL,NULL),(41,'Silique/Seed','Silique shape','Silique shape','twisted siliques','bent siliques','no silique','abnormal','rescued by hormone','','','','\r',NULL,NULL),(42,'Silique/Seed','Germination rate','Germination rate','increased','reduced','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(43,'Silique/Seed','Loss of seed dormancy','Loss of seed dormancy','yes','abnormal','rescued by hormone','','','','','','\r',NULL,NULL),(44,'Silique/Seed','Seed yield','Seed yield','no seeds','fewer seeds','more seeds','abnormal','rescued by hormone','','','','\r',NULL,NULL),(45,'Silique/Seed','Seed size','Seed size','big','small','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(46,'Silique/Seed','Seed shape','Seed shape','crinkled','abnormal','rescued by hormone','','','','','','\r',NULL,NULL),(47,'Embryo','Defective embryo development','Defective embryo development','defective embryo development','no embryogenesis','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(48,'Embryo','No embryonic root','No embryonic root','no embryonic root','no embryogenesis','abnormal','rescued by hormone','','','','','\r',NULL,NULL),(49,'Embryo','Embryo lethality','Embryo lethality','embryo lethal','no embryogenesis','abnormal','rescued by hormone','','','','','','\r',NULL),(50,'Embryo','Embryogenesis stage','Embryogenesis stage','globular-stage embryo-like structure','heart-shaped embryo-like structure','torpedo-stage embryo-like structure','no embryogenesis','abnormal','rescued by hormone','','','','\r',NULL),(51,'Stress','Salt','Salt','resistant','hypersensitive','abnormal','rescued by hormone','','','','','','\r',NULL),(52,'Stress','Cold','Cold','resistant','hypersensitive','abnormal','rescued by hormone','','','','','','\r',NULL),(53,'Stress','Drought','Drought','resistant','hypersensitive','abnormal','rescued by hormone','','','','','','\r',NULL),(54,'Stress','Pathogen','Pathogen','resistant to fungi','resistant to insect','resistant to virus','resistant to bacteria','hypersensitive to fungi','hypersensitive to insect','hypersensitive to virus','hypersensitive to bacteria','abnormal','rescued by hormone\r',NULL),(55,'Stress','Heat','Heat','resistant','hypersensitive','abnormal','rescued by hormone','','','','','','\r',NULL),(56,'Stress','Osmosis','Osmosis','resistant','hypersensitive','abnormal','rescued by hormone','','','','','','\r',NULL);
+/*!40000 ALTER TABLE `options` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2010-03-04 15:15:46

@@ -1,0 +1,45 @@
+target: AT1G62460.1
+length: 4402
+miRNA: ath-miR447a
+length: 22
+
+mfe: -27.2 kcal/mol
+p-value: 0.041226
+
+position:  2897
+target 5' G    U U               U 3'
+           CAAC A ACGUCUUGUUCUCGA 
+           GUUG U UGUAGAGCAGGGGUU 
+miRNA  3'      U U                 5'
+
+
+target: AT1G62460.1
+length: 4402
+miRNA: ath-miR447b
+length: 22
+
+mfe: -27.2 kcal/mol
+p-value: 0.039858
+
+position:  2897
+target 5' G    U U               U 3'
+           CAAC A ACGUCUUGUUCUCGA 
+           GUUG U UGUAGAGCAGGGGUU 
+miRNA  3'      U U                 5'
+
+
+target: AT1G62460.1
+length: 4402
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -22.5 kcal/mol
+p-value: 0.173514
+
+position:  953
+target 5' A      C              A 3'
+           UGAAAC GGCAAGGAA UGGU 
+           ACUUUG UUGUUCUUU ACUA 
+miRNA  3'        C         G      5'
+
+

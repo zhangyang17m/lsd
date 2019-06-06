@@ -1,0 +1,45 @@
+target: AT5G42900.1
+length: 1053
+miRNA: ath-miR5021
+length: 20
+
+mfe: -28.9 kcal/mol
+p-value: 0.000050
+
+position: 37
+target 5' A               C    U  3'
+           UUUUCUUCUUCUUCU UCUC    
+           AAAAGAAGAAGAAGA AGAG    
+miRNA  3'                      U  5'
+
+
+target: AT5G42900.2
+length: 1066
+miRNA: ath-miR5021
+length: 20
+
+mfe: -28.9 kcal/mol
+p-value: 0.000051
+
+position: 37
+target 5' A               C    U  3'
+           UUUUCUUCUUCUUCU UCUC    
+           AAAAGAAGAAGAAGA AGAG    
+miRNA  3'                      U  5'
+
+
+target: AT5G42900.3
+length: 1067
+miRNA: ath-miR5021
+length: 20
+
+mfe: -28.9 kcal/mol
+p-value: 0.000051
+
+position: 37
+target 5' A               C    U  3'
+           UUUUCUUCUUCUUCU UCUC    
+           AAAAGAAGAAGAAGA AGAG    
+miRNA  3'                      U  5'
+
+

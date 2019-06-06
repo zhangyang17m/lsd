@@ -1,0 +1,15 @@
+target: LOC_Os10g21300
+length: 651
+miRNA: osa-miR1857-5p
+length: 21
+
+mfe: -24.8 kcal/mol
+p-value: 0.018537
+
+position:  7
+target 5' A  G            U   U 3'
+           UU GUGUUCCAAAAG ACC 
+           GA UACGAGGUUUUU UGG 
+miRNA  3' G  G            U   U 5'
+
+

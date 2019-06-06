@@ -1,0 +1,45 @@
+target: U68218.1
+length: 1632
+miRNA: bna-miR395a
+length: 21
+
+mfe: -34.4 kcal/mol
+p-value: 0.000678
+
+position: 315
+target 5' C              U     U  3'
+           GAGUUCCUCCAAAC CUUCA    
+           CUCAAGGGGGUUUG GAAGU    
+miRNA  3'                U     C  5'
+
+
+target: U68218.1
+length: 1632
+miRNA: bna-miR395b
+length: 21
+
+mfe: -34.4 kcal/mol
+p-value: 0.001246
+
+position: 315
+target 5' C              U     U  3'
+           GAGUUCCUCCAAAC CUUCA    
+           CUCAAGGGGGUUUG GAAGU    
+miRNA  3'                U     C  5'
+
+
+target: U68218.1
+length: 1632
+miRNA: bna-miR395c
+length: 21
+
+mfe: -34.4 kcal/mol
+p-value: 0.000534
+
+position: 315
+target 5' C              U     U  3'
+           GAGUUCCUCCAAAC CUUCA    
+           CUCAAGGGGGUUUG GAAGU    
+miRNA  3'                U     C  5'
+
+

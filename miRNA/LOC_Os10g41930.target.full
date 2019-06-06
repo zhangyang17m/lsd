@@ -1,0 +1,15 @@
+target: LOC_Os10g41930
+length: 1452
+miRNA: osa-miR1429-3p
+length: 21
+
+mfe: -24.4 kcal/mol
+p-value: 0.108650
+
+position:  609
+target 5' A   C    U           A 3'
+           GGC UGCA GAUCUGUGCAG 
+           UUG AUGU UUGGGCACGUU 
+miRNA  3' G   U                G 5'
+
+

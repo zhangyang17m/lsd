@@ -1,0 +1,15 @@
+target: LOC_Os11g43900
+length: 979
+miRNA: osa-miR414
+length: 21
+
+mfe: -33.1 kcal/mol
+p-value: 0.000166
+
+position:  278
+target 5' U                    U 3'
+           GG UGGUGAUGAUGAGGGUG 
+           CC GCUACUACUACUCCUAC 
+miRNA  3'    U                 U 5'
+
+

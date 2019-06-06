@@ -1,0 +1,225 @@
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399a
+length: 21
+
+mfe: -36.9 kcal/mol
+p-value: 0.000646
+
+position:  942
+target 5' G   A                 U 3'
+           UAG GCAAAUCUCCUUUGGCA 
+           GUC CGUUUAGAGGAAACCGU 
+miRNA  3'     C                   5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399a
+length: 21
+
+mfe: -41.0 kcal/mol
+p-value: 0.000130
+
+position:  739
+target 5' C       U             A 3'
+           UAGGGCA AUCUCCUUUGGCA 
+           GUCCCGU UAGAGGAAACCGU 
+miRNA  3'         U               5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399a
+length: 21
+
+mfe: -41.2 kcal/mol
+p-value: 0.000120
+
+position:  606
+target 5' U                     A 3'
+           UAGGGCAAAUCUUCUUUGGCA 
+           GUCCCGUUUAGAGGAAACCGU 
+miRNA  3'                         5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399b
+length: 21
+
+mfe: -33.2 kcal/mol
+p-value: 0.003631
+
+position:  942
+target 5' G   A    A            U 3'
+           UAG GCAA UCUCCUUUGGCA 
+           GUC CGUU AGAGGAAACCGU 
+miRNA  3'     C    G              5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399b
+length: 21
+
+mfe: -35.5 kcal/mol
+p-value: 0.001309
+
+position:  739
+target 5' C         A            A 3'
+           UAGGGC AU UCUCCUUUGGCA 
+           GUCCCG UG AGAGGAAACCGU 
+miRNA  3'        U                 5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399b
+length: 21
+
+mfe: -37.5 kcal/mol
+p-value: 0.000539
+
+position:  606
+target 5' U        A            A 3'
+           UAGGGCAA UCUUCUUUGGCA 
+           GUCCCGUU AGAGGAAACCGU 
+miRNA  3'          G              5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399c
+length: 21
+
+mfe: -33.2 kcal/mol
+p-value: 0.005072
+
+position:  942
+target 5' G   A    A            U 3'
+           UAG GCAA UCUCCUUUGGCA 
+           GUC CGUU AGAGGAAACCGU 
+miRNA  3'     C    G              5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399c
+length: 21
+
+mfe: -35.5 kcal/mol
+p-value: 0.002108
+
+position:  739
+target 5' C         A            A 3'
+           UAGGGC AU UCUCCUUUGGCA 
+           GUCCCG UG AGAGGAAACCGU 
+miRNA  3'        U                 5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399c
+length: 21
+
+mfe: -37.5 kcal/mol
+p-value: 0.000981
+
+position:  606
+target 5' U        A            A 3'
+           UAGGGCAA UCUUCUUUGGCA 
+           GUCCCGUU AGAGGAAACCGU 
+miRNA  3'          G              5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399e
+length: 21
+
+mfe: -36.7 kcal/mol
+p-value: 0.000283
+
+position:  940
+target 5' U  U  A                 U 3'
+           CG AG GCAAAUCUCCUUUGGCA 
+           GC UC CGUUUAGAGGAAACCGU 
+miRNA  3'                           5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399e
+length: 21
+
+mfe: -37.2 kcal/mol
+p-value: 0.000223
+
+position:  886
+target 5' U                     U 3'
+           CGA GCAAAUCUCCUUUGGCA 
+           GCU CGUUUAGAGGAAACCGU 
+miRNA  3'     C                   5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399f
+length: 21
+
+mfe: -37.7 kcal/mol
+p-value: 0.000555
+
+position:  885
+target 5' U   A                 U 3'
+           UCG GCAAAUCUCCUUUGGCA 
+           GGC CGUUUAGAGGAAACCGU 
+miRNA  3'     C                   5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR399f
+length: 21
+
+mfe: -43.0 kcal/mol
+p-value: 0.000067
+
+position:  829
+target 5' U                    U 3'
+           UGGGCAAAUCUCCUUUGGCA 
+           GCCCGUUUAGAGGAAACCGU 
+miRNA  3' G                      5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -23.2 kcal/mol
+p-value: 0.123273
+
+position:  2991
+target 5' A     U       C     A 3'
+           GGAAU AACAAGA ACUGG 
+           CUUUG UUGUUCU UGACU 
+miRNA  3' A     C       U     A 5'
+
+
+target: AT2G33770.1
+length: 4103
+miRNA: ath-miR837-5p
+length: 21
+
+mfe: -24.9 kcal/mol
+p-value: 0.060172
+
+position:  329
+target 5' A     A             G 3'
+           GGAAU GGCGAGAAAUUGA 
+           CUUUG UUGUUCUUUGACU 
+miRNA  3' A     C             A 5'
+
+

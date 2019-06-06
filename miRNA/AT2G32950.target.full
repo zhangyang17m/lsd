@@ -1,0 +1,15 @@
+target: AT2G32950.1
+length: 2346
+miRNA: ath-miR869.2
+length: 21
+
+mfe: -32.6 kcal/mol
+p-value: 0.001439
+
+position: 927
+target 5' A                G     A  3'
+           GUCAACUGUCUCAAUG CUAGA    
+           CAGUUGAUAGAGUUGU GGUCU    
+miRNA  3'                           5'
+
+

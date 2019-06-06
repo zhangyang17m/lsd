@@ -1,0 +1,30 @@
+target: AT3G51960.1
+length: 993
+miRNA: ath-miR1888
+length: 21
+
+mfe: -20.2 kcal/mol
+p-value: 0.032424
+
+position:  151
+target 5' U       G         G  U 3'
+           UUCUUUG AGAUCUUGA UU 
+           AAGAAGU UUUAGAAUU AA 
+miRNA  3'         G         G  U 5'
+
+
+target: AT3G51960.2
+length: 996
+miRNA: ath-miR1888
+length: 21
+
+mfe: -20.2 kcal/mol
+p-value: 0.032557
+
+position:  151
+target 5' U       G         G  U 3'
+           UUCUUUG AGAUCUUGA UU 
+           AAGAAGU UUUAGAAUU AA 
+miRNA  3'         G         G  U 5'
+
+

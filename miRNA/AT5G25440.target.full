@@ -1,0 +1,15 @@
+target: AT5G25440.1
+length: 1177
+miRNA: ath-miR868-5p
+length: 21
+
+mfe: -30.6 kcal/mol
+p-value: 0.000326
+
+position: 344
+target 5' U               U     U  3'
+           UGGCUACUGUUAUGA CGUGA    
+           ACUGAUGAUAAUGCU GUACU    
+miRNA  3' C                        5'
+
+

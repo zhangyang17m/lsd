@@ -1,0 +1,15 @@
+target: AT2G19690.1
+length: 744
+miRNA: ath-miR845a
+length: 21
+
+mfe: -24.5 kcal/mol
+p-value: 0.004851
+
+position:  585
+target 5' G     C            A  A 3'
+           CAUCA AUUGGUGUUGGA CU 
+           GUAGU UAACCAUAGUCU GG 
+miRNA  3'                    C  C 5'
+
+

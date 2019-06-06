@@ -1,0 +1,150 @@
+target: AT2G37760.1
+length: 1247
+miRNA: ath-miR390a
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.005438
+
+position:  13
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.1
+length: 1247
+miRNA: ath-miR390b
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.006293
+
+position:  13
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.2
+length: 1179
+miRNA: ath-miR390a
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.005020
+
+position:  21
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.2
+length: 1179
+miRNA: ath-miR390b
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.005834
+
+position:  21
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.3
+length: 1126
+miRNA: ath-miR390a
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.004699
+
+position:  21
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.3
+length: 1126
+miRNA: ath-miR390b
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.005479
+
+position:  21
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.4
+length: 1255
+miRNA: ath-miR390a
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.005487
+
+position:  21
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.4
+length: 1255
+miRNA: ath-miR390b
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.006348
+
+position:  21
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.5
+length: 1251
+miRNA: ath-miR390a
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.005462
+
+position:  13
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+
+target: AT2G37760.5
+length: 1251
+miRNA: ath-miR390b
+length: 21
+
+mfe: -31.1 kcal/mol
+p-value: 0.006320
+
+position:  13
+target 5' A                   A 3'
+           GUGCUAUUUCUCC GAGUU 
+           CGCGAUAGGGAGG CUCGA 
+miRNA  3' C             A     A 5'
+
+

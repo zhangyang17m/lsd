@@ -1,0 +1,15 @@
+target: AT4G37750.1
+length: 2148
+miRNA: ath-miR2938
+length: 21
+
+mfe: -26.5 kcal/mol
+p-value: 0.031283
+
+position:  557
+target 5' A     G        C     U 3'
+           UGGAA C UCUCAA AGAUC 
+           ACCUU G AGAGUU UCUAG 
+miRNA  3' G     G G      U       5'
+
+

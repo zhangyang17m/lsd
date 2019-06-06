@@ -1,0 +1,15 @@
+target: AT4G00270.1
+length: 1342
+miRNA: ath-miR414
+length: 21
+
+mfe: -29.8 kcal/mol
+p-value: 0.001078
+
+position: 781
+target 5' G   A          U     G  3'
+           GAC AUGAUGAUGA GAUGA    
+           CUG UACUACUACU CUACU    
+miRNA  3' A   C          U        5'
+
+
